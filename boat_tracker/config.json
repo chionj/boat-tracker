@@ -1,0 +1,13 @@
+{
+  "search_name": "San Diego ocean fishing boats",
+  "craigslist_regions": ["sandiego"],
+  "craigslist_url": "https://sandiego.craigslist.org/search/boo?min_price=3000&max_price=60000",
+  "boattrader_url": "https://www.boattrader.com/boats-for-sale/condition-used/type-power/class-power-saltfish/length-20,30/price-0,60000/zip-92101/radius-200/",
+  "boatmart_url": "https://www.boatmart.com/boats-for-sale/?length_min=20&length_max=30&price_max=60000&location=San+Diego%2C+CA",
+  "min_length_ft": 20,
+  "max_length_ft": 30,
+  "max_price": 60000,
+  "purpose": "ocean fishing",
+  "area": "Southern California (San Diego / OC / LA / Inland Empire)",
+  "stale_days": 14
+}
