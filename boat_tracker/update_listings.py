@@ -223,6 +223,8 @@ def render_dashboard(listings, config, today):
     data = {
         "updated": datetime.now().strftime("%B %d, %Y %I:%M %p"),
         "config": config,
+        "favorites": load_json(HERE / "favorites.json",
+                               {"J": [], "P": [], "R": []}),
         "listings": enriched,
     }
     html = TEMPLATE.replace("__DATA__", json.dumps(data))
@@ -306,6 +308,17 @@ TEMPLATE = r"""<!DOCTYPE html>
   #tip img{width:246px;height:auto;border-radius:6px;display:block;margin-bottom:6px}
   #tip .t{font-size:12px;color:var(--text);line-height:1.35}
   #tip .d{font-size:11px;color:var(--dim);margin-top:2px}
+  .pbtn{border-radius:20px;padding:6px 13px;font-size:13px;cursor:pointer;font-weight:700;
+        background:var(--panel);border:2px solid var(--line);color:var(--dim)}
+  .pbtn[data-p="J"].on{background:#ffb54d;border-color:#ffb54d;color:#06121f}
+  .pbtn[data-p="P"].on{background:#ff6bcb;border-color:#ff6bcb;color:#06121f}
+  .pbtn[data-p="R"].on{background:#35e0c3;border-color:#35e0c3;color:#06121f}
+  .favc{text-align:center}
+  .favc input{width:15px;height:15px;cursor:pointer}
+  input[data-fav="J"]{accent-color:#ffb54d}
+  input[data-fav="P"]{accent-color:#ff6bcb}
+  input[data-fav="R"]{accent-color:#35e0c3}
+  .ring{fill:none;stroke-width:2.2;pointer-events:none}
   @media(max-width:800px){.hide-sm{display:none}}
 </style>
 </head>
@@ -320,13 +333,23 @@ TEMPLATE = r"""<!DOCTYPE html>
   <button class="fbtn" data-f="drop">Price drops</button>
   <button class="fbtn" data-f="deal">Good deals</button>
   <button class="fbtn" data-f="gone">Gone / sold?</button>
+  <span class="dim" style="margin-left:8px">Listed:</span>
+  <button class="fbtn on" data-r="all">All time</button>
+  <button class="fbtn" data-r="61">Last 2 months</button>
+  <button class="fbtn" data-r="31">Last month</button>
+  <button class="fbtn" data-r="7">This week</button>
+  <span class="dim" style="margin-left:8px">Favorites:</span>
+  <button class="pbtn on" data-p="J" title="Show J's favorites on the charts">J</button>
+  <button class="pbtn on" data-p="P" title="Show P's favorites on the charts">P</button>
+  <button class="pbtn on" data-p="R" title="Show R's favorites on the charts">R</button>
+  <button class="fbtn" id="expfav" title="Download favorites.json - drop it into the boat_tracker folder to publish these picks to the website">&#11123; Save favorites</button>
 </div>
 <div class="charts">
   <div class="chart"><h3>Price vs Year</h3><div id="c1"></div></div>
   <div class="chart"><h3>Price vs Length</h3><div id="c2"></div></div>
   <div class="chart"><h3>Year vs Length &middot; bubble size = price</h3><div id="c3"></div></div>
 </div>
-<div class="hint">Click any boat row or chart dot to highlight that boat across all charts; click again to clear. Green dots = new boats from the latest scan. Gray dots = gone/sold listings (kept as market history).</div>
+<div class="hint">Charts show whatever the filters, search box, and Listed time range select (time range is based on when a boat was first seen by the tracker). Click a boat row or dot to highlight it; click again to clear. Green dots = new this scan; gray = gone/sold (shown in the All view as market history). Check the J / P / R boxes to mark favorites &mdash; colored rings appear around that boat on the charts, and the J / P / R buttons toggle each person&rsquo;s rings on or off. Favorites save in this browser; click &ldquo;Save favorites&rdquo; and drop the downloaded file into boat_tracker/ to publish picks to the website.</div>
 <table>
   <thead><tr>
     <th data-k="title">Boat</th>
@@ -340,6 +363,9 @@ TEMPLATE = r"""<!DOCTYPE html>
     <th data-k="location" class="hide-sm">Location</th>
     <th data-k="first_seen" class="hide-sm">First seen</th>
     <th data-k="status">Status</th>
+    <th data-k="J" title="J's favorite">J</th>
+    <th data-k="P" title="P's favorite">P</th>
+    <th data-k="R" title="R's favorite">R</th>
   </tr></thead>
   <tbody id="rows"></tbody>
 </table>
@@ -358,6 +384,15 @@ document.getElementById('sub').textContent =
 
 let filter='all', query='', sortK='first_seen', sortDir=-1;
 let selectedId=null;
+const PLIST=['J','P','R'], PCOL={J:'#ffb54d',P:'#ff6bcb',R:'#35e0c3'};
+let showP={J:true,P:true,R:true};
+let favs=null;
+try{favs=JSON.parse(localStorage.getItem('boatFavs'))}catch(e){}
+if(!favs)favs=DATA.favorites||{};
+favs={J:new Set(favs.J||[]),P:new Set(favs.P||[]),R:new Set(favs.R||[])};
+function saveFavs(){
+  try{localStorage.setItem('boatFavs',JSON.stringify({J:[...favs.J],P:[...favs.P],R:[...favs.R]}))}catch(e){}
+}
 
 function cards(){
   const act = L.filter(l=>l.status!=='gone');
@@ -387,21 +422,32 @@ function spark(ph){
     <polyline points="${pts}" fill="none" stroke="${col}" stroke-width="2"/></svg>`;
 }
 
-function render(){
-  cards();
-  charts();
-  let rows = L.filter(l=>{
+function matchQ(l){
+  if(!query) return true;
+  return (l.title+' '+l.location+' '+l.source).toLowerCase().includes(query);
+}
+let range='all';
+function matchR(l){
+  if(range==='all') return true;
+  const cut=new Date(Date.now()-(+range)*86400000).toISOString().slice(0,10);
+  return l.first_seen>=cut;
+}
+function visibleRows(){
+  return L.filter(l=>{
     if(filter==='new' && l.status!=='new') return false;
     if(filter==='drop' && l.change>=0) return false;
     if(filter==='deal' && !(l.value_pct!=null && l.value_pct<=-15)) return false;
     if(filter==='gone' && l.status!=='gone') return false;
     if(filter==='all' && l.status==='gone') return false;
-    if(query){
-      const s=(l.title+' '+l.location+' '+l.source).toLowerCase();
-      if(!s.includes(query)) return false;
-    }
-    return true;
+    if(!matchR(l)) return false;
+    return matchQ(l);
   });
+}
+function render(){
+  L.forEach(l=>{l.J=favs.J.has(l.id)?1:0;l.P=favs.P.has(l.id)?1:0;l.R=favs.R.has(l.id)?1:0;});
+  cards();
+  charts();
+  let rows = visibleRows();
   rows.sort((a,b)=>{
     let x=a[sortK], y=b[sortK];
     if(x==null) return 1; if(y==null) return -1;
@@ -423,8 +469,11 @@ function render(){
       <td class="hide-sm">${esc(l.location)}</td>
       <td class="dim hide-sm">${l.first_seen}</td>
       <td><span class="badge b-${l.status}">${l.status==='gone'?'gone/sold?':l.status}</span></td>
+      <td class="favc"><input type="checkbox" data-fav="J" data-id="${l.id}" ${l.J?'checked':''}></td>
+      <td class="favc"><input type="checkbox" data-fav="P" data-id="${l.id}" ${l.P?'checked':''}></td>
+      <td class="favc"><input type="checkbox" data-fav="R" data-id="${l.id}" ${l.R?'checked':''}></td>
     </tr>`;
-  }).join('') || '<tr><td colspan="11" class="dim" style="text-align:center;padding:30px">No listings match</td></tr>';
+  }).join('') || '<tr><td colspan="14" class="dim" style="text-align:center;padding:30px">No listings match</td></tr>';
 }
 function esc(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;')}
 
@@ -440,9 +489,13 @@ function valBadge(l){
   return `<span class="badge b-active" title="${tip}">fair</span>`;
 }
 
-document.querySelectorAll('.fbtn').forEach(b=>b.onclick=()=>{
-  document.querySelectorAll('.fbtn').forEach(x=>x.classList.remove('on'));
+document.querySelectorAll('.fbtn[data-f]').forEach(b=>b.onclick=()=>{
+  document.querySelectorAll('.fbtn[data-f]').forEach(x=>x.classList.remove('on'));
   b.classList.add('on'); filter=b.dataset.f; render();
+});
+document.querySelectorAll('.fbtn[data-r]').forEach(b=>b.onclick=()=>{
+  document.querySelectorAll('.fbtn[data-r]').forEach(x=>x.classList.remove('on'));
+  b.classList.add('on'); range=b.dataset.r; render();
 });
 document.getElementById('q').oninput=e=>{query=e.target.value.toLowerCase();render();};
 document.querySelectorAll('th[data-k]').forEach(th=>th.onclick=()=>{
@@ -479,18 +532,31 @@ function drawScatter(el,pts,xk,yk,opt){
   const ordered=pts.slice().sort((a,b)=>rank(a)-rank(b));
   for(const p of ordered){
     const sel=p.id===selectedId, gn=p.status==='gone', nw=p.status==='new';
-    s+=`<circle class="pt${sel?' sel':(gn?' gn':(nw?' nw':''))}" data-id="${p.id}" cx="${px(p[xk]).toFixed(1)}" cy="${py(p[yk]).toFixed(1)}" r="${(sel?rOf(p)+2:rOf(p)).toFixed(1)}"></circle>`;
+    const base=sel?rOf(p)+2:rOf(p);
+    s+=`<circle class="pt${sel?' sel':(gn?' gn':(nw?' nw':''))}" data-id="${p.id}" cx="${px(p[xk]).toFixed(1)}" cy="${py(p[yk]).toFixed(1)}" r="${base.toFixed(1)}"></circle>`;
+    PLIST.filter(q=>showP[q]&&favs[q].has(p.id)).forEach((q,i)=>{
+      s+=`<circle class="ring" cx="${px(p[xk]).toFixed(1)}" cy="${py(p[yk]).toFixed(1)}" r="${(base+2.5+i*3).toFixed(1)}" stroke="${PCOL[q]}"/>`;
+    });
   }
   box.innerHTML=`<svg viewBox="0 0 ${W} ${H}">${s}</svg>`;
 }
 function charts(){
-  drawScatter('c1',L.filter(l=>l.year),'year','price',{yFmt:fmtP});
-  drawScatter('c2',L.filter(l=>l.length_ft),'length_ft','price',{yFmt:fmtP,xFmt:v=>Math.round(v)+"'"});
-  drawScatter('c3',L.filter(l=>l.year&&l.length_ft),'year','length_ft',{sizeKey:'price',yFmt:v=>Math.round(v)+"'"});
+  let pts=visibleRows();
+  if(filter==='all') pts=pts.concat(L.filter(l=>l.status==='gone'&&matchQ(l)&&matchR(l)));
+  drawScatter('c1',pts.filter(l=>l.year),'year','price',{yFmt:fmtP});
+  drawScatter('c2',pts.filter(l=>l.length_ft),'length_ft','price',{yFmt:fmtP,xFmt:v=>Math.round(v)+"'"});
+  drawScatter('c3',pts.filter(l=>l.year&&l.length_ft),'year','length_ft',{sizeKey:'price',yFmt:v=>Math.round(v)+"'"});
 }
 function toggleSel(id){selectedId = selectedId===id? null : id; render();}
+document.getElementById('rows').addEventListener('change',e=>{
+  const cb=e.target.closest('input[data-fav]');
+  if(!cb)return;
+  const p=cb.dataset.fav;
+  if(cb.checked)favs[p].add(cb.dataset.id);else favs[p].delete(cb.dataset.id);
+  saveFavs();render();
+});
 document.getElementById('rows').addEventListener('click',e=>{
-  if(e.target.closest('a'))return;
+  if(e.target.closest('a')||e.target.closest('input'))return;
   const tr=e.target.closest('tr[data-id]');
   if(tr) toggleSel(tr.dataset.id);
 });
@@ -523,6 +589,20 @@ document.querySelector('.charts').addEventListener('mousemove',e=>{
   if(tipEl.style.display==='block')moveTip(e);
 });
 document.querySelector('.charts').addEventListener('mouseleave',()=>{tipEl.style.display='none'});
+document.querySelectorAll('.pbtn').forEach(b=>b.onclick=()=>{
+  showP[b.dataset.p]=!showP[b.dataset.p];
+  b.classList.toggle('on');
+  render();
+});
+const expBtn=document.getElementById('expfav');
+if(expBtn)expBtn.onclick=()=>{
+  const blob=new Blob([JSON.stringify({J:[...favs.J],P:[...favs.P],R:[...favs.R]},null,1)],{type:'application/json'});
+  const a=document.createElement('a');
+  a.href=URL.createObjectURL(blob);
+  a.download='favorites.json';
+  a.click();
+  URL.revokeObjectURL(a.href);
+};
 render();
 </script>
 </body>
