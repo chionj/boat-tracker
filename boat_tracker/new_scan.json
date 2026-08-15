@@ -1,43 +1,43 @@
 [
  {
-  "id": "cl-7935458497",
+  "id": "cl-7937269874",
   "source": "craigslist",
-  "title": "Grady White Flybridge Atlantic 260",
-  "price": 21500,
-  "location": "San Diego",
-  "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-grady-white-flybridge/7935458497.html",
-  "length_ft": 26,
-  "year": 1992
+  "title": "2002 Striper Fishing boat",
+  "price": 48000,
+  "location": "Marina Del Rey",
+  "url": "https://sandiego.craigslist.org/ssd/boa/d/marina-del-rey-2002-striper-fishing-boat/7937269874.html",
+  "length_ft": null,
+  "year": 2002
  },
  {
   "id": "cl-7939659710",
   "source": "craigslist",
   "title": "1998 Bayliner Trophy 26ft",
-  "price": 12500,
+  "price": 14500,
   "location": "San Diego (Alpine)",
   "url": "https://sandiego.craigslist.org/csd/boa/d/alpine-1998-bayliner-trophy-26ft/7939659710.html",
-  "length_ft": 26,
+  "length_ft": 26.0,
   "year": 1998
  },
  {
-  "id": "cl-7938532151",
+  "id": "cl-7919105569",
   "source": "craigslist",
-  "title": "2006 Trophy Diesel Hardtop",
-  "price": 38000,
-  "location": "Carlsbad",
-  "url": "https://sandiego.craigslist.org/nsd/boa/d/carlsbad-2006-trophy-hardtop-diesel/7938532151.html",
-  "length_ft": null,
-  "year": 2006
+  "title": "1996 Bayliner Trophy 2352",
+  "price": 29950,
+  "location": "Oceanside",
+  "url": "https://sandiego.craigslist.org/nsd/boa/d/oceanside-1996-bayliner-trophy-2352/7919105569.html",
+  "length_ft": 23.5,
+  "year": 1996
  },
  {
-  "id": "cl-7941783968",
+  "id": "cl-7938447370",
   "source": "craigslist",
-  "title": "23' Cobia walkaround with 200hp Yamaha, Aluminim trailer, Garmin",
-  "price": 24500,
-  "location": "Clairemont",
-  "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-23-cobia-walkaround-with/7941783968.html",
-  "length_ft": 23,
-  "year": 1999
+  "title": "2001 Seaswirl Striper 2301",
+  "price": 15900,
+  "location": "Jamul (East SD)",
+  "url": "https://sandiego.craigslist.org/esd/boa/d/jamul-2001-seaswirl-striper-2301/7938447370.html",
+  "length_ft": 23.0,
+  "year": 2001
  },
  {
   "id": "cl-7913591428",
@@ -50,44 +50,44 @@
   "year": null
  },
  {
-  "id": "cl-7920668174",
+  "id": "cl-7939512761",
   "source": "craigslist",
-  "title": "Farallon 27 Whaleback Project",
-  "price": 40000,
+  "title": "1998 21' Boston Whaler Conquest",
+  "price": 45000,
   "location": "San Diego",
-  "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-farallon-27-whaleback-project/7920668174.html",
-  "length_ft": 27,
-  "year": null
+  "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-boston-whaler-conquest/7939512761.html",
+  "length_ft": 21.0,
+  "year": 1998
  },
  {
-  "id": "cl-7919105569",
+  "id": "cl-7938768022",
   "source": "craigslist",
-  "title": "1996 Bayliner Trophy 2352",
-  "price": 26500,
-  "location": "Oceanside",
-  "url": "https://sandiego.craigslist.org/nsd/boa/d/oceanside-1996-bayliner-trophy-2352/7919105569.html",
-  "length_ft": 23.5,
-  "year": 1996
+  "title": "2001 Boston Whaler 21 Ventura w/Mercury 200hp Optimax & Trailer",
+  "price": 24900,
+  "location": "San Diego",
+  "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-2001-boston-whaler-21-ventura/7938768022.html",
+  "length_ft": 21.0,
+  "year": 2001
  },
  {
-  "id": "cl-7952671721",
+  "id": "cl-7939410515",
   "source": "craigslist",
-  "title": "1979 Mako 21B, Center Console Fishing Boat",
-  "price": 13500,
-  "location": "Lemon grove",
-  "url": "https://sandiego.craigslist.org/esd/boa/d/spring-valley-1979-mako-21b-center/7952671721.html",
-  "length_ft": 21,
-  "year": 1979
+  "title": "2006 Sea Hunt Escape 220 Dual Console Four Stroke",
+  "price": 29500,
+  "location": "Vista",
+  "url": "https://sandiego.craigslist.org/nsd/boa/d/vista-2006-sea-hunt-escape-220-dual/7939410515.html",
+  "length_ft": 22.0,
+  "year": 2006
  },
  {
-  "id": "cl-7941390694",
+  "id": "cl-7939245604",
   "source": "craigslist",
-  "title": "2021 KenCraft Center Console",
-  "price": 54900,
-  "location": "Corona",
-  "url": "https://sandiego.craigslist.org/csd/boa/d/corona-2021-kencraft-center-console/7941390694.html",
-  "length_ft": 21,
-  "year": 2021
+  "title": "2003 Seaswirl Striper 2601",
+  "price": 33000,
+  "location": "Oceanside (Carlsbad)",
+  "url": "https://sandiego.craigslist.org/nsd/boa/d/carlsbad-2003-seaswirl-striper-2601/7939245604.html",
+  "length_ft": 26.0,
+  "year": 2003
  },
  {
   "id": "cl-7923943547",
@@ -96,37 +96,37 @@
   "price": 13000,
   "location": "Newport Beach",
   "url": "https://sandiego.craigslist.org/ssd/boa/d/newport-beach-1991-mako-286-side/7923943547.html",
-  "length_ft": 28.6,
+  "length_ft": 28.5,
   "year": 1991
  },
  {
-  "id": "cl-7938447370",
+  "id": "cl-7938732830",
   "source": "craigslist",
-  "title": "2001 Seaswirl Striper 2301",
-  "price": 15900,
-  "location": "Jamul (East SD)",
-  "url": "https://sandiego.craigslist.org/esd/boa/d/jamul-2001-seaswirl-striper-2301/7938447370.html",
-  "length_ft": 23,
-  "year": 2001
+  "title": "Nautic Star Angler 211",
+  "price": 32000,
+  "location": "San Diego",
+  "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-nautic-star-angler-211/7938732830.html",
+  "length_ft": 21.0,
+  "year": null
  },
  {
-  "id": "cl-7938446836",
+  "id": "cl-7938532151",
   "source": "craigslist",
-  "title": "2001 Seaswirl Striper 2301",
-  "price": 15900,
-  "location": "east san diego county",
-  "url": "https://sandiego.craigslist.org/esd/boa/d/jamul-2001-seaswirl-striper-2301/7938446836.html",
-  "length_ft": 23,
-  "year": 2001
+  "title": "2006 Trophy Hardtop Diesel",
+  "price": 35000,
+  "location": "Carlsbad",
+  "url": "https://sandiego.craigslist.org/nsd/boa/d/carlsbad-2006-trophy-hardtop-diesel/7938532151.html",
+  "length_ft": null,
+  "year": 2006
  },
  {
-  "id": "cl-7915796499",
+  "id": "cl-7932088532",
   "source": "craigslist",
-  "title": "Seaswirl striper 2150 (2 hrs on motor)",
-  "price": 6500,
-  "location": "Lemon Grove",
-  "url": "https://sandiego.craigslist.org/esd/boa/d/lemon-grove-seaswirl-striper-hrs-on/7915796499.html",
-  "length_ft": 21.5,
+  "title": "Rare Find! diesel 24' Skipjack Flybridge",
+  "price": 17500,
+  "location": "San Diego",
+  "url": "https://sandiego.craigslist.org/ssd/boa/d/san-diego-rare-find-diesel-24-skipjack/7932088532.html",
+  "length_ft": 24.0,
   "year": null
  },
  {
@@ -140,114 +140,34 @@
   "year": null
  },
  {
+  "id": "cl-7915796499",
+  "source": "craigslist",
+  "title": "Seaswirl striper 2150 (2 hrs on motor)",
+  "price": 6500,
+  "location": "Lemon Grove",
+  "url": "https://sandiego.craigslist.org/esd/boa/d/lemon-grove-seaswirl-striper-hrs-on/7915796499.html",
+  "length_ft": 21.5,
+  "year": null
+ },
+ {
   "id": "cl-7915794915",
   "source": "craigslist",
   "title": "30 ft boat sportfisher no trailer included",
   "price": 5500,
   "location": "Lemon Grove",
   "url": "https://sandiego.craigslist.org/esd/boa/d/lemon-grove-30-ft-boat-sportfisher-no/7915794915.html",
-  "length_ft": 30,
+  "length_ft": 30.0,
   "year": null
  },
  {
-  "id": "cl-7939512761",
+  "id": "cl-7937993268",
   "source": "craigslist",
-  "title": "1998 21' Boston Whaler Conquest",
-  "price": 45000,
-  "location": "San Diego",
-  "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-boston-whaler-conquest/7939512761.html",
-  "length_ft": 21,
-  "year": 1998
- },
- {
-  "id": "cl-7945599892",
-  "source": "craigslist",
-  "title": "2002 Center Console,EXCELLENT COND.turn Key",
-  "price": 17000,
-  "location": "Vista",
-  "url": "https://sandiego.craigslist.org/nsd/boa/d/vista-2002-center-consoleexcellent/7945599892.html",
-  "length_ft": 20,
-  "year": 2002
- },
- {
-  "id": "cl-7950348672",
-  "source": "craigslist",
-  "title": "2001 Grady White 23' Walkaround w/Twin Yamaha 4-Strokes",
-  "price": 39900,
-  "location": "Sea Witch Marine (Vista)",
-  "url": "https://sandiego.craigslist.org/nsd/bod/d/vista-2001-grady-white-23-walkaround/7950348672.html",
-  "length_ft": 23,
-  "year": 2004
- },
- {
-  "id": "cl-7941519770",
-  "source": "craigslist",
-  "title": "Proline 2610 WA",
-  "price": 32000,
-  "location": "point loma",
-  "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-proline-2610-wa/7941519770.html",
-  "length_ft": 30,
+  "title": "23' Sea Ox Walkaround Cuddy - Honda BF225 - Simrad",
+  "price": 17500,
+  "location": "Oceanside",
+  "url": "https://sandiego.craigslist.org/nsd/boa/d/oceanside-23-sea-ox-walkaround-cuddy/7937993268.html",
+  "length_ft": 23.0,
   "year": null
- },
- {
-  "id": "cl-7935450517",
-  "source": "craigslist",
-  "title": "2022 Avid 21' Welded Alum. CC Bay Boat, Yamaha 150hp",
-  "price": 44900,
-  "location": "Vista (Sea Witch Marine)",
-  "url": "https://sandiego.craigslist.org/nsd/bod/d/vista-2022-avid-21-welded-alum-cc-bay/7935450517.html",
-  "length_ft": 21,
-  "year": 2022
- },
- {
-  "id": "cl-7936951732",
-  "source": "craigslist",
-  "title": "2002 Stamas 250 Tarpon Runabout Sportfishing Boat",
-  "price": 36000,
-  "location": "San Bernardino",
-  "url": "https://sandiego.craigslist.org/ssd/boa/d/rialto-2002-stamas-250-tarpon-runabout/7936951732.html",
-  "length_ft": 25,
-  "year": 2002
- },
- {
-  "id": "cl-7919895761",
-  "source": "craigslist",
-  "title": "Sea Cat, Power Catamaran, 25ft, cuddy cabin",
-  "price": 49999,
-  "location": "Coronado",
-  "url": "https://sandiego.craigslist.org/ssd/boa/d/chula-vista-sea-cat-power-catamaran/7919895761.html",
-  "length_ft": 25,
-  "year": null
- },
- {
-  "id": "cl-7939245604",
-  "source": "craigslist",
-  "title": "2003 Seaswirl Striper 2601",
-  "price": 33000,
-  "location": "Carlsbad/Oceanside",
-  "url": "https://sandiego.craigslist.org/nsd/boa/d/carlsbad-2003-seaswirl-striper-2601/7939245604.html",
-  "length_ft": 26,
-  "year": 2003
- },
- {
-  "id": "cl-7933544197",
-  "source": "craigslist",
-  "title": "2000 Skipjack 262 Flybridge w/Yanmar 315hp diesel & Trailer",
-  "price": 59900,
-  "location": "San Diego",
-  "url": "https://sandiego.craigslist.org/csd/bod/d/san-diego-2000-skipjack-262-flybridge/7933544197.html",
-  "length_ft": 26.2,
-  "year": 2000
- },
- {
-  "id": "cl-7947992571",
-  "source": "craigslist",
-  "title": "*****2052 trophy ****",
-  "price": 20000,
-  "location": "north san diego county",
-  "url": "https://sandiego.craigslist.org/nsd/boa/d/san-marcos-2052-trophy/7947992571.html",
-  "length_ft": 21,
-  "year": 1999
  },
  {
   "id": "cl-7917355597",
@@ -260,124 +180,304 @@
   "year": null
  },
  {
-  "id": "cl-7948587277",
+  "id": "cl-7937611302",
   "source": "craigslist",
-  "title": "26' Shamrock diesel - full inboard",
-  "price": 35000,
-  "location": "San Diego",
-  "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-26-shamrock-diesel-full/7948587277.html",
-  "length_ft": 29,
-  "year": 1986
+  "title": "21ft Boston Outrage Center Console, Ready to Fish",
+  "price": 16000,
+  "location": "Oceanside",
+  "url": "https://sandiego.craigslist.org/nsd/boa/d/oceanside-21ft-boston-outrage-center/7937611302.html",
+  "length_ft": 21.0,
+  "year": 2006
  },
  {
-  "id": "cl-7937269874",
+  "id": "cl-7936710536",
   "source": "craigslist",
-  "title": "2002 Striper Fishing boat",
-  "price": 48000,
-  "location": "Marina Del Rey",
-  "url": "https://sandiego.craigslist.org/ssd/boa/d/marina-del-rey-2002-striper-fishing-boat/7937269874.html",
-  "length_ft": 20.0,
+  "title": "1976 Skipjack 24 Open \u2013 Hardtop + Tower \u2013 MerCruiser 5.7",
+  "price": 14500,
+  "location": "Point Loma",
+  "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-1976-skipjack-24-open-hardtop/7936710536.html",
+  "length_ft": 24.0,
+  "year": 1976
+ },
+ {
+  "id": "cl-7937552374",
+  "source": "craigslist",
+  "title": "1971 Skipjack 24ft flybridge",
+  "price": 11000,
+  "location": "San Diego",
+  "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-1971-skipjack-24ft-flybridge/7937552374.html",
+  "length_ft": 24.0,
+  "year": 1971
+ },
+ {
+  "id": "cl-7937373033",
+  "source": "craigslist",
+  "title": "Carolina Skiff Sea Chaser 2400 Offshore - Suzuki 250 HP",
+  "price": 17000,
+  "location": "San Diego",
+  "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-carolina-skiff-sea-chaser/7937373033.html",
+  "length_ft": 24.0,
+  "year": null
+ },
+ {
+  "id": "cl-7937288933",
+  "source": "craigslist",
+  "title": "2004 Bayliner 2352 Hardtop Walkaround",
+  "price": 11000,
+  "location": "San Diego",
+  "url": "https://sandiego.craigslist.org/csd/boa/d/oklahoma-city-2004-bayliner-2352/7937288933.html",
+  "length_ft": 23.5,
+  "year": 2004
+ },
+ {
+  "id": "cl-7937109931",
+  "source": "craigslist",
+  "title": "1999 Bayliner Trophy 22' Fishing Boat",
+  "price": 13950,
+  "location": "Fallbrook",
+  "url": "https://sandiego.craigslist.org/nsd/boa/d/fallbrook-1999-bayliner-trophy-22/7937109931.html",
+  "length_ft": 22.0,
+  "year": 1999
+ },
+ {
+  "id": "cl-7937054364",
+  "source": "craigslist",
+  "title": "24' Skipjack Open, 1982",
+  "price": 13500,
+  "location": "Costa Mesa",
+  "url": "https://sandiego.craigslist.org/nsd/boa/d/costa-mesa-24-skipjack-open-1982/7937054364.html",
+  "length_ft": 24.0,
+  "year": 1982
+ },
+ {
+  "id": "cl-7932293385",
+  "source": "craigslist",
+  "title": "2005 Seaswirl Striper 2101DC Anniversary edition",
+  "price": 18899,
+  "location": "Lemon Grove",
+  "url": "https://sandiego.craigslist.org/esd/boa/d/lemon-grove-2005-seaswirl-striper/7932293385.html",
+  "length_ft": 21.0,
+  "year": 2005
+ },
+ {
+  "id": "cl-7935040770",
+  "source": "craigslist",
+  "title": "2005 Seaswirl Striper 2101DC Anniversary edition",
+  "price": 18899,
+  "location": "Lemon Grove",
+  "url": "https://sandiego.craigslist.org/esd/boa/d/lemon-grove-2005-seaswirl-striper/7935040770.html",
+  "length_ft": 21.0,
+  "year": 2005
+ },
+ {
+  "id": "cl-7914162233",
+  "source": "craigslist",
+  "title": "2005 Seaswirl Striper 2101DC Anniversary edition",
+  "price": 18899,
+  "location": "Lemon Grove",
+  "url": "https://sandiego.craigslist.org/esd/boa/d/lemon-grove-2005-anniversary-edition/7914162233.html",
+  "length_ft": 21.0,
+  "year": 2005
+ },
+ {
+  "id": "cl-7936951732",
+  "source": "craigslist",
+  "title": "2002 Stamas 250 Tarpon Runabout Sportfishing Boat",
+  "price": 40000,
+  "location": "San Bernardino",
+  "url": "https://sandiego.craigslist.org/ssd/boa/d/rialto-2002-stamas-250-tarpon-runabout/7936951732.html",
+  "length_ft": 25.0,
   "year": 2002
  },
  {
-  "id": "cl-7940649484",
+  "id": "cl-7936827503",
   "source": "craigslist",
-  "title": "1985 BLACKMAN BILLFISHER VOLVO DIESEL FISHING BOAT LOW HOURS",
-  "price": 59000,
-  "location": "OCEANSIDE",
-  "url": "https://sandiego.craigslist.org/nsd/boa/d/oceanside-1985-blackman-billfisher/7940649484.html",
+  "title": "2005 Edgewater 245cc Center Console",
+  "price": 32000,
+  "location": "North SD County",
+  "url": "https://sandiego.craigslist.org/nsd/boa/d/san-diego-2005-edgewater-245cc-center/7936827503.html",
+  "length_ft": 24.5,
+  "year": 2005
+ },
+ {
+  "id": "cl-7936651829",
+  "source": "craigslist",
+  "title": "Offshore Ready: 2011 Trophy Walkaround",
+  "price": 18000,
+  "location": "Chula Vista",
+  "url": "https://sandiego.craigslist.org/ssd/boa/d/chula-vista-offshore-ready-2011-trophy/7936651829.html",
   "length_ft": null,
-  "year": 1985
+  "year": 2011
+ },
+ {
+  "id": "cl-7936187924",
+  "source": "craigslist",
+  "title": "2005 Parker 2310 Boat For Sale",
+  "price": 27500,
+  "location": "San Diego",
+  "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-2005-parker-2310-boat-for-sale/7936187924.html",
+  "length_ft": 23.0,
+  "year": 2005
+ },
+ {
+  "id": "cl-7914244706",
+  "source": "craigslist",
+  "title": "1979 28 Skipjack",
+  "price": 19000,
+  "location": "El Cajon",
+  "url": "https://sandiego.craigslist.org/esd/boa/d/el-cajon-skipjack/7914244706.html",
+  "length_ft": 28.0,
+  "year": 1979
+ },
+ {
+  "id": "cl-7935458497",
+  "source": "craigslist",
+  "title": "Grady White Flybridge Atlantic 260",
+  "price": 21500,
+  "location": "San Diego",
+  "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-grady-white-flybridge/7935458497.html",
+  "length_ft": 26.0,
+  "year": 1992
+ },
+ {
+  "id": "cl-7919895761",
+  "source": "craigslist",
+  "title": "Sea Cat, Power Catamaran, 25ft, cuddy cabin",
+  "price": 49999,
+  "location": "Coronado",
+  "url": "https://sandiego.craigslist.org/ssd/boa/d/chula-vista-sea-cat-power-catamaran/7919895761.html",
+  "length_ft": 25.0,
+  "year": null
+ },
+ {
+  "id": "cl-7932513684",
+  "source": "craigslist",
+  "title": "2000 21 foot Seaswirl Striper",
+  "price": 23900,
+  "location": "Santee",
+  "url": "https://sandiego.craigslist.org/esd/boa/d/santee-foot-seaswirl-striper/7932513684.html",
+  "length_ft": 21.0,
+  "year": 2000
+ },
+ {
+  "id": "cl-7916919568",
+  "source": "craigslist",
+  "title": "1977 Seacraft Potter built 23'",
+  "price": 30000,
+  "location": "Vista",
+  "url": "https://sandiego.craigslist.org/nsd/boa/d/vista-1977-seacraft-potter-built-23/7916919568.html",
+  "length_ft": 23.0,
+  "year": 1977
+ },
+ {
+  "id": "cl-7918140522",
+  "source": "craigslist",
+  "title": "Thresher 22' Boat 2020 Mercury 200hp 4 Stroke OB",
+  "price": 49000,
+  "location": "El Cajon",
+  "url": "https://sandiego.craigslist.org/ssd/boa/d/el-cajon-thresher-22-boat-2020-mercury/7918140522.html",
+  "length_ft": 22.0,
+  "year": 2020
+ },
+ {
+  "id": "cl-7934905888",
+  "source": "craigslist",
+  "title": "27 Express Sportfisher",
+  "price": 49500,
+  "location": "San Diego",
+  "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-27-express-sportfisher/7934905888.html",
+  "length_ft": 27.0,
+  "year": null
+ },
+ {
+  "id": "cl-7924193406",
+  "source": "craigslist",
+  "title": "26' Panga",
+  "price": 22000,
+  "location": "Valley Center",
+  "url": "https://sandiego.craigslist.org/nsd/boa/d/valley-center-26-panga/7924193406.html",
+  "length_ft": 26.0,
+  "year": null
+ },
+ {
+  "id": "cl-7933544197",
+  "source": "craigslist",
+  "title": "2000 Skipjack 262 Flybridge w/Yanmar 315hp diesel & Trailer",
+  "price": 59900,
+  "location": "San Diego",
+  "url": "https://sandiego.craigslist.org/csd/bod/d/san-diego-2000-skipjack-262-flybridge/7933544197.html",
+  "length_ft": 26.2,
+  "year": 2000
+ },
+ {
+  "id": "cl-7920668174",
+  "source": "craigslist",
+  "title": "Farallon 27 Whaleback Project",
+  "price": 40000,
+  "location": "San Diego",
+  "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-farallon-27-whaleback-project/7920668174.html",
+  "length_ft": 27.0,
+  "year": null
+ },
+ {
+  "id": "cl-7939722168",
+  "source": "craigslist",
+  "title": "2009 Pursuit C 250 Center Console w/twin Yamaha F150",
+  "price": 54900,
+  "location": "San Diego",
+  "url": "https://sandiego.craigslist.org/csd/bod/d/san-diego-2009-pursuit-250-center/7939722168.html",
+  "length_ft": 25.0,
+  "year": 2009
+ },
+ {
+  "id": "cl-7939658825",
+  "source": "craigslist",
+  "title": "Boston Whaler - Rare Collector Boat",
+  "price": 24900,
+  "location": "San Diego",
+  "url": "https://sandiego.craigslist.org/csd/boa/d/lemon-grove-boston-whaler-for-sale-rare/7939658825.html",
+  "length_ft": null,
+  "year": null
+ },
+ {
+  "id": "cl-7938916074",
+  "source": "craigslist",
+  "title": "20' Scout 201 | Garmin GPS | T-Top | Inshore Bay",
+  "price": 26000,
+  "location": "Chula Vista",
+  "url": "https://sandiego.craigslist.org/ssd/boa/d/chula-vista-20-scout-201-garmin-gps-top/7938916074.html",
+  "length_ft": 20.0,
+  "year": null
+ },
+ {
+  "id": "cl-7937496660",
+  "source": "craigslist",
+  "title": "Skipjack",
+  "price": 4500,
+  "location": "Alpine",
+  "url": "https://sandiego.craigslist.org/esd/boa/d/alpine-skipjack/7937496660.html",
+  "length_ft": null,
+  "year": null
  },
  {
   "id": "cl-7903547262",
   "source": "craigslist",
   "title": "2000 Kencraft Challenger with trailer and 150hp Yamaha",
-  "price": 23600,
+  "price": 29500,
   "location": "San Diego",
   "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-2000-kencraft-challenger-with/7903547262.html",
-  "length_ft": 20.0,
+  "length_ft": null,
   "year": 2000
  },
  {
-  "id": "cl-7919306497",
+  "id": "cl-7938455505",
   "source": "craigslist",
-  "title": "Fish /Dive Boat",
-  "price": 23000,
-  "location": "San Pedro",
-  "url": "https://sandiego.craigslist.org/ssd/boa/d/san-pedro-fish-dive-boat/7919306497.html",
-  "length_ft": null,
+  "title": "Wellcraft Scarab Sport 302 center w cuddy",
+  "price": 49500,
+  "location": "Dana Point",
+  "url": "https://sandiego.craigslist.org/ssd/boa/d/dana-point-wellcraft-scarab-sport-302/7938455505.html",
+  "length_ft": 30.0,
   "year": null
- },
- {
-  "id": "cl-7938882236",
-  "source": "craigslist",
-  "title": "29' Wellcraft & trailer - no engines",
-  "price": 6500,
-  "location": "Garden Grove",
-  "url": "https://sandiego.craigslist.org/csd/boa/d/garden-grove-29-wellcraft-trailer-no/7938882236.html",
-  "length_ft": 29.0,
-  "year": null
- },
- {
-  "id": "cl-7951934271",
-  "source": "craigslist",
-  "title": "1993 Grady-White 300 Marlin w/ Full Tower",
-  "price": 35000,
-  "location": "South San Diego County (San Diego)",
-  "url": "https://sandiego.craigslist.org/ssd/boa/d/san-diego-1993-grady-white-300-marlin/7951934271.html",
-  "length_ft": 30,
-  "year": 1993
- },
- {
-  "id": "bt-10198955",
-  "source": "boattrader",
-  "title": "2013 Carolina Skiff Sea Chaser 1950 RG",
-  "price": 19500,
-  "location": "Lake Elsinore, CA",
-  "url": "https://www.boattrader.com/boat/2013-carolina-skiff-sea-chaser-1950-rg-10198955/",
-  "length_ft": 20,
-  "year": 2013
- },
- {
-  "id": "bt-10217414",
-  "source": "boattrader",
-  "title": "1998 Pro-Line 2610 Walkaround",
-  "price": 38595,
-  "location": "San Diego, CA",
-  "url": "https://www.boattrader.com/boat/1998-pro-line-2610-walkaround-10217414/",
-  "length_ft": 26,
-  "year": 1998
- },
- {
-  "id": "bt-8497531",
-  "source": "boattrader",
-  "title": "2001 Seaswirl Striper 2600 Sport Cabin I/O",
-  "price": 24395,
-  "location": "Chula Vista, CA",
-  "url": "https://www.boattrader.com/boat/2001-seaswirl-striper-2600-sport-cabin-i-o-8497531/",
-  "length_ft": 26,
-  "year": 2001
- },
- {
-  "id": "bt-10224599",
-  "source": "boattrader",
-  "title": "1999 Albemarle 305 Express Fisherman",
-  "price": 42500,
-  "location": "San Diego, CA",
-  "url": "https://www.boattrader.com/boat/1999-albemarle-305-express-fisherman-10224599/",
-  "length_ft": 30,
-  "year": 1999
- },
- {
-  "id": "bt-10097237",
-  "source": "boattrader",
-  "title": "2002 Sea Fox 210 Center Console",
-  "price": 29500,
-  "location": "Dana Point, CA",
-  "url": "https://www.boattrader.com/boat/2002-sea-fox-210-center-console-10097237/",
-  "length_ft": 21,
-  "year": 2002
  },
  {
   "id": "bt-10275191",
@@ -390,14 +490,54 @@
   "year": 2005
  },
  {
-  "id": "bt-10020878",
+  "id": "bt-10206201",
   "source": "boattrader",
-  "title": "2001 Pursuit 3000 Express",
-  "price": 45000,
+  "title": "2004 Grady-White Gulfstream 232",
+  "price": 49900,
+  "location": "San Pedro, CA",
+  "url": "https://www.boattrader.com/boat/2004-grady-white-gulfstream-232-10206201/",
+  "length_ft": 23.2,
+  "year": 2004
+ },
+ {
+  "id": "bt-10206433",
+  "source": "boattrader",
+  "title": "1979 Wellcraft Nova 250",
+  "price": 15000,
   "location": "Dana Point, CA",
-  "url": "https://www.boattrader.com/boat/2001-pursuit-3000-express-10020878/",
-  "length_ft": 30,
+  "url": "https://www.boattrader.com/boat/1979-wellcraft-nova-250-10206433/",
+  "length_ft": 25.0,
+  "year": 1979
+ },
+ {
+  "id": "bt-8497531",
+  "source": "boattrader",
+  "title": "2001 Seaswirl Striper 2600 Sport Cabin I/O",
+  "price": 24395,
+  "location": "Chula Vista, CA",
+  "url": "https://www.boattrader.com/boat/2001-seaswirl-striper-2600-sport-cabin-i-o-8497531/",
+  "length_ft": 26.0,
   "year": 2001
+ },
+ {
+  "id": "bt-9692473",
+  "source": "boattrader",
+  "title": "2005 Grady-White Tournament 225",
+  "price": 29995,
+  "location": "Redondo Beach, CA",
+  "url": "https://www.boattrader.com/boat/2005-grady-white-tournament-225-9692473/",
+  "length_ft": 22.4,
+  "year": 2005
+ },
+ {
+  "id": "bt-10273360",
+  "source": "boattrader",
+  "title": "1996 Shamrock 20' Walkaround",
+  "price": 21900,
+  "location": "Dana Point, CA",
+  "url": "https://www.boattrader.com/boat/1996-shamrock-20-walkaround-10273360/",
+  "length_ft": 20.0,
+  "year": 1996
  },
  {
   "id": "bt-10249331",
@@ -410,106 +550,6 @@
   "year": 2009
  },
  {
-  "id": "bt-10222977",
-  "source": "boattrader",
-  "title": "2001 Bayliner Trophy",
-  "price": 10000,
-  "location": "Vista, CA",
-  "url": "https://www.boattrader.com/boat/2001-bayliner-trophy-10222977/",
-  "length_ft": null,
-  "year": 2001
- },
- {
-  "id": "bt-10206201",
-  "source": "boattrader",
-  "title": "2004 Grady-White Gulfstream 232",
-  "price": 49900,
-  "location": "San Pedro, CA",
-  "url": "https://www.boattrader.com/boat/2004-grady-white-gulfstream-232-10206201/",
-  "length_ft": 23.2,
-  "year": 2004
- },
- {
-  "id": "bt-8941848",
-  "source": "boattrader",
-  "title": "2019 Scout 210 Dorado",
-  "price": 28500,
-  "location": "Lake Elsinore, CA",
-  "url": "https://www.boattrader.com/boat/2019-scout-210-dorado-8941848/",
-  "length_ft": 21,
-  "year": 2019
- },
- {
-  "id": "bt-9692473",
-  "source": "boattrader",
-  "title": "2005 Grady-White Tournament 225",
-  "price": 29995,
-  "location": "Redondo Beach, CA",
-  "url": "https://www.boattrader.com/boat/2005-grady-white-tournament-225-9692473/",
-  "length_ft": 22.5,
-  "year": 2005
- },
- {
-  "id": "bt-9951640",
-  "source": "boattrader",
-  "title": "1997 Steiger Craft 21 Miami",
-  "price": 38500,
-  "location": "San Diego, CA",
-  "url": "https://www.boattrader.com/boat/1997-steiger-craft-21-miami-9951640/",
-  "length_ft": 21,
-  "year": 1997
- },
- {
-  "id": "bt-10243463",
-  "source": "boattrader",
-  "title": "2002 Striper striper",
-  "price": 39500,
-  "location": "Marina Del Rey, CA",
-  "url": "https://www.boattrader.com/boat/2002-striper-striper-10243463/",
-  "length_ft": null,
-  "year": 2002
- },
- {
-  "id": "bt-10211419",
-  "source": "boattrader",
-  "title": "2002 Skipjack 262 Flying Bridge",
-  "price": 39500,
-  "location": "Mission Bay, CA",
-  "url": "https://www.boattrader.com/boat/2002-skipjack-262-flying-bridge-10211419/",
-  "length_ft": 26.2,
-  "year": 2002
- },
- {
-  "id": "bt-10135697",
-  "source": "boattrader",
-  "title": "2006 Robalo R295 Walkaround",
-  "price": 55000,
-  "location": "Marina Del Rey, CA",
-  "url": "https://www.boattrader.com/boat/2006-robalo-r295-walkaround-10135697/",
-  "length_ft": 29.5,
-  "year": 2006
- },
- {
-  "id": "bt-10206433",
-  "source": "boattrader",
-  "title": "1979 Wellcraft Nova 250",
-  "price": 15000,
-  "location": "Dana Point, CA",
-  "url": "https://www.boattrader.com/boat/1979-wellcraft-nova-250-10206433/",
-  "length_ft": 25,
-  "year": 1979
- },
- {
-  "id": "bt-10152977",
-  "source": "boattrader",
-  "title": "2006 Parker 2520 SL Sport Cabin",
-  "price": 59995,
-  "location": "Newport Beach, CA",
-  "url": "https://www.boattrader.com/boat/2006-parker-2520-sl-sport-cabin-10152977/",
-  "length_ft": 25.2,
-  "year": 2006
- },
- {
   "id": "bt-10270724",
   "source": "boattrader",
   "title": "2001 Grady-White Gulfstream 232",
@@ -518,56 +558,6 @@
   "url": "https://www.boattrader.com/boat/2001-grady-white-gulfstream-232-10270724/",
   "length_ft": 23.2,
   "year": 2001
- },
- {
-  "id": "bt-10278345",
-  "source": "boattrader",
-  "title": "2007 Parker 2120 Sport Cabin",
-  "price": 55000,
-  "location": "Newport Beach, CA",
-  "url": "https://www.boattrader.com/boat/2007-parker-2120-sport-cabin-10278345/",
-  "length_ft": 21.2,
-  "year": 2007
- },
- {
-  "id": "bt-10201709",
-  "source": "boattrader",
-  "title": "2005 Aquasport 275 Explorer",
-  "price": 35500,
-  "location": "Mission Viejo, CA",
-  "url": "https://www.boattrader.com/boat/2005-aquasport-275-explorer-10201709/",
-  "length_ft": 27.5,
-  "year": 2005
- },
- {
-  "id": "bt-10260872",
-  "source": "boattrader",
-  "title": "2016 Sea Fox 226 Commander",
-  "price": 49900,
-  "location": "Newport Beach, CA",
-  "url": "https://www.boattrader.com/boat/2016-sea-fox-226-commander-10260872/",
-  "length_ft": 22.6,
-  "year": 2016
- },
- {
-  "id": "bt-10200387",
-  "source": "boattrader",
-  "title": "2023 NauticStar 242L Offshore",
-  "price": 49987,
-  "location": "San Diego, CA",
-  "url": "https://www.boattrader.com/boat/2023-nauticstar-242l-offshore-10200387/",
-  "length_ft": 24.2,
-  "year": 2023
- },
- {
-  "id": "bt-10151518",
-  "source": "boattrader",
-  "title": "2006 Bayliner 2052 Trophy Walkaround",
-  "price": 18000,
-  "location": "Los Angeles, CA",
-  "url": "https://www.boattrader.com/boat/2006-bayliner-2052-trophy-walkaround-10151518/",
-  "length_ft": 20.5,
-  "year": 2006
  },
  {
   "id": "bt-9596183",
@@ -580,114 +570,104 @@
   "year": 1979
  },
  {
-  "id": "bt-10138293",
+  "id": "bt-10217414",
   "source": "boattrader",
-  "title": "2007 Pursuit 235 Denali LS",
-  "price": 59500,
+  "title": "1998 Pro-Line 2610 Walkaround",
+  "price": 38595,
   "location": "San Diego, CA",
-  "url": "https://www.boattrader.com/boat/2007-pursuit-235-denali-ls-10138293/",
-  "length_ft": 23.5,
-  "year": 2007
+  "url": "https://www.boattrader.com/boat/1998-pro-line-2610-walkaround-10217414/",
+  "length_ft": 26.8,
+  "year": 1998
  },
  {
-  "id": "bt-9463481",
+  "id": "bt-10211419",
   "source": "boattrader",
-  "title": "2022 Stingray 206 CC",
+  "title": "2002 Skipjack 262 Flying Bridge",
   "price": 34000,
-  "location": "Lake Elsinore, CA",
-  "url": "https://www.boattrader.com/boat/2022-stingray-206-cc-9463481/",
-  "length_ft": 20.6,
-  "year": 2022
- },
- {
-  "id": "bt-9941706",
-  "source": "boattrader",
-  "title": "2019 Stingray 206 CC",
-  "price": 32500,
-  "location": "Lake Elsinore, CA",
-  "url": "https://www.boattrader.com/boat/2019-stingray-206-cc-9941706/",
-  "length_ft": 20.6,
-  "year": 2019
- },
- {
-  "id": "bt-10216878",
-  "source": "boattrader",
-  "title": "1995 Tiara Yachts 2900 Open",
-  "price": 59995,
-  "location": "Long Beach, CA",
-  "url": "https://www.boattrader.com/boat/1995-tiara-yachts-2900-open-10216878/",
-  "length_ft": 29,
-  "year": 1995
- },
- {
-  "id": "bm-5027049302",
-  "source": "boatmart",
-  "title": "2019 Mako 214",
-  "price": 55990,
-  "location": "San Bernardino, CA",
-  "url": "https://www.boatmart.com/listing/2019-Mako-214-5027049302",
-  "length_ft": 21.4,
-  "year": 2019
- },
- {
-  "id": "bm-5039391659",
-  "source": "boatmart",
-  "title": "2022 Bayliner T22cc",
-  "price": 52997,
-  "location": "Northridge, CA",
-  "url": "https://www.boatmart.com/listing/2022-Bayliner-T22cc-5039391659",
-  "length_ft": 22,
-  "year": 2022
- },
- {
-  "id": "bm-5040940969",
-  "source": "boatmart",
-  "title": "1996 Grady-White 272 Sailfish",
-  "price": 14950,
-  "location": "San Diego, CA",
-  "url": "https://www.boatmart.com/listing/1996-Grady-White-272-Sailfish-5040940969",
-  "length_ft": 27,
-  "year": 1996
- },
- {
-  "id": "bm-5040834168",
-  "source": "boatmart",
-  "title": "2002 Fish Hawk Walk Around",
-  "price": 33900,
-  "location": "Fountain Valley, CA",
-  "url": "https://www.boatmart.com/listing/2002-Fish+Hawk-Walk+Around-5040834168",
-  "length_ft": null,
+  "location": "Mission Bay, CA",
+  "url": "https://www.boattrader.com/boat/2002-skipjack-262-flying-bridge-10211419/",
+  "length_ft": 26.2,
   "year": 2002
  },
  {
-  "id": "bm-5035655422",
-  "source": "boatmart",
-  "title": "2015 Sportsman Open 212/CC",
-  "price": 33000,
-  "location": "San Diego, CA",
-  "url": "https://www.boatmart.com/listing/2015-Sportsman-Open-212/CC-5035655422",
-  "length_ft": 21.2,
-  "year": 2015
+  "id": "bt-10260872",
+  "source": "boattrader",
+  "title": "2016 Sea Fox 226 Commander",
+  "price": 49900,
+  "location": "Newport Beach, CA",
+  "url": "https://www.boattrader.com/boat/2016-sea-fox-226-commander-10260872/",
+  "length_ft": 22.5,
+  "year": 2016
  },
  {
-  "id": "bm-5031869573",
-  "source": "boatmart",
-  "title": "1996 Sea Cat SL5",
-  "price": 49000,
-  "location": "San Diego, CA",
-  "url": "https://www.boatmart.com/listing/1996-Sea-Cat-SL5-5031869573",
-  "length_ft": null,
-  "year": 1996
+  "id": "bt-10033838",
+  "source": "boattrader",
+  "title": "1976 Chris-Craft 30 Tournament SF",
+  "price": 46000,
+  "location": "Newport Beach, CA",
+  "url": "https://www.boattrader.com/boat/1976-chris-craft-30-tournament-sf-10033838/",
+  "length_ft": 30.0,
+  "year": 1976
  },
  {
-  "id": "bm-5030337861",
-  "source": "boatmart",
-  "title": "1990 Wellcraft 250 Sportsman",
-  "price": 16500,
-  "location": "Spring Valley, CA",
-  "url": "https://www.boatmart.com/listing/1990-Wellcraft-250-Sportsman-5030337861",
+  "id": "bt-10146147",
+  "source": "boattrader",
+  "title": "1991 Bertram 28",
+  "price": 40000,
+  "location": "San Diego, CA",
+  "url": "https://www.boattrader.com/boat/1991-bertram-28-10146147/",
+  "length_ft": 28.0,
+  "year": 1991
+ },
+ {
+  "id": "bt-8941848",
+  "source": "boattrader",
+  "title": "2019 Scout 210 Dorado",
+  "price": 28500,
+  "location": "Lake Elsinore, CA",
+  "url": "https://www.boattrader.com/boat/2019-scout-210-dorado-8941848/",
+  "length_ft": 21.0,
+  "year": 2019
+ },
+ {
+  "id": "bt-9540459",
+  "source": "boattrader",
+  "title": "1981 Mako 25 Mako",
+  "price": 40000,
+  "location": "Long Beach, CA",
+  "url": "https://www.boattrader.com/boat/1981-mako-25-mako-9540459/",
   "length_ft": 25.0,
-  "year": 1990
+  "year": 1981
+ },
+ {
+  "id": "bt-10255400",
+  "source": "boattrader",
+  "title": "1995 Sea Cat SL5",
+  "price": 49999,
+  "location": "San Diego, CA",
+  "url": "https://www.boattrader.com/boat/1995-sea-cat-sl5-10255400/",
+  "length_ft": null,
+  "year": 1995
+ },
+ {
+  "id": "bt-10222977",
+  "source": "boattrader",
+  "title": "2001 Bayliner Trophy",
+  "price": 10000,
+  "location": "Vista, CA",
+  "url": "https://www.boattrader.com/boat/2001-bayliner-trophy-10222977/",
+  "length_ft": null,
+  "year": 2001
+ },
+ {
+  "id": "bm-5041660291",
+  "source": "boatmart",
+  "title": "1999 Cobia 220 Walk Around -23",
+  "price": 24500,
+  "location": "San Diego, CA",
+  "url": "https://www.boatmart.com/listing/1999-Cobia-220+WALK+AROUND+-23-5041660291",
+  "length_ft": 23.0,
+  "year": 1999
  },
  {
   "id": "bm-5040148136",
@@ -710,13 +690,53 @@
   "year": 1999
  },
  {
-  "id": "bm-5041660291",
+  "id": "bm-5030337861",
   "source": "boatmart",
-  "title": "1999 Cobia 220 Walk Around -23",
-  "price": 24500,
+  "title": "1990 Wellcraft 250 Sportsman",
+  "price": 16500,
+  "location": "Spring Valley, CA",
+  "url": "https://www.boatmart.com/listing/1990-Wellcraft-250-Sportsman-5030337861",
+  "length_ft": 25.0,
+  "year": 1990
+ },
+ {
+  "id": "bm-5040834168",
+  "source": "boatmart",
+  "title": "2002 Fish Hawk Walk Around",
+  "price": 33900,
+  "location": "Fountain Valley, CA",
+  "url": "https://www.boatmart.com/listing/2002-Fish+Hawk-Walk+Around-5040834168",
+  "length_ft": null,
+  "year": 2002
+ },
+ {
+  "id": "bm-5030150567",
+  "source": "boatmart",
+  "title": "2011 Skeeter ZX 22 BAY",
+  "price": 32900,
+  "location": "San Bernardino, CA",
+  "url": "https://www.boatmart.com/listing/2011-Skeeter-ZX+22+BAY-5030150567",
+  "length_ft": 22.0,
+  "year": 2011
+ },
+ {
+  "id": "bm-5035655422",
+  "source": "boatmart",
+  "title": "2015 Sportsman Open 212/CC",
+  "price": 33000,
   "location": "San Diego, CA",
-  "url": "https://www.boatmart.com/listing/1999-Cobia-220+WALK+AROUND+-23-5041660291",
-  "length_ft": 22,
-  "year": 1999
+  "url": "https://www.boatmart.com/listing/2015-Sportsman-Open-212/CC-5035655422",
+  "length_ft": 21.2,
+  "year": 2015
+ },
+ {
+  "id": "bm-5031869573",
+  "source": "boatmart",
+  "title": "1996 Sea Cat SL5",
+  "price": 49000,
+  "location": "San Diego, CA",
+  "url": "https://www.boatmart.com/listing/1996-Sea-Cat-SL5-5031869573",
+  "length_ft": null,
+  "year": 1996
  }
 ]

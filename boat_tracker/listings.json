@@ -7,7 +7,7 @@
   "url": "https://sandiego.craigslist.org/ssd/boa/d/marina-del-rey-2002-striper-fishing-boat/7937269874.html",
   "length_ft": 20.0,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -26,7 +26,7 @@
   "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-farallon-27-whaleback-project/7920668174.html",
   "length_ft": 27,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -45,7 +45,7 @@
   "url": "https://sandiego.craigslist.org/csd/bod/d/san-diego-2009-pursuit-250-center/7939722168.html",
   "length_ft": 25,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-09",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -64,7 +64,7 @@
   "url": "https://sandiego.craigslist.org/csd/boa/d/alpine-1998-bayliner-trophy-26ft/7939659710.html",
   "length_ft": 26,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -73,9 +73,13 @@
    {
     "date": "2026-08-11",
     "price": 12500
+   },
+   {
+    "date": "2026-08-15",
+    "price": 14500
    }
   ],
-  "status": "drop",
+  "status": "rise",
   "year": 1998,
   "image": null
  },
@@ -87,7 +91,7 @@
   "url": "https://sandiego.craigslist.org/nsd/boa/d/oceanside-1996-bayliner-trophy-2352/7919105569.html",
   "length_ft": 23.5,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -104,9 +108,13 @@
    {
     "date": "2026-08-11",
     "price": 26500
+   },
+   {
+    "date": "2026-08-15",
+    "price": 29950
    }
   ],
-  "status": "drop",
+  "status": "rise",
   "year": 1996,
   "image": "https://images.craigslist.org/00o0o_fJ0VWo0rWsa_0fu0bC_600x450.jpg"
  },
@@ -118,7 +126,7 @@
   "url": "https://sandiego.craigslist.org/esd/boa/d/jamul-2001-seaswirl-striper-2301/7938447370.html",
   "length_ft": 23,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -137,7 +145,7 @@
   "url": "https://sandiego.craigslist.org/esd/boa/d/jamul-grady-white/7913591428.html",
   "length_ft": null,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -156,7 +164,7 @@
   "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-boston-whaler-conquest/7939512761.html",
   "length_ft": 21,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -170,12 +178,12 @@
  "cl-7938532151": {
   "id": "cl-7938532151",
   "source": "craigslist",
-  "title": "2006 Trophy Diesel Hardtop",
+  "title": "2006 Trophy Hardtop Diesel",
   "location": "Carlsbad",
   "url": "https://sandiego.craigslist.org/nsd/boa/d/carlsbad-2006-trophy-hardtop-diesel/7938532151.html",
   "length_ft": 20.0,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -184,6 +192,10 @@
    {
     "date": "2026-08-11",
     "price": 38000
+   },
+   {
+    "date": "2026-08-15",
+    "price": 35000
    }
   ],
   "status": "rise",
@@ -198,7 +210,7 @@
   "url": "https://sandiego.craigslist.org/nsd/boa/d/carlsbad-2003-seaswirl-striper-2601/7939245604.html",
   "length_ft": 26,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -217,7 +229,7 @@
   "url": "https://sandiego.craigslist.org/ssd/boa/d/newport-beach-1991-mako-286-side/7923943547.html",
   "length_ft": 28.6,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -236,7 +248,7 @@
   "url": "https://sandiego.craigslist.org/nsd/boa/d/oceanside-23-sea-ox-walkaround-cuddy/7937993268.html",
   "length_ft": 23,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-09",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -255,7 +267,7 @@
   "url": "https://sandiego.craigslist.org/ssd/boa/d/san-diego-rare-find-diesel-24-skipjack/7932088532.html",
   "length_ft": 24,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-08",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -274,7 +286,7 @@
   "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-1976-skipjack-24-open-hardtop/7936710536.html",
   "length_ft": 24,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-09",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -292,7 +304,7 @@
   "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-1971-skipjack-24ft-flybridge/7937552374.html",
   "length_ft": 24,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-09",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -311,7 +323,7 @@
   "url": "https://sandiego.craigslist.org/nsd/boa/d/costa-mesa-24-skipjack-open-1982/7937054364.html",
   "length_ft": 24,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-09",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -330,7 +342,7 @@
   "url": "https://sandiego.craigslist.org/esd/boa/d/el-cajon-skipjack/7914244706.html",
   "length_ft": 28,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-08",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -349,7 +361,7 @@
   "url": "https://sandiego.craigslist.org/csd/bod/d/san-diego-2000-skipjack-262-flybridge/7933544197.html",
   "length_ft": 26.2,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -367,7 +379,7 @@
   "url": "https://sandiego.craigslist.org/nsd/boa/d/fallbrook-1999-bayliner-trophy-22/7937109931.html",
   "length_ft": 22,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-09",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -385,7 +397,7 @@
   "url": "https://sandiego.craigslist.org/ssd/boa/d/chula-vista-offshore-ready-2011-trophy/7936651829.html",
   "length_ft": 20.0,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-09",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -403,7 +415,7 @@
   "url": "https://sandiego.craigslist.org/ssd/boa/d/rialto-2002-stamas-250-tarpon-runabout/7936951732.html",
   "length_ft": 25,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -412,9 +424,13 @@
    {
     "date": "2026-08-11",
     "price": 36000
+   },
+   {
+    "date": "2026-08-15",
+    "price": 40000
    }
   ],
-  "status": "drop",
+  "status": "rise",
   "year": 2002,
   "image": null
  },
@@ -426,7 +442,7 @@
   "url": "https://sandiego.craigslist.org/nsd/boa/d/san-diego-2005-edgewater-245cc-center/7936827503.html",
   "length_ft": 24.5,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-09",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -445,7 +461,7 @@
   "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-2005-parker-2310-boat-for-sale/7936187924.html",
   "length_ft": 23,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-09",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -463,7 +479,7 @@
   "url": "https://sandiego.craigslist.org/ssd/boa/d/el-cajon-thresher-22-boat-2020-mercury/7918140522.html",
   "length_ft": 22,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-11",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -482,7 +498,7 @@
   "url": "https://sandiego.craigslist.org/nsd/boa/d/vista-1977-seacraft-potter-built-23/7916919568.html",
   "length_ft": 23,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-09",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -500,7 +516,7 @@
   "url": "https://sandiego.craigslist.org/esd/boa/d/santee-foot-seaswirl-striper/7932513684.html",
   "length_ft": 21,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-09",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -518,7 +534,7 @@
   "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-27-express-sportfisher/7934905888.html",
   "length_ft": 27,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-09",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -536,7 +552,7 @@
   "url": "https://sandiego.craigslist.org/nsd/boa/d/valley-center-26-panga/7924193406.html",
   "length_ft": 26,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-09",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -554,7 +570,7 @@
   "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-2000-kencraft-challenger-with/7903547262.html",
   "length_ft": 20.0,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -563,9 +579,13 @@
    {
     "date": "2026-08-11",
     "price": 23600
+   },
+   {
+    "date": "2026-08-15",
+    "price": 29500
    }
   ],
-  "status": "drop",
+  "status": "rise",
   "year": 2000
  },
  "cl-7919895761": {
@@ -576,7 +596,7 @@
   "url": "https://sandiego.craigslist.org/ssd/boa/d/chula-vista-sea-cat-power-catamaran/7919895761.html",
   "length_ft": 25,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -599,7 +619,7 @@
   "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-carolina-skiff-sea-chaser/7937373033.html",
   "length_ft": 24,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-09",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -636,7 +656,7 @@
   "url": "https://sandiego.craigslist.org/ssd/boa/d/chula-vista-owens-concorde-sportfisher/7917355597.html",
   "length_ft": null,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -644,7 +664,8 @@
    }
   ],
   "status": "active",
-  "year": null
+  "year": null,
+  "image": "https://images.craigslist.org/00Z0Z_i5P9RFjC2o6_0t20CI_600x450.jpg"
  },
  "cl-7915794915": {
   "id": "cl-7915794915",
@@ -654,7 +675,7 @@
   "url": "https://sandiego.craigslist.org/esd/boa/d/lemon-grove-30-ft-boat-sportfisher-no/7915794915.html",
   "length_ft": 30,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -662,7 +683,8 @@
    }
   ],
   "status": "active",
-  "year": null
+  "year": null,
+  "image": "https://images.craigslist.org/00z0z_kQD8zQL0Gry_0qk0eI_600x450.jpg"
  },
  "cl-7935458497": {
   "id": "cl-7935458497",
@@ -672,7 +694,7 @@
   "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-grady-white-flybridge/7935458497.html",
   "length_ft": 26,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -709,7 +731,7 @@
   "url": "https://sandiego.craigslist.org/nsd/boa/d/vista-2006-sea-hunt-escape-220-dual/7939410515.html",
   "length_ft": 22,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-09",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -728,7 +750,7 @@
   "url": "https://sandiego.craigslist.org/esd/boa/d/lemon-grove-seaswirl-striper-hrs-on/7917302247.html",
   "length_ft": 21.5,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -747,7 +769,7 @@
   "url": "https://sandiego.craigslist.org/esd/boa/d/lemon-grove-2005-seaswirl-striper/7932293385.html",
   "length_ft": 21,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-09",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -784,7 +806,7 @@
   "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-nautic-star-angler-211/7938732830.html",
   "length_ft": 21,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-09",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -803,7 +825,7 @@
   "url": "https://sandiego.craigslist.org/ssd/boa/d/chula-vista-20-scout-201-garmin-gps-top/7938916074.html",
   "length_ft": 20,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-09",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -840,7 +862,7 @@
   "url": "https://sandiego.craigslist.org/csd/boa/d/san-diego-2001-boston-whaler-21-ventura/7938768022.html",
   "length_ft": 21,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-09",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -877,7 +899,7 @@
   "url": "https://sandiego.craigslist.org/ssd/boa/d/dana-point-wellcraft-scarab-sport-302/7938455505.html",
   "length_ft": 30,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-09",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -897,14 +919,15 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-11",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
     "price": 4500
    }
   ],
-  "status": "active"
+  "status": "active",
+  "image": null
  },
  "cl-7939658825": {
   "id": "cl-7939658825",
@@ -915,7 +938,7 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-09",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -930,7 +953,8 @@
     "price": 24900
    }
   ],
-  "status": "rise"
+  "status": "rise",
+  "image": "https://images.craigslist.org/00H0H_741teqvwavo_0CI0t2_600x450.jpg"
  },
  "cl-7939838863": {
   "id": "cl-7939838863",
@@ -981,7 +1005,7 @@
   "length_ft": 21.5,
   "year": null,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -1018,7 +1042,7 @@
   "length_ft": 21.0,
   "year": 2006,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-09",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -1055,7 +1079,7 @@
   "length_ft": 21.0,
   "year": 2005,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-09",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -1073,7 +1097,7 @@
   "length_ft": 21.0,
   "year": 2005,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-09",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -1549,7 +1573,7 @@
   "length_ft": 23.5,
   "year": 2004,
   "first_seen": "2026-06-14",
-  "last_seen": "2026-08-09",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-06-14",
@@ -1670,7 +1694,7 @@
   "length_ft": 21.2,
   "year": 2015,
   "first_seen": "2026-07-12",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-07-12",
@@ -1689,7 +1713,7 @@
   "length_ft": 23.5,
   "year": 1996,
   "first_seen": "2026-07-12",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-07-12",
@@ -1743,7 +1767,7 @@
   "length_ft": null,
   "year": 1996,
   "first_seen": "2026-07-12",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-07-12",
@@ -2230,7 +2254,7 @@
   "length_ft": 21.0,
   "year": 2019,
   "first_seen": "2026-07-27",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-07-27",
@@ -2248,7 +2272,7 @@
   "length_ft": 26.0,
   "year": 2001,
   "first_seen": "2026-07-27",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-07-27",
@@ -2284,7 +2308,7 @@
   "length_ft": 28.0,
   "year": 1991,
   "first_seen": "2026-07-27",
-  "last_seen": "2026-08-08",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-07-27",
@@ -2356,7 +2380,7 @@
   "length_ft": 30.0,
   "year": 1976,
   "first_seen": "2026-07-27",
-  "last_seen": "2026-08-08",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-07-27",
@@ -2396,7 +2420,7 @@
   "length_ft": 22.4,
   "year": 2005,
   "first_seen": "2026-07-27",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-07-27",
@@ -2432,7 +2456,7 @@
   "length_ft": 26.8,
   "year": 1998,
   "first_seen": "2026-07-27",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-07-27",
@@ -2472,7 +2496,7 @@
   "length_ft": 26.2,
   "year": 2002,
   "first_seen": "2026-07-27",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-07-27",
@@ -2481,6 +2505,10 @@
    {
     "date": "2026-08-11",
     "price": 39500
+   },
+   {
+    "date": "2026-08-15",
+    "price": 34000
    }
   ],
   "status": "rise"
@@ -2494,7 +2522,7 @@
   "length_ft": null,
   "year": 2009,
   "first_seen": "2026-07-27",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-07-27",
@@ -2548,7 +2576,7 @@
   "length_ft": null,
   "year": 1979,
   "first_seen": "2026-07-27",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-07-27",
@@ -2566,7 +2594,7 @@
   "length_ft": 22.5,
   "year": 2016,
   "first_seen": "2026-07-27",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-07-27",
@@ -2602,7 +2630,7 @@
   "length_ft": 25.0,
   "year": 1981,
   "first_seen": "2026-07-27",
-  "last_seen": "2026-08-08",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-07-27",
@@ -2746,7 +2774,7 @@
   "length_ft": null,
   "year": 2001,
   "first_seen": "2026-07-27",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-07-27",
@@ -3060,7 +3088,7 @@
   "length_ft": null,
   "year": 1995,
   "first_seen": "2026-07-27",
-  "last_seen": "2026-08-08",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-07-27",
@@ -3114,7 +3142,7 @@
   "length_ft": null,
   "year": 2002,
   "first_seen": "2026-07-27",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-07-27",
@@ -3132,7 +3160,7 @@
   "length_ft": 27.2,
   "year": 1999,
   "first_seen": "2026-07-27",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-07-27",
@@ -3151,7 +3179,7 @@
   "length_ft": 25.0,
   "year": 1990,
   "first_seen": "2026-07-27",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-07-27",
@@ -3188,14 +3216,14 @@
   "length_ft": 22.0,
   "year": 2011,
   "first_seen": "2026-07-27",
-  "last_seen": "2026-07-27",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-07-27",
     "price": 32900
    }
   ],
-  "status": "gone"
+  "status": "active"
  },
  "bm-5033806813": {
   "id": "bm-5033806813",
@@ -3296,7 +3324,7 @@
   "length_ft": 23.0,
   "year": 2004,
   "first_seen": "2026-08-07",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-08-07",
@@ -3315,7 +3343,7 @@
   "length_ft": 21.8,
   "year": 2005,
   "first_seen": "2026-08-07",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-08-07",
@@ -3353,7 +3381,7 @@
   "length_ft": 25.0,
   "year": 1979,
   "first_seen": "2026-08-07",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-08-07",
@@ -3372,14 +3400,15 @@
   "length_ft": 23,
   "year": 2001,
   "first_seen": "2026-08-08",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-08-08",
     "price": 39900
    }
   ],
-  "status": "active"
+  "status": "active",
+  "image": "https://images.boattrader.com/resize/1/7/24/2001-grady-white-gulfstream-232-power-10270724-20260801114217595-4.jpg"
  },
  "bt-10171880": {
   "id": "bt-10171880",
@@ -3570,14 +3599,15 @@
   "length_ft": 20,
   "year": 1996,
   "first_seen": "2026-08-08",
-  "last_seen": "2026-08-08",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-08-08",
     "price": 21900
    }
   ],
-  "status": "active"
+  "status": "active",
+  "image": "https://images.boattrader.com/resize/1/33/60/1996-shamrock-20-walkaround-power-10273360-20260804101500585-0.jpg"
  },
  "bt-10273558": {
   "id": "bt-10273558",
@@ -4018,7 +4048,7 @@
   "length_ft": 22,
   "year": 1999,
   "first_seen": "2026-08-11",
-  "last_seen": "2026-08-12",
+  "last_seen": "2026-08-15",
   "price_history": [
    {
     "date": "2026-08-11",
