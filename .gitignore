@@ -1,0 +1,3 @@
+__pycache__/
+*.pyc
+boat_tracker/new_scan_temp.json
