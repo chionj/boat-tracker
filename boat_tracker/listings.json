@@ -7,7 +7,7 @@
   "url": "https://www.craigslist.org/view/d/marina-del-rey-2002-striper-fishing-boat/9AMcD3PSZHApyy9FpDHk8x",
   "length_ft": 20.0,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -26,7 +26,7 @@
   "url": "https://www.craigslist.org/view/d/san-diego-farallon-27-whaleback-project/dHkeMstqHKyU1gKZHNu5JS",
   "length_ft": 27,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -52,7 +52,7 @@
     "price": 54900
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": 2009,
   "image": "https://images.craigslist.org/00w0w_gdNO0vaagOo_0CI0t2_600x450.jpg"
  },
@@ -79,7 +79,7 @@
     "price": 14500
    }
   ],
-  "status": "rise",
+  "status": "gone",
   "year": 1998,
   "image": null
  },
@@ -91,7 +91,7 @@
   "url": "https://www.craigslist.org/view/d/oceanside-1996-bayliner-trophy-2352/waRMcd8dHEdp1WpfhXfyaV",
   "length_ft": 23.5,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -138,7 +138,7 @@
   "url": "https://www.craigslist.org/view/d/jamul-2001-seaswirl-striper-2301/sGEErf85ChqdjswpFAAXqk",
   "length_ft": 23,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -157,7 +157,7 @@
   "url": "https://www.craigslist.org/view/d/jamul-grady-white/s4cWwZZ76TSd1wFmtX1bMb",
   "length_ft": null,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -176,7 +176,7 @@
   "url": "https://www.craigslist.org/view/d/san-diego-boston-whaler-conquest/oe6n9kpbWfepnS3yEKZ1MZ",
   "length_ft": 21,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -210,7 +210,7 @@
     "price": 35000
    }
   ],
-  "status": "rise",
+  "status": "gone",
   "year": 2006,
   "image": null
  },
@@ -222,7 +222,7 @@
   "url": "https://www.craigslist.org/view/d/carlsbad-2003-seaswirl-striper-2601/beYFYuDQHsNYUqsrj6dHka",
   "length_ft": 26,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -245,7 +245,7 @@
   "url": "https://www.craigslist.org/view/d/newport-beach-1991-mako-286-side/vTujdxKiA4twaDcLCB6t42",
   "length_ft": 28.6,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -271,7 +271,7 @@
     "price": 17500
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": null,
   "image": "https://images.craigslist.org/00O0O_djfUVzCNdtf_0CI0pS_600x450.jpg"
  },
@@ -290,7 +290,7 @@
     "price": 17500
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": null,
   "image": "https://images.craigslist.org/00303_aQ97R0X1os4_0jm0ew_600x450.jpg"
  },
@@ -309,7 +309,7 @@
     "price": 14500
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": 1976
  },
  "cl-7937552374": {
@@ -327,7 +327,7 @@
     "price": 11000
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": 1971,
   "image": null
  },
@@ -346,7 +346,7 @@
     "price": 13500
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": 1982,
   "image": null
  },
@@ -365,7 +365,7 @@
     "price": 19000
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": 1979,
   "image": "https://images.craigslist.org/00V0V_7zFheU4LW58_0jm0ew_600x450.jpg"
  },
@@ -377,7 +377,7 @@
   "url": "https://www.craigslist.org/view/d/san-diego-2000-skipjack-262-flybridge/npaDdMetMz9pjvNw5hrSdR",
   "length_ft": 26.2,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -403,7 +403,7 @@
     "price": 13950
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": 1999
  },
  "cl-7936651829": {
@@ -421,7 +421,7 @@
     "price": 18000
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": 2011
  },
  "cl-7936951732": {
@@ -432,7 +432,7 @@
   "url": "https://www.craigslist.org/view/d/rialto-2002-stamas-250-tarpon-runabout/itwrThSLqKbwYVuXienypi",
   "length_ft": 25,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -478,7 +478,7 @@
     "price": 32000
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": 2005,
   "image": null
  },
@@ -497,7 +497,7 @@
     "price": 27500
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": 2005
  },
  "cl-7918140522": {
@@ -508,7 +508,7 @@
   "url": "https://www.craigslist.org/view/d/el-cajon-thresher-22-boat-2020-mercury/iD6BwFUVwzUxpk4Zy9ZQvS",
   "length_ft": 22,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -534,7 +534,7 @@
     "price": 30000
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": 1977
  },
  "cl-7932513684": {
@@ -552,7 +552,7 @@
     "price": 23900
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": 2000
  },
  "cl-7934905888": {
@@ -570,7 +570,7 @@
     "price": 49500
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": null
  },
  "cl-7924193406": {
@@ -588,7 +588,7 @@
     "price": 22000
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": null
  },
  "cl-7903547262": {
@@ -599,7 +599,7 @@
   "url": "https://www.craigslist.org/view/d/san-diego-2000-kencraft-challenger-with/6SLYSQGTehFdFPTraXpcZP",
   "length_ft": 20.0,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -645,7 +645,7 @@
     "price": 44999
    }
   ],
-  "status": "rise",
+  "status": "gone",
   "year": null,
   "image": "https://images.craigslist.org/00N0N_7xpC3Vxkzh6_0t20CI_600x450.jpg"
  },
@@ -664,7 +664,7 @@
     "price": 17000
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": null,
   "image": null
  },
@@ -683,7 +683,7 @@
     "price": 20000
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": null
  },
  "cl-7917355597": {
@@ -701,7 +701,7 @@
     "price": 11500
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": null,
   "image": "https://images.craigslist.org/00Z0Z_i5P9RFjC2o6_0t20CI_600x450.jpg"
  },
@@ -720,7 +720,7 @@
     "price": 5500
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": null,
   "image": "https://images.craigslist.org/00z0z_kQD8zQL0Gry_0qk0eI_600x450.jpg"
  },
@@ -732,7 +732,7 @@
   "url": "https://www.craigslist.org/view/d/san-diego-grady-white-flybridge/ajvMPaLHLeV5kstqcRqGkx",
   "length_ft": 26,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -758,7 +758,7 @@
     "price": 8000
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": 1983
  },
  "cl-7939410515": {
@@ -776,7 +776,7 @@
     "price": 29500
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": 2006,
   "image": null
  },
@@ -795,7 +795,7 @@
     "price": 6500
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": null,
   "image": "https://images.craigslist.org/00R0R_lTuk3OzPxHh_0CI0t2_600x450.jpg"
  },
@@ -814,7 +814,7 @@
     "price": 18899
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": 2005,
   "image": null
  },
@@ -833,7 +833,7 @@
     "price": 15500
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": 1988
  },
  "cl-7938732830": {
@@ -851,7 +851,7 @@
     "price": 32000
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": null,
   "image": "https://images.craigslist.org/00G0G_1HZ4dneSzsi_0CI0t2_600x450.jpg"
  },
@@ -870,7 +870,7 @@
     "price": 26000
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": null,
   "image": "https://images.craigslist.org/00y0y_65x4I3XDLQl_0pO0jm_600x450.jpg"
  },
@@ -889,7 +889,7 @@
     "price": 44900
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": 2022
  },
  "cl-7938768022": {
@@ -907,7 +907,7 @@
     "price": 24900
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": 2001,
   "image": "https://images.craigslist.org/00C0C_k6wFEMycf5l_0CI0t2_600x450.jpg"
  },
@@ -926,7 +926,7 @@
     "price": 26000
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": 2008
  },
  "cl-7938455505": {
@@ -944,7 +944,7 @@
     "price": 49500
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": null,
   "image": null
  },
@@ -957,7 +957,7 @@
   "length_ft": 24.0,
   "year": 1991,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -999,7 +999,7 @@
     "price": 24900
    }
   ],
-  "status": "rise",
+  "status": "gone",
   "image": "https://images.craigslist.org/00H0H_741teqvwavo_0CI0t2_600x450.jpg"
  },
  "cl-7939838863": {
@@ -1018,7 +1018,7 @@
     "price": 6000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "cl-7938882236": {
   "id": "cl-7938882236",
@@ -1044,7 +1044,7 @@
     "price": 6000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-7915796499": {
   "id": "cl-7915796499",
@@ -1062,7 +1062,7 @@
     "price": 6500
    }
   ],
-  "status": "active",
+  "status": "gone",
   "image": "https://images.craigslist.org/00f0f_kDD3vqPgAur_0CI0t2_600x450.jpg"
  },
  "cl-7937641652": {
@@ -1081,7 +1081,7 @@
     "price": 9000
    }
   ],
-  "status": "active",
+  "status": "gone",
   "image": "https://images.craigslist.org/00A0A_fdKWXHsmufH_0CI0t2_600x450.jpg"
  },
  "cl-7937611302": {
@@ -1100,7 +1100,7 @@
     "price": 16000
    }
   ],
-  "status": "active",
+  "status": "gone",
   "image": "https://images.craigslist.org/00e0e_bAAHSJMaiXG_0qs0jQ_600x450.jpg"
  },
  "cl-7932748894": {
@@ -1119,7 +1119,7 @@
     "price": 10000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "cl-7935040770": {
   "id": "cl-7935040770",
@@ -1137,7 +1137,7 @@
     "price": 18899
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "cl-7914162233": {
   "id": "cl-7914162233",
@@ -1155,7 +1155,7 @@
     "price": 18899
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "cl-7919306497": {
   "id": "cl-7919306497",
@@ -1166,7 +1166,7 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-06-10",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-06-10",
@@ -1212,7 +1212,7 @@
     "price": 5000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "cl-7937515468": {
   "id": "cl-7937515468",
@@ -1230,7 +1230,7 @@
     "price": 10000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "cl-7940287961": {
   "id": "cl-7940287961",
@@ -1295,7 +1295,7 @@
   "length_ft": null,
   "year": 1985,
   "first_seen": "2026-06-14",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-06-14",
@@ -1321,7 +1321,7 @@
     "price": 7500
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "cl-7909399288": {
   "id": "cl-7909399288",
@@ -1379,7 +1379,7 @@
     "price": 8000
    }
   ],
-  "status": "drop"
+  "status": "gone"
  },
  "cl-7940493699": {
   "id": "cl-7940493699",
@@ -1523,7 +1523,7 @@
     "price": 30000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "cl-7938691311": {
   "id": "cl-7938691311",
@@ -1563,7 +1563,7 @@
     "price": 13955
    }
   ],
-  "status": "drop"
+  "status": "gone"
  },
  "cl-7931797891": {
   "id": "cl-7931797891",
@@ -1617,7 +1617,7 @@
     "price": 29900
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "cl-7933834174": {
   "id": "cl-7933834174",
@@ -1653,7 +1653,7 @@
     "price": 11000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "cl-7939505651": {
   "id": "cl-7939505651",
@@ -1672,7 +1672,7 @@
    }
   ],
   "image": "https://images.craigslist.org/00F0F_9j3NK1m9gql_0CI0lM_600x450.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "cl-7934194341": {
   "id": "cl-7934194341",
@@ -1690,7 +1690,7 @@
     "price": 15850
    }
   ],
-  "status": "active",
+  "status": "gone",
   "image": null
  },
  "cl-7921246100": {
@@ -1725,7 +1725,7 @@
     "price": 13500
    }
   ],
-  "status": "rise",
+  "status": "gone",
   "image": "https://images.craigslist.org/00Y0Y_4x4BpgV4obI_0CI0t2_600x450.jpg"
  },
  "bm-5027049302": {
@@ -1744,7 +1744,7 @@
     "price": 55990
    }
   ],
-  "status": "active",
+  "status": "gone",
   "image": "https://cdn-media.tilabs.io/v1/media/64a46fd8e96ca565eb13eb13.jpg"
  },
  "bm-5039391659": {
@@ -1767,7 +1767,7 @@
     "price": 52997
    }
   ],
-  "status": "rise",
+  "status": "gone",
   "image": "https://cdn-media.tilabs.io/v1/media/69955542c29c443281098267.jpg"
  },
  "bm-5035655422": {
@@ -1786,7 +1786,7 @@
     "price": 33000
    }
   ],
-  "status": "active",
+  "status": "gone",
   "image": "https://cdn-media.tilabs.io/v1/media/69f39b0e79b0e2ad59012fda.jpg"
  },
  "bm-5040148136": {
@@ -1805,7 +1805,7 @@
     "price": 26500
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bm-5037206130": {
   "id": "bm-5037206130",
@@ -1841,7 +1841,7 @@
     "price": 14950
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bm-5031869573": {
   "id": "bm-5031869573",
@@ -1859,7 +1859,7 @@
     "price": 49000
    }
   ],
-  "status": "active",
+  "status": "gone",
   "image": "https://cdn-media.tilabs.io/v1/media/69f39b2be832a64071051432.jpg"
  },
  "bm-5038635878": {
@@ -1950,7 +1950,7 @@
     "price": 6000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "cl-7916177697": {
   "id": "cl-7916177697",
@@ -1972,7 +1972,7 @@
     "price": 5900
    }
   ],
-  "status": "drop"
+  "status": "gone"
  },
  "cl-7908991268": {
   "id": "cl-7908991268",
@@ -2314,7 +2314,7 @@
     "price": 50000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "cl-7928540615": {
   "id": "cl-7928540615",
@@ -2350,7 +2350,7 @@
     "price": 28500
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-8497531": {
   "id": "bt-8497531",
@@ -2368,7 +2368,7 @@
     "price": 24395
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-9795184": {
   "id": "bt-9795184",
@@ -2404,7 +2404,7 @@
     "price": 40000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10020878": {
   "id": "bt-10020878",
@@ -2422,7 +2422,7 @@
     "price": 45000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10150047": {
   "id": "bt-10150047",
@@ -2458,7 +2458,7 @@
     "price": 59995
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10033838": {
   "id": "bt-10033838",
@@ -2476,7 +2476,7 @@
     "price": 46000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10177994": {
   "id": "bt-10177994",
@@ -2498,7 +2498,7 @@
     "price": 38200
    }
   ],
-  "status": "drop"
+  "status": "gone"
  },
  "bt-9692473": {
   "id": "bt-9692473",
@@ -2516,7 +2516,7 @@
     "price": 29995
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10200387": {
   "id": "bt-10200387",
@@ -2534,7 +2534,7 @@
     "price": 49987
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10217414": {
   "id": "bt-10217414",
@@ -2556,7 +2556,7 @@
     "price": 38595
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "bt-10135697": {
   "id": "bt-10135697",
@@ -2574,7 +2574,7 @@
     "price": 55000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10211419": {
   "id": "bt-10211419",
@@ -2600,7 +2600,7 @@
     "price": 34000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "bt-10249331": {
   "id": "bt-10249331",
@@ -2618,7 +2618,7 @@
     "price": 46000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-9951640": {
   "id": "bt-9951640",
@@ -2636,7 +2636,7 @@
     "price": 38500
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10262708": {
   "id": "bt-10262708",
@@ -2654,7 +2654,7 @@
     "price": 40000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-9596183": {
   "id": "bt-9596183",
@@ -2672,7 +2672,7 @@
     "price": 39000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10260872": {
   "id": "bt-10260872",
@@ -2690,7 +2690,7 @@
     "price": 49900
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10257539": {
   "id": "bt-10257539",
@@ -2726,7 +2726,7 @@
     "price": 40000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10118918": {
   "id": "bt-10118918",
@@ -2762,7 +2762,7 @@
     "price": 9995
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10097237": {
   "id": "bt-10097237",
@@ -2780,7 +2780,7 @@
     "price": 29500
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10201709": {
   "id": "bt-10201709",
@@ -2798,7 +2798,7 @@
     "price": 35500
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10158866": {
   "id": "bt-10158866",
@@ -2834,7 +2834,7 @@
     "price": 59500
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10259821": {
   "id": "bt-10259821",
@@ -2870,7 +2870,7 @@
     "price": 10000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10243463": {
   "id": "bt-10243463",
@@ -2892,7 +2892,7 @@
     "price": 39500
    }
   ],
-  "status": "drop"
+  "status": "gone"
  },
  "bt-10221866": {
   "id": "bt-10221866",
@@ -2910,7 +2910,7 @@
     "price": 54900
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10257212": {
   "id": "bt-10257212",
@@ -2936,7 +2936,7 @@
     "price": 48990
    }
   ],
-  "status": "drop"
+  "status": "gone"
  },
  "bt-9982653": {
   "id": "bt-9982653",
@@ -2990,7 +2990,7 @@
     "price": 59995
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10099672": {
   "id": "bt-10099672",
@@ -3026,7 +3026,7 @@
     "price": 51000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-9643120": {
   "id": "bt-9643120",
@@ -3062,7 +3062,7 @@
     "price": 29000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-9725552": {
   "id": "bt-9725552",
@@ -3080,7 +3080,7 @@
     "price": 35000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-9897221": {
   "id": "bt-9897221",
@@ -3152,7 +3152,7 @@
     "price": 42500
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10151518": {
   "id": "bt-10151518",
@@ -3170,7 +3170,7 @@
     "price": 18000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10255400": {
   "id": "bt-10255400",
@@ -3188,7 +3188,7 @@
     "price": 49999
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-9463481": {
   "id": "bt-9463481",
@@ -3206,7 +3206,7 @@
     "price": 34000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-9941706": {
   "id": "bt-9941706",
@@ -3224,7 +3224,7 @@
     "price": 32500
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bm-5040834168": {
   "id": "bm-5040834168",
@@ -3242,7 +3242,7 @@
     "price": 33900
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bm-5038948984": {
   "id": "bm-5038948984",
@@ -3260,7 +3260,7 @@
     "price": 44500
    }
   ],
-  "status": "active",
+  "status": "gone",
   "image": null
  },
  "bm-5030337861": {
@@ -3279,7 +3279,7 @@
     "price": 16500
    }
   ],
-  "status": "active",
+  "status": "gone",
   "image": "https://cdn-media.tilabs.io/v1/media/69f39b1cf48d4b9c370c808c.jpg"
  },
  "bm-5034018399": {
@@ -3316,7 +3316,7 @@
     "price": 32900
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bm-5033806813": {
   "id": "bm-5033806813",
@@ -3410,7 +3410,7 @@
     "price": 7000
    }
   ],
-  "status": "drop"
+  "status": "gone"
  },
  "bt-10206201": {
   "id": "bt-10206201",
@@ -3428,7 +3428,7 @@
     "price": 49900
    }
   ],
-  "status": "active",
+  "status": "gone",
   "image": "https://images.boattrader.com/resize/1/62/1/2004-grady-white-gulfstream-232-power-10206201-20260603124730460-0.jpg"
  },
  "bt-10275191": {
@@ -3447,7 +3447,7 @@
     "price": 37750
    }
   ],
-  "status": "active",
+  "status": "gone",
   "image": "https://images.boattrader.com/resize/1/51/91/2005-sailfish-218-wac-power-10275191-20260805225308383-0.jpg"
  },
  "bt-10238628": {
@@ -3485,7 +3485,7 @@
     "price": 15000
    }
   ],
-  "status": "active",
+  "status": "gone",
   "image": "https://images.boattrader.com/resize/1/64/33/1979-wellcraft-nova-250-power-10206433-20260603141501062-0.jpg"
  },
  "bt-10270724": {
@@ -3504,7 +3504,7 @@
     "price": 39900
    }
   ],
-  "status": "active",
+  "status": "gone",
   "image": "https://images.boattrader.com/resize/1/7/24/2001-grady-white-gulfstream-232-power-10270724-20260801114217595-4.jpg"
  },
  "bt-10171880": {
@@ -3577,7 +3577,7 @@
     "price": 35900
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10262942": {
   "id": "bt-10262942",
@@ -3707,7 +3707,7 @@
     "price": 19500
    }
   ],
-  "status": "drop",
+  "status": "gone",
   "image": "https://images.boattrader.com/resize/1/33/60/1996-shamrock-20-walkaround-power-10273360-20260804101500585-0.jpg"
  },
  "bt-10273558": {
@@ -3726,7 +3726,7 @@
     "price": 13500
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10278345": {
   "id": "bt-10278345",
@@ -3744,7 +3744,7 @@
     "price": 55000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10163180": {
   "id": "bt-10163180",
@@ -3784,7 +3784,7 @@
     "price": 39900
    }
   ],
-  "status": "drop"
+  "status": "gone"
  },
  "bt-10270823": {
   "id": "bt-10270823",
@@ -3802,7 +3802,7 @@
     "price": 55000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10239872": {
   "id": "bt-10239872",
@@ -3849,7 +3849,7 @@
   "length_ft": 23.0,
   "year": 1999,
   "first_seen": "2026-08-11",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-08-11",
@@ -3876,7 +3876,7 @@
    }
   ],
   "image": "https://images.craigslist.org/00202_4cXwkaSIH9N_07K06g_600x450.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "cl-7938446836": {
   "id": "cl-7938446836",
@@ -3887,7 +3887,7 @@
   "length_ft": 23.0,
   "year": 2001,
   "first_seen": "2026-08-11",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-08-11",
@@ -3906,7 +3906,7 @@
   "length_ft": 21.0,
   "year": 2021,
   "first_seen": "2026-08-11",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-08-11",
@@ -3925,7 +3925,7 @@
   "length_ft": 20.0,
   "year": 2002,
   "first_seen": "2026-08-11",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-08-11",
@@ -3944,7 +3944,7 @@
   "length_ft": 23.0,
   "year": 2004,
   "first_seen": "2026-08-11",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-08-11",
@@ -3963,7 +3963,7 @@
   "length_ft": 30.0,
   "year": null,
   "first_seen": "2026-08-11",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-08-11",
@@ -3990,7 +3990,7 @@
    }
   ],
   "image": "https://images.craigslist.org/00000_6RrHxQzyF8x_0CI0t2_600x450.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "cl-7948587277": {
   "id": "cl-7948587277",
@@ -4009,7 +4009,7 @@
    }
   ],
   "image": "https://images.craigslist.org/00707_lIgY7A2YIHQ_0t20CI_600x450.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "cl-7945732087": {
   "id": "cl-7945732087",
@@ -4028,7 +4028,7 @@
    }
   ],
   "image": "https://images.craigslist.org/00F0F_4nvEetNDOGT_0CI0t2_600x450.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "cl-7948039474": {
   "id": "cl-7948039474",
@@ -4047,7 +4047,7 @@
    }
   ],
   "image": "https://images.craigslist.org/00000_gN87uHSAT2_0CI0t2_600x450.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "cl-7946784568": {
   "id": "cl-7946784568",
@@ -4070,7 +4070,7 @@
    }
   ],
   "image": null,
-  "status": "drop"
+  "status": "gone"
  },
  "cl-7947992571": {
   "id": "cl-7947992571",
@@ -4081,7 +4081,7 @@
   "length_ft": 21.0,
   "year": 1999,
   "first_seen": "2026-08-11",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-08-11",
@@ -4100,7 +4100,7 @@
   "length_ft": 30,
   "year": 1993,
   "first_seen": "2026-08-11",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-08-11",
@@ -4127,7 +4127,7 @@
    }
   ],
   "image": "https://images.boattrader.com/resize/1/89/55/2013-carolina-skiff-sea-chaser-1950-rg-power-10198955-20260528142831448-1.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "bt-10224599": {
   "id": "bt-10224599",
@@ -4146,7 +4146,7 @@
    }
   ],
   "image": "https://images.boattrader.com/resize/1/45/99/1999-albemarle-305-express-fisherman-power-10224599-20260625102140229-1.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "bm-5041660291": {
   "id": "bm-5041660291",
@@ -4165,7 +4165,7 @@
    }
   ],
   "image": "https://cdn-media.tilabs.io/v1/media/6a775d0c0cc45b4ffe067123.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "cl-7936076258": {
   "id": "cl-7936076258",
@@ -4183,7 +4183,7 @@
     "price": 36000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "cl-7936014766": {
   "id": "cl-7936014766",
@@ -4201,7 +4201,7 @@
     "price": 39500
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "cl-7954190808": {
   "id": "cl-7954190808",
@@ -4220,7 +4220,7 @@
    }
   ],
   "image": "https://images.craigslist.org/00d0d_7aCiogBb3Vm_0CI0t2_600x450.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "cl-7953844245": {
   "id": "cl-7953844245",
@@ -4231,7 +4231,7 @@
   "length_ft": 28.0,
   "year": 1976,
   "first_seen": "2026-08-17",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-08-17",
@@ -4250,7 +4250,7 @@
   "length_ft": 25.0,
   "year": 2007,
   "first_seen": "2026-08-17",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-08-17",
@@ -4269,7 +4269,7 @@
   "length_ft": 21.0,
   "year": 2006,
   "first_seen": "2026-08-17",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-08-17",
@@ -4296,7 +4296,7 @@
    }
   ],
   "image": "https://images.craigslist.org/00T0T_8pFLXEedPmK_0CI0t2_600x450.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "bm-5041755108": {
   "id": "bm-5041755108",
@@ -4315,7 +4315,7 @@
    }
   ],
   "image": "https://cdn-media.tilabs.io/v1/media/6a8291587ad4bec6d70a07f2.webp",
-  "status": "active"
+  "status": "gone"
  },
  "bm-5040679439": {
   "id": "bm-5040679439",
@@ -4334,7 +4334,7 @@
    }
   ],
   "image": "https://cdn-media.tilabs.io/v1/media/6a0d3c678332f9ef8303f33a.webp",
-  "status": "active"
+  "status": "gone"
  },
  "bt-10203123": {
   "id": "bt-10203123",
@@ -4353,7 +4353,7 @@
    }
   ],
   "image": "https://images.boattrader.com/resize/1/31/23/1990-grady-white-explorer-power-10203123-20260601200524965-0.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "bt-10258917": {
   "id": "bt-10258917",
@@ -4371,7 +4371,7 @@
     "price": 13500
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10134148": {
   "id": "bt-10134148",
@@ -4390,7 +4390,7 @@
    }
   ],
   "image": "https://images.boattrader.com/resize/1/41/48/2001-skipjack-262-flybridge-power-10134148-20260331151900899-1.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "bt-9678425": {
   "id": "bt-9678425",
@@ -4408,7 +4408,7 @@
     "price": 9880
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10279352": {
   "id": "bt-10279352",
@@ -4426,7 +4426,7 @@
     "price": 42500
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10288083": {
   "id": "bt-10288083",
@@ -4444,7 +4444,7 @@
     "price": 37900
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10223518": {
   "id": "bt-10223518",
@@ -4463,7 +4463,7 @@
    }
   ],
   "image": "https://images.boattrader.com/resize/1/35/18/2003-bayliner-walk-around-cuddy-cabin-power-10223518-20260701084434259-0.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "bt-10249419": {
   "id": "bt-10249419",
@@ -4482,7 +4482,7 @@
    }
   ],
   "image": "https://images.boattrader.com/resize/1/94/19/2026-bayliner-trophy-t20cc-power-10249419-20260711163941896-1.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "bt-10279611": {
   "id": "bt-10279611",
@@ -4500,7 +4500,7 @@
     "price": 59900
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-9994360": {
   "id": "bt-9994360",
@@ -4518,7 +4518,7 @@
     "price": 24500
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10284611": {
   "id": "bt-10284611",
@@ -4536,7 +4536,7 @@
     "price": 1800
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10219208": {
   "id": "bt-10219208",
@@ -4555,7 +4555,7 @@
    }
   ],
   "image": "https://images.boattrader.com/resize/1/92/8/2001-seaswirl-striper-2301-power-10219208-20260614083000753-0.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "bt-10236731": {
   "id": "bt-10236731",
@@ -4574,7 +4574,7 @@
    }
   ],
   "image": "https://images.boattrader.com/resize/1/67/31/1986-tiara-yachts-2000-power-10236731-20260630114111506-0.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "bt-10119478": {
   "id": "bt-10119478",
@@ -4593,7 +4593,7 @@
    }
   ],
   "image": "https://images.boattrader.com/resize/1/94/78/1995-excel-23f-power-10119478-20260318161253096-0.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "bt-9299500": {
   "id": "bt-9299500",
@@ -4611,7 +4611,7 @@
     "price": 45000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "bt-10157357": {
   "id": "bt-10157357",
@@ -4630,7 +4630,7 @@
    }
   ],
   "image": "https://images.boattrader.com/resize/1/73/57/1984-invader-20v-cuddy-power-10157357-20260424155232815-0.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "bt-10253271": {
   "id": "bt-10253271",
@@ -4648,7 +4648,7 @@
     "price": 50000
    }
   ],
-  "status": "active"
+  "status": "gone"
  },
  "cl-7955327615": {
   "id": "cl-7955327615",
@@ -4659,7 +4659,7 @@
   "length_ft": 21.0,
   "year": 1979,
   "first_seen": "2026-08-24",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-08-24",
@@ -4667,7 +4667,7 @@
    }
   ],
   "image": "https://images.craigslist.org/00202_4cXwkaSIH9N_07K06g_600x450.jpg",
-  "status": "new"
+  "status": "active"
  },
  "cl-7954649972": {
   "id": "cl-7954649972",
@@ -4678,7 +4678,7 @@
   "length_ft": 22.0,
   "year": 1978,
   "first_seen": "2026-08-24",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-08-24",
@@ -4686,7 +4686,7 @@
    }
   ],
   "image": "https://images.craigslist.org/00J0J_lyEDXwLmiC0_0t90CI_600x450.jpg",
-  "status": "new"
+  "status": "active"
  },
  "cl-7954571977": {
   "id": "cl-7954571977",
@@ -4697,7 +4697,7 @@
   "length_ft": 26.0,
   "year": null,
   "first_seen": "2026-08-24",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-08-24",
@@ -4705,7 +4705,7 @@
    }
   ],
   "image": "https://images.craigslist.org/00B0B_hyKsv0taMcH_0t20CI_600x450.jpg",
-  "status": "new"
+  "status": "active"
  },
  "cl-7954439737": {
   "id": "cl-7954439737",
@@ -4716,7 +4716,7 @@
   "length_ft": 21.0,
   "year": 2021,
   "first_seen": "2026-08-24",
-  "last_seen": "2026-08-24",
+  "last_seen": "2026-09-18",
   "price_history": [
    {
     "date": "2026-08-24",
@@ -4724,6 +4724,6 @@
    }
   ],
   "image": "https://images.craigslist.org/00L0L_4dD3ojZUxGU_0CF0t2_600x450.jpg",
-  "status": "new"
+  "status": "active"
  }
 }
