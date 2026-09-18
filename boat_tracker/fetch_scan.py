@@ -108,6 +108,32 @@ def parse_cl_results(html: str) -> list[dict[str, Any]]:
                     "year": infer_year(title),
                 }
             )
+    if not items:
+        rows = re.findall(r'<li[^>]*class="[^"]*cl-static-search-result[^"]*"[^>]*>(.*?)</li>', html, re.S | re.I)
+        for row in rows:
+            href_match = re.search(r'<a[^>]*href="([^"]+)"[^>]*>(.*?)</a>', row, re.S | re.I)
+            title_match = re.search(r'<div[^>]*class="[^"]*title[^"]*"[^>]*>(.*?)</div>', row, re.S | re.I)
+            if not href_match or not title_match:
+                continue
+            url = href_match.group(1).strip()
+            title = re.sub(r"<.*?>", "", title_match.group(1)).strip()
+            price_match = re.search(r'<div[^>]*class="[^"]*price[^"]*"[^>]*>(.*?)</div>', row, re.S | re.I)
+            location_match = re.search(r'<div[^>]*class="[^"]*location[^"]*"[^>]*>(.*?)</div>', row, re.S | re.I)
+            item_id = f"cl-{extract_listing_id(url)}"
+            if not title or item_id == "cl-":
+                continue
+            items.append(
+                {
+                    "id": item_id,
+                    "source": "craigslist",
+                    "title": title,
+                    "price": normalize_price(re.sub(r"<.*?>", "", price_match.group(1)).strip()) if price_match else None,
+                    "location": re.sub(r"<.*?>", "", location_match.group(1)).strip() if location_match else "",
+                    "url": url,
+                    "length_ft": infer_length(title),
+                    "year": infer_year(title),
+                }
+            )
     # de-dupe by id
     dedup: dict[str, dict[str, Any]] = {}
     for item in items:
