@@ -14,7 +14,7 @@
     "price": 48000
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": 2002,
   "image": "https://images.craigslist.org/00T0T_45YGEm8vOdt_0CI0t2_600x450.jpg"
  },
@@ -145,7 +145,7 @@
     "price": 15900
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": 2001,
   "image": "https://images.craigslist.org/00J0J_cVD1EQJu6tS_0CI0t2_600x450.jpg"
  },
@@ -183,7 +183,7 @@
     "price": 45000
    }
   ],
-  "status": "active",
+  "status": "gone",
   "year": 1998,
   "image": "https://images.craigslist.org/00b0b_8leMJKKDRuO_0iW08x_600x450.jpg"
  },
@@ -968,7 +968,7 @@
     "price": 4500
    }
   ],
-  "status": "active",
+  "status": "gone",
   "image": null
  },
  "cl-7939658825": {
@@ -1310,7 +1310,7 @@
     "price": 59000
    }
   ],
-  "status": "active",
+  "status": "gone",
   "image": null
  },
  "cl-7917305508": {
@@ -3945,7 +3945,7 @@
    }
   ],
   "image": null,
-  "status": "active"
+  "status": "gone"
  },
  "cl-7950348672": {
   "id": "cl-7950348672",
@@ -3983,7 +3983,7 @@
    }
   ],
   "image": "https://images.craigslist.org/00v0v_6HEmwyNfegT_0t20CI_600x450.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "cl-7949930173": {
   "id": "cl-7949930173",
@@ -4101,7 +4101,7 @@
    }
   ],
   "image": "https://images.craigslist.org/00000_6xEkw9N0FEC_0t20CI_600x450.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "cl-7951934271": {
   "id": "cl-7951934271",
@@ -4270,7 +4270,7 @@
    }
   ],
   "image": "https://images.craigslist.org/00e0e_aSoxjiTiOPz_0CI0t2_600x450.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "cl-7950383400": {
   "id": "cl-7950383400",
@@ -4702,7 +4702,7 @@
    }
   ],
   "image": "https://images.craigslist.org/00J0J_lyEDXwLmiC0_0t90CI_600x450.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "cl-7954571977": {
   "id": "cl-7954571977",
@@ -4721,7 +4721,7 @@
    }
   ],
   "image": "https://images.craigslist.org/00B0B_hyKsv0taMcH_0t20CI_600x450.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "cl-7954439737": {
   "id": "cl-7954439737",
@@ -4778,7 +4778,7 @@
    }
   ],
   "image": "https://images.craigslist.org/00O0O_3EbudZ9B6MT_0kE0bC_600x450.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "cl-7954885113": {
   "id": "cl-7954885113",
@@ -4797,7 +4797,7 @@
    }
   ],
   "image": "https://images.craigslist.org/00O0O_3EbudZ9B6MT_0kE0bC_600x450.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "cl-7935931560": {
   "id": "cl-7935931560",
@@ -4839,7 +4839,7 @@
    }
   ],
   "image": "https://images.craigslist.org/00101_f05J6JTkHt9_0CI0t2_600x450.jpg",
-  "status": "drop"
+  "status": "gone"
  },
  "cl-7954880754": {
   "id": "cl-7954880754",
@@ -4877,7 +4877,7 @@
    }
   ],
   "image": "https://images.craigslist.org/01212_hjQHjR4Uo3F_0CI0t2_600x450.jpg",
-  "status": "active"
+  "status": "gone"
  },
  "cl-7955642854": {
   "id": "cl-7955642854",
@@ -4934,7 +4934,7 @@
    }
   ],
   "image": null,
-  "status": "active"
+  "status": "gone"
  },
  "cl-7954829315": {
   "id": "cl-7954829315",
@@ -5009,7 +5009,7 @@
     "price": 12000
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-vMWDrb9SMBDkWRjBB7sA3K": {
   "id": "cl-vMWDrb9SMBDkWRjBB7sA3K",
@@ -5020,7 +5020,7 @@
   "length_ft": 25.0,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -5036,38 +5036,42 @@
  "cl-oYamc73rc2wPAWH44YbVvv": {
   "id": "cl-oYamc73rc2wPAWH44YbVvv",
   "source": "craigslist",
-  "title": "Formula 29PC w/ Trailer",
+  "title": "Formula 29PC w/ Trailer! Freshwater Boat",
   "location": "Phoenix AZ",
   "url": "https://www.craigslist.org/view/d/peoria-formula-29pc-trailer-freshwater/oYamc73rc2wPAWH44YbVvv",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 24999
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-cGMxKxWNqCscRiRHohwtRU": {
   "id": "cl-cGMxKxWNqCscRiRHohwtRU",
   "source": "craigslist",
-  "title": "1983 Catalina 30",
+  "title": "1983 Catalina 30 \u2014 PRICE REDUCED AGAIN!",
   "location": "Chula Vista",
-  "url": "https://www.craigslist.org/view/d/chula-vista-1983-catalina-30/cGMxKxWNqCscRiRHohwtRU",
+  "url": "https://www.craigslist.org/view/d/chula-vista-1983-catalina-30-price/cGMxKxWNqCscRiRHohwtRU",
   "length_ft": null,
   "year": 1983,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 6800
+   },
+   {
+    "date": "2026-11-07",
+    "price": 5000
    }
   ],
-  "status": "new"
+  "status": "drop"
  },
  "cl-eASxJ4KwaHARc3YtRx6Fnw": {
   "id": "cl-eASxJ4KwaHARc3YtRx6Fnw",
@@ -5085,36 +5089,36 @@
     "price": 6800
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-v9zjCH7pFr38QMMZqBvKmq": {
   "id": "cl-v9zjCH7pFr38QMMZqBvKmq",
   "source": "craigslist",
-  "title": "Achilles HB-315DX RIB Inflatable Dinghy",
+  "title": "Achilles HB-315DX RIB Inflatable Dinghy 10&#39; 4&quot;",
   "location": "San Diego",
   "url": "https://www.craigslist.org/view/d/san-diego-achilles-hb-315dx-rib/v9zjCH7pFr38QMMZqBvKmq",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 14500
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-72yDZ8PTeN7LCE2JiGM5kC": {
   "id": "cl-72yDZ8PTeN7LCE2JiGM5kC",
   "source": "craigslist",
-  "title": "2004 21' Chaparral Boat",
+  "title": "2004 21\u2019 Chapparral boat",
   "location": "San Marcos",
   "url": "https://www.craigslist.org/view/d/san-marcos-chapparral-boat/72yDZ8PTeN7LCE2JiGM5kC",
   "length_ft": 21.0,
   "year": 2004,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -5136,32 +5140,40 @@
   "length_ft": null,
   "year": 2006,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 49800
+   },
+   {
+    "date": "2026-11-07",
+    "price": 42800
    }
   ],
-  "status": "new"
+  "status": "drop"
  },
  "cl-mi3gh5kpPXWYACkt9du174": {
   "id": "cl-mi3gh5kpPXWYACkt9du174",
   "source": "craigslist",
-  "title": "1990 Boston Whaler 20' Guardian",
+  "title": "1990 Boston Whaler 20&#39; Guardian \u2013 Rare Ex-Military Hull w/ 2026 Yamaha",
   "location": "North San Diego County",
   "url": "https://www.craigslist.org/view/d/vista-1990-boston-whaler-20-guardian/mi3gh5kpPXWYACkt9du174",
   "length_ft": 20.0,
   "year": 1990,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 55000
+   },
+   {
+    "date": "2026-11-07",
+    "price": 38000
    }
   ],
-  "status": "new"
+  "status": "drop"
  },
  "cl-qjVS9PWZaP8DX5d5oZ7MKi": {
   "id": "cl-qjVS9PWZaP8DX5d5oZ7MKi",
@@ -5172,7 +5184,7 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -5181,27 +5193,35 @@
    {
     "date": "2026-10-05",
     "price": 3300
+   },
+   {
+    "date": "2026-11-07",
+    "price": 3000
    }
   ],
-  "status": "rise"
+  "status": "drop"
  },
  "cl-sn7hLcJLtHafUgUfW7qiQ6": {
   "id": "cl-sn7hLcJLtHafUgUfW7qiQ6",
   "source": "craigslist",
-  "title": "1981 31' Silverton Sportfisher/Convertible",
+  "title": "1981 31&#39; Silverton Sportfisher/Convertible - Reduced",
   "location": "Harbor Island",
   "url": "https://www.craigslist.org/view/d/san-diego-silverton-sportfisher/sn7hLcJLtHafUgUfW7qiQ6",
   "length_ft": 31.0,
   "year": 1981,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 15000
+   },
+   {
+    "date": "2026-11-07",
+    "price": 14500
    }
   ],
-  "status": "new"
+  "status": "drop"
  },
  "cl-v1rEHEb9RG2LMGJhNs6bik": {
   "id": "cl-v1rEHEb9RG2LMGJhNs6bik",
@@ -5212,7 +5232,7 @@
   "length_ft": null,
   "year": 2020,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -5228,20 +5248,24 @@
  "cl-dHvgvo4iSnYMuU2ENHiP71": {
   "id": "cl-dHvgvo4iSnYMuU2ENHiP71",
   "source": "craigslist",
-  "title": "Pontoon Boat 28' Tritoon",
+  "title": "Pontoon Boat 28\u2019 Tritoon",
   "location": "Oceanside",
   "url": "https://www.craigslist.org/view/d/oceanside-pontoon-boat-28-tritoon/dHvgvo4iSnYMuU2ENHiP71",
   "length_ft": 28.0,
   "year": null,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 15000
+   },
+   {
+    "date": "2026-11-07",
+    "price": 14000
    }
   ],
-  "status": "new"
+  "status": "drop"
  },
  "cl-aX5r3YcFDEkvgPcf6N71Q8": {
   "id": "cl-aX5r3YcFDEkvgPcf6N71Q8",
@@ -5259,7 +5283,7 @@
     "price": 3350
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-guE6oZjw8DW4EKjVxfvYpq": {
   "id": "cl-guE6oZjw8DW4EKjVxfvYpq",
@@ -5270,7 +5294,7 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -5292,7 +5316,7 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -5301,6 +5325,10 @@
    {
     "date": "2026-10-05",
     "price": 10950
+   },
+   {
+    "date": "2026-11-07",
+    "price": 10750
    }
   ],
   "status": "drop"
@@ -5325,7 +5353,7 @@
     "price": 32000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-wYpHMbVnTYspuqUQnq2rGc": {
   "id": "cl-wYpHMbVnTYspuqUQnq2rGc",
@@ -5347,7 +5375,7 @@
     "price": 59900
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-9by8ahU6rARyGVL2eMC9yq": {
   "id": "cl-9by8ahU6rARyGVL2eMC9yq",
@@ -5369,7 +5397,7 @@
     "price": 18000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-2txLnWnSwcry3bkmT3bwav": {
   "id": "cl-2txLnWnSwcry3bkmT3bwav",
@@ -5391,7 +5419,7 @@
     "price": 3500
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-3hjUgEssJDXZPJQvTgfbh6": {
   "id": "cl-3hjUgEssJDXZPJQvTgfbh6",
@@ -5402,32 +5430,32 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 3000
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-6k4GdqgTeExrXjP5ZuNNjd": {
   "id": "cl-6k4GdqgTeExrXjP5ZuNNjd",
   "source": "craigslist",
-  "title": "1991 Mako 286 Side Console",
+  "title": "1991 Mako 286 side console Diesels project TRADE",
   "location": "South San Diego County",
   "url": "https://www.craigslist.org/view/d/newport-beach-1991-mako-286-side/6k4GdqgTeExrXjP5ZuNNjd",
   "length_ft": null,
   "year": 1991,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 13000
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-reUTgcgPfYVvo5gJXBCmKs": {
   "id": "cl-reUTgcgPfYVvo5gJXBCmKs",
@@ -5438,25 +5466,29 @@
   "length_ft": null,
   "year": 2026,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 23000
+   },
+   {
+    "date": "2026-11-07",
+    "price": 22500
    }
   ],
-  "status": "new"
+  "status": "drop"
  },
  "cl-6VyzyfCE1uwrRLZtLFFK3p": {
   "id": "cl-6VyzyfCE1uwrRLZtLFFK3p",
   "source": "craigslist",
-  "title": "C&C 34 Sailboat",
+  "title": "C&amp;C 34 Sailboat",
   "location": "Point Loma",
   "url": "https://www.craigslist.org/view/d/san-diego-cc-34-sailboat/6VyzyfCE1uwrRLZtLFFK3p",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -5465,9 +5497,13 @@
    {
     "date": "2026-10-05",
     "price": 16000
+   },
+   {
+    "date": "2026-11-07",
+    "price": 14000
    }
   ],
-  "status": "rise"
+  "status": "drop"
  },
  "cl-rfxXuVKuuRq2uYy1nfNbDv": {
   "id": "cl-rfxXuVKuuRq2uYy1nfNbDv",
@@ -5489,7 +5525,7 @@
     "price": 36000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-6DxG4kXsWPUGZAWF3Wc9qe": {
   "id": "cl-6DxG4kXsWPUGZAWF3Wc9qe",
@@ -5500,14 +5536,14 @@
   "length_ft": null,
   "year": 1986,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 15000
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-32DQV7avwdEK1cWZhUSXYr": {
   "id": "cl-32DQV7avwdEK1cWZhUSXYr",
@@ -5518,7 +5554,7 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -5540,25 +5576,25 @@
   "length_ft": 22.0,
   "year": 2013,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 39900
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-4syWE49gxrf5iG6tniwAs2": {
   "id": "cl-4syWE49gxrf5iG6tniwAs2",
   "source": "craigslist",
-  "title": "Boston Whaler 13' - 1980",
+  "title": "Boston Whaler 13&#39; - 1980",
   "location": "Coronado",
   "url": "https://www.craigslist.org/view/d/imperial-beach-boston-whaler/4syWE49gxrf5iG6tniwAs2",
   "length_ft": 13.0,
   "year": 1980,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -5591,7 +5627,7 @@
     "price": 36800
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-axjSHSgWSdJvNWMCSfeDk": {
   "id": "cl-axjSHSgWSdJvNWMCSfeDk",
@@ -5609,7 +5645,7 @@
     "price": 15900
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-9D2C5K7JuAkPdn4oHRAbn5": {
   "id": "cl-9D2C5K7JuAkPdn4oHRAbn5",
@@ -5627,7 +5663,7 @@
     "price": 15000
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-hF5N8BRFB1QeZwVGsRZ154": {
   "id": "cl-hF5N8BRFB1QeZwVGsRZ154",
@@ -5638,25 +5674,25 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 15500
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-1oFPjrM5PkSTeZzThcmpAM": {
   "id": "cl-1oFPjrM5PkSTeZzThcmpAM",
   "source": "craigslist",
-  "title": "25' Crestliner Pontoon Tritoon 2008",
+  "title": "25\u2019 Crestliner pontoon Tritoon 2008",
   "location": "San Diego",
   "url": "https://www.craigslist.org/view/d/san-diego-25-crestliner-pontoon-tritoon/1oFPjrM5PkSTeZzThcmpAM",
   "length_ft": 25.0,
   "year": 2008,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -5672,13 +5708,13 @@
  "cl-iZhvkAvicfhdiX8DLBEXUA": {
   "id": "cl-iZhvkAvicfhdiX8DLBEXUA",
   "source": "craigslist",
-  "title": "1979 Jet Boat",
+  "title": "1979 jet boat",
   "location": "Santee",
   "url": "https://www.craigslist.org/view/d/santee-1979-jet-boat/iZhvkAvicfhdiX8DLBEXUA",
   "length_ft": null,
   "year": 1979,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -5694,38 +5730,42 @@
  "cl-wCnJwZxuStx3zr6XW5ujD6": {
   "id": "cl-wCnJwZxuStx3zr6XW5ujD6",
   "source": "craigslist",
-  "title": "17' Boat",
+  "title": "17\u2019 Boat",
   "location": "North San Diego County",
   "url": "https://www.craigslist.org/view/d/escondido-17-boat/wCnJwZxuStx3zr6XW5ujD6",
   "length_ft": 17.0,
   "year": null,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 3500
+   },
+   {
+    "date": "2026-11-07",
+    "price": 3000
    }
   ],
-  "status": "new"
+  "status": "drop"
  },
  "cl-fHLTyGNgku4qKGn2AJ4BxB": {
   "id": "cl-fHLTyGNgku4qKGn2AJ4BxB",
   "source": "craigslist",
-  "title": "40 x 14 Key West #1 Hull Boat",
+  "title": "40 x 14 Key West #1 hull boat with QSC490hp has new 350 gallons fuel",
   "location": "Oceanside",
   "url": "https://www.craigslist.org/view/d/temecula-40-14-key-west-hull-boat-with/fHLTyGNgku4qKGn2AJ4BxB",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 10000
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-q1tp3aFqdTTTMZaoxHCjfp": {
   "id": "cl-q1tp3aFqdTTTMZaoxHCjfp",
@@ -5736,14 +5776,14 @@
   "length_ft": null,
   "year": 1995,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 52000
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-dJmTfFqqwyTggwNqU71gcA": {
   "id": "cl-dJmTfFqqwyTggwNqU71gcA",
@@ -5765,7 +5805,7 @@
     "price": 45000
    }
   ],
-  "status": "drop"
+  "status": "gone"
  },
  "cl-coPLG1USS9wFs5Mn211AYd": {
   "id": "cl-coPLG1USS9wFs5Mn211AYd",
@@ -5783,7 +5823,7 @@
     "price": 40000
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-qaPXtgavmcK3KNmp91gRQN": {
   "id": "cl-qaPXtgavmcK3KNmp91gRQN",
@@ -5805,7 +5845,7 @@
     "price": 4500
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-mGnSYYh9ApE3G41fBwYbDM": {
   "id": "cl-mGnSYYh9ApE3G41fBwYbDM",
@@ -5816,7 +5856,7 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -5838,7 +5878,7 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -5854,20 +5894,20 @@
  "cl-nchyWKHD9eDcLefmrvCvP7": {
   "id": "cl-nchyWKHD9eDcLefmrvCvP7",
   "source": "craigslist",
-  "title": "2023 Yamaha Waverunner EX Deluxe",
+  "title": "2023 Yamaha Waverunner EX Deluxe w/ trailer and accessories",
   "location": "Pacific Beach",
   "url": "https://www.craigslist.org/view/d/san-diego-2023-yamaha-waverunner-ex/nchyWKHD9eDcLefmrvCvP7",
   "length_ft": null,
   "year": 2023,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 7000
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-54nyPUjfc2PnbjzBgHXYjw": {
   "id": "cl-54nyPUjfc2PnbjzBgHXYjw",
@@ -5885,18 +5925,18 @@
     "price": 3100
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-geXBNUVwngpjmCDzX8XHCM": {
   "id": "cl-geXBNUVwngpjmCDzX8XHCM",
   "source": "craigslist",
-  "title": "1980 28\" Oday Sailboat",
+  "title": "1980 28&quot; Oday Sailboat",
   "location": "San Diego",
   "url": "https://www.craigslist.org/view/d/san-diego-oday-sailboat/geXBNUVwngpjmCDzX8XHCM",
   "length_ft": null,
   "year": 1980,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -5912,13 +5952,13 @@
  "cl-tpHXf9U6o5S4KU5McRiC6Q": {
   "id": "cl-tpHXf9U6o5S4KU5McRiC6Q",
   "source": "craigslist",
-  "title": "2004 SEA-DOO",
+  "title": ".2004 SEA-DOO",
   "location": "Spring Valley",
   "url": "https://www.craigslist.org/view/d/spring-valley-2004-sea-doo/tpHXf9U6o5S4KU5McRiC6Q",
   "length_ft": null,
   "year": 2004,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -5927,6 +5967,10 @@
    {
     "date": "2026-10-05",
     "price": 4550
+   },
+   {
+    "date": "2026-11-07",
+    "price": 3995
    }
   ],
   "status": "drop"
@@ -5947,7 +5991,7 @@
     "price": 57500
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-bxMJCbj46d1T1xohw6tPm6": {
   "id": "cl-bxMJCbj46d1T1xohw6tPm6",
@@ -5969,25 +6013,25 @@
     "price": 10995
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-2qB9kc9GwrVorcFLbb9no9": {
   "id": "cl-2qB9kc9GwrVorcFLbb9no9",
   "source": "craigslist",
-  "title": "Waller 880 Catamaran 2008",
+  "title": "Waller 880 catamaran 2008",
   "location": "San Pedro",
   "url": "https://www.craigslist.org/view/d/san-pedro-waller-880-catamaran-2008/2qB9kc9GwrVorcFLbb9no9",
   "length_ft": null,
   "year": 2008,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 57000
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-hiB7YH6PCHz4uSvmJgFXpp": {
   "id": "cl-hiB7YH6PCHz4uSvmJgFXpp",
@@ -6005,7 +6049,7 @@
     "price": 29900
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-bJjYY8UuwbHRr3mJq1gJHV": {
   "id": "cl-bJjYY8UuwbHRr3mJq1gJHV",
@@ -6023,36 +6067,40 @@
     "price": 9950
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-f2U66sy9N96TtxxGMByAnh": {
   "id": "cl-f2U66sy9N96TtxxGMByAnh",
   "source": "craigslist",
-  "title": "1 Freshwater 2016 Yamaha SVHO",
+  "title": "1 -  freshwater 2016 Yamaha SVHO and a 2004 Yamaha FX for  extra $",
   "location": "City of San Diego",
   "url": "https://www.craigslist.org/view/d/san-diego-freshwater-2016-yamaha-svho/f2U66sy9N96TtxxGMByAnh",
   "length_ft": null,
   "year": 2016,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 8000
+   },
+   {
+    "date": "2026-11-07",
+    "price": 7500
    }
   ],
-  "status": "new"
+  "status": "drop"
  },
  "cl-du23Fhq7SNvNMLpy4kUVZ3": {
   "id": "cl-du23Fhq7SNvNMLpy4kUVZ3",
   "source": "craigslist",
-  "title": "Clean, Serviced 2007 Yamaha AR 210 Boat",
+  "title": "Clean, serviced 2007 Yamaha AR 210 Boat and Trailer - Low 65 Hours**",
   "location": "City of San Diego",
   "url": "https://www.craigslist.org/view/d/san-diego-clean-serviced-2007-yamaha-ar/du23Fhq7SNvNMLpy4kUVZ3",
   "length_ft": null,
   "year": 2007,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -6061,6 +6109,10 @@
    {
     "date": "2026-10-05",
     "price": 18000
+   },
+   {
+    "date": "2026-11-07",
+    "price": 17500
    }
   ],
   "status": "drop"
@@ -6068,31 +6120,35 @@
  "cl-u4SYsv5hewBW5ahDUxagnV": {
   "id": "cl-u4SYsv5hewBW5ahDUxagnV",
   "source": "craigslist",
-  "title": "2000 Polaris Virage Jet Ski",
+  "title": "2000 Polaris Virage Jet Ski with Trailer",
   "location": "Chula Vista",
   "url": "https://www.craigslist.org/view/d/chula-vista-2000-polaris-virage-jet-ski/u4SYsv5hewBW5ahDUxagnV",
   "length_ft": null,
   "year": 2000,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 3500
+   },
+   {
+    "date": "2026-11-07",
+    "price": 3000
    }
   ],
-  "status": "new"
+  "status": "drop"
  },
  "cl-v1CazgEEQQ9pRvjvYTXwZt": {
   "id": "cl-v1CazgEEQQ9pRvjvYTXwZt",
   "source": "craigslist",
-  "title": "Wakeboard Boat Malibu",
+  "title": "Wakeboard boat Malibu",
   "location": "City of San Diego",
   "url": "https://www.craigslist.org/view/d/san-diego-wakeboard-boat-malibu/v1CazgEEQQ9pRvjvYTXwZt",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -6101,6 +6157,10 @@
    {
     "date": "2026-10-05",
     "price": 10000
+   },
+   {
+    "date": "2026-11-07",
+    "price": 8000
    }
   ],
   "status": "drop"
@@ -6108,67 +6168,75 @@
  "cl-eY3osv9YkhGdUy3cWimCM9": {
   "id": "cl-eY3osv9YkhGdUy3cWimCM9",
   "source": "craigslist",
-  "title": "2001 35FT Carver Mariner",
+  "title": "2001 35FT Carver Mariner / Excellent Condition",
   "location": "Harbor Island",
   "url": "https://www.craigslist.org/view/d/san-diego-ft-carver-mariner-excellent/eY3osv9YkhGdUy3cWimCM9",
   "length_ft": 35.0,
   "year": 2001,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 59900
+   },
+   {
+    "date": "2026-11-07",
+    "price": 57000
    }
   ],
-  "status": "new"
+  "status": "drop"
  },
  "cl-1tHvSSufD3QHj6XcY2b8xt": {
   "id": "cl-1tHvSSufD3QHj6XcY2b8xt",
   "source": "craigslist",
-  "title": "1986 Willard Navy Captains Gig",
+  "title": "1986 Willard Navy Captains gig documented and fully restored",
   "location": "City of San Diego",
   "url": "https://www.craigslist.org/view/d/san-diego-1986-willard-navy-captains/1tHvSSufD3QHj6XcY2b8xt",
   "length_ft": null,
   "year": 1986,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 23000
+   },
+   {
+    "date": "2026-11-07",
+    "price": 22500
    }
   ],
-  "status": "new"
+  "status": "drop"
  },
  "cl-8ktF131u55RvPcz252BZ14": {
   "id": "cl-8ktF131u55RvPcz252BZ14",
   "source": "craigslist",
-  "title": "Fish/Dive Boat",
+  "title": "Fish /Dive Boat",
   "location": "San Pedro",
   "url": "https://www.craigslist.org/view/d/san-pedro-fish-dive-boat/8ktF131u55RvPcz252BZ14",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 19000
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-qBVgWSekbqtQURt3NvN8wV": {
   "id": "cl-qBVgWSekbqtQURt3NvN8wV",
   "source": "craigslist",
-  "title": "26 ft Caribbean Day Cruiser Boat",
+  "title": "26 ft Caribbean day cruiser boat",
   "location": "Mesa",
   "url": "https://www.craigslist.org/view/d/mesa-26-ft-caribbean-day-cruiser-boat/qBVgWSekbqtQURt3NvN8wV",
   "length_ft": 26.0,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -6190,7 +6258,7 @@
   "length_ft": null,
   "year": 2011,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -6212,7 +6280,7 @@
   "length_ft": null,
   "year": 1997,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -6221,9 +6289,13 @@
    {
     "date": "2026-10-05",
     "price": 36000
+   },
+   {
+    "date": "2026-11-07",
+    "price": 35000
    }
   ],
-  "status": "rise"
+  "status": "drop"
  },
  "cl-dw6gy1rWdJe2GCbpPLrCGE": {
   "id": "cl-dw6gy1rWdJe2GCbpPLrCGE",
@@ -6234,7 +6306,7 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -6267,18 +6339,18 @@
     "price": 13000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-jCaqdzWPs5FpzvfbD9pf5D": {
   "id": "cl-jCaqdzWPs5FpzvfbD9pf5D",
   "source": "craigslist",
-  "title": "2015 Monterey 264 FS Bowrider",
+  "title": "2015 Monterey 264 FS 170 hrs Closed Cooling Bowrider",
   "location": "Lake Elsinore",
   "url": "https://www.craigslist.org/view/d/fallbrook-2015-monterey-264-fs-170-hrs/jCaqdzWPs5FpzvfbD9pf5D",
   "length_ft": null,
   "year": 2015,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -6287,9 +6359,13 @@
    {
     "date": "2026-10-05",
     "price": 32900
+   },
+   {
+    "date": "2026-11-07",
+    "price": 27900
    }
   ],
-  "status": "rise"
+  "status": "drop"
  },
  "cl-cRDpENhDaaMKiNA39Qj1LA": {
   "id": "cl-cRDpENhDaaMKiNA39Qj1LA",
@@ -6300,7 +6376,7 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -6329,7 +6405,7 @@
     "price": 7500
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-474aMQ8TYy1wKLiW5rTyF": {
   "id": "cl-474aMQ8TYy1wKLiW5rTyF",
@@ -6347,7 +6423,7 @@
     "price": 4800
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-1D3swX21CYtNRZqY4tgN2y": {
   "id": "cl-1D3swX21CYtNRZqY4tgN2y",
@@ -6358,7 +6434,7 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -6367,6 +6443,10 @@
    {
     "date": "2026-10-05",
     "price": 8999
+   },
+   {
+    "date": "2026-11-07",
+    "price": 8420
    }
   ],
   "status": "drop"
@@ -6374,20 +6454,24 @@
  "cl-wfHLWsNA2k7UAVRgDmDFjy": {
   "id": "cl-wfHLWsNA2k7UAVRgDmDFjy",
   "source": "craigslist",
-  "title": "Uniflite Uniflight 33ft",
+  "title": "Uniflite Uniflight 33ft 33&#39; fiberglass diesel Navy Captain&#39;s gig",
   "location": "So. Cal",
   "url": "https://www.craigslist.org/view/d/san-diego-uniflite-uniflight-33ft-33/wfHLWsNA2k7UAVRgDmDFjy",
   "length_ft": 33.0,
   "year": null,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 14000
+   },
+   {
+    "date": "2026-11-07",
+    "price": 10500
    }
   ],
-  "status": "new"
+  "status": "drop"
  },
  "cl-rgqceAwEQXkoUXbm7za9ju": {
   "id": "cl-rgqceAwEQXkoUXbm7za9ju",
@@ -6405,7 +6489,7 @@
     "price": 3000
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-3CnTD6YVnMgfP6rJnkP6tY": {
   "id": "cl-3CnTD6YVnMgfP6rJnkP6tY",
@@ -6423,7 +6507,7 @@
     "price": 59000
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-uQkKfLvdF5ZHAa3dwXBvTu": {
   "id": "cl-uQkKfLvdF5ZHAa3dwXBvTu",
@@ -6445,18 +6529,18 @@
     "price": 6500
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-4aNonM4H8uPHRJkFnSSrV8": {
   "id": "cl-4aNonM4H8uPHRJkFnSSrV8",
   "source": "craigslist",
-  "title": "17ft Morley Canoe",
+  "title": "17ft Morley Canoe with bow inlays",
   "location": "Atascadero",
   "url": "https://www.craigslist.org/view/d/woodlake-17ft-morley-canoe-with-bow/4aNonM4H8uPHRJkFnSSrV8",
   "length_ft": 17.0,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -6472,13 +6556,13 @@
  "cl-gRSxpK6asTs7hYQWHbanPK": {
   "id": "cl-gRSxpK6asTs7hYQWHbanPK",
   "source": "craigslist",
-  "title": "Farallon 27 Whaleback Project",
+  "title": "Farallon 27 Whaleback Project - $40,000",
   "location": "City of San Diego",
   "url": "https://www.craigslist.org/view/d/san-diego-farallon-27-whaleback-project/gRSxpK6asTs7hYQWHbanPK",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -6511,18 +6595,18 @@
     "price": 3000
    }
   ],
-  "status": "drop"
+  "status": "gone"
  },
  "cl-61yChudmAAmKLC5tv2dYXj": {
   "id": "cl-61yChudmAAmKLC5tv2dYXj",
   "source": "craigslist",
-  "title": "1996 Bayliner Trophy 2352",
+  "title": "1996 Bayliner Trophy 2352  Ready for El Nino Exotics This Year",
   "location": "Oceanside",
   "url": "https://www.craigslist.org/view/d/oceanside-1996-bayliner-trophy-2352/61yChudmAAmKLC5tv2dYXj",
   "length_ft": null,
   "year": 1996,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -6544,14 +6628,14 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 4000
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-prRfHaaSC5oqCJQSgsA9ej": {
   "id": "cl-prRfHaaSC5oqCJQSgsA9ej",
@@ -6562,7 +6646,7 @@
   "length_ft": null,
   "year": 2006,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -6571,20 +6655,24 @@
    {
     "date": "2026-10-05",
     "price": 18250
+   },
+   {
+    "date": "2026-11-07",
+    "price": 17000
    }
   ],
-  "status": "rise"
+  "status": "drop"
  },
  "cl-gSZdFFHMmqyzbaM1cGYorB": {
   "id": "cl-gSZdFFHMmqyzbaM1cGYorB",
   "source": "craigslist",
-  "title": "22ft Searay Cabin Power Boat",
+  "title": "22ft Searay cabin power boat",
   "location": "Huntington Beach",
   "url": "https://www.craigslist.org/view/d/huntington-beach-22ft-searay-cabin/gSZdFFHMmqyzbaM1cGYorB",
   "length_ft": 22.0,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -6600,20 +6688,24 @@
  "cl-fMhvoRWT9KvcHgAg1HSboa": {
   "id": "cl-fMhvoRWT9KvcHgAg1HSboa",
   "source": "craigslist",
-  "title": "1970's Boston Whaler 11' Sport",
+  "title": "1970\u2019s Boston Whaler 11\u2019 Sport",
   "location": "City of San Diego",
   "url": "https://www.craigslist.org/view/d/san-diego-1970s-boston-whaler-11-sport/fMhvoRWT9KvcHgAg1HSboa",
   "length_ft": 11.0,
   "year": 1970,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 5500
+   },
+   {
+    "date": "2026-11-07",
+    "price": 4500
    }
   ],
-  "status": "new"
+  "status": "drop"
  },
  "cl-rTWN2PZmnCF4GHtnMeaAJK": {
   "id": "cl-rTWN2PZmnCF4GHtnMeaAJK",
@@ -6635,7 +6727,7 @@
     "price": 34000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-h7aLvHcXB4JMTbEhEsFE5A": {
   "id": "cl-h7aLvHcXB4JMTbEhEsFE5A",
@@ -6657,7 +6749,7 @@
     "price": 16000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-5CKtG5681v3aJthNeXDFM7": {
   "id": "cl-5CKtG5681v3aJthNeXDFM7",
@@ -6679,7 +6771,7 @@
     "price": 37000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-tfPGbG6Pnx6d98eGTXS3u4": {
   "id": "cl-tfPGbG6Pnx6d98eGTXS3u4",
@@ -6701,7 +6793,7 @@
     "price": 34000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-ipoZeczmq9NMxqj7D98Xd4": {
   "id": "cl-ipoZeczmq9NMxqj7D98Xd4",
@@ -6719,18 +6811,18 @@
     "price": 6500
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-72S2ruqkkpofRCTRooJnca": {
   "id": "cl-72S2ruqkkpofRCTRooJnca",
   "source": "craigslist",
-  "title": "2015 Monterey 264 FS Bowrider",
+  "title": "2015 Monterey 264 FS 170 hrs Closed Cooling Bowrider",
   "location": "Vista",
   "url": "https://www.craigslist.org/view/d/vista-2015-monterey-264-fs-170-hrs/72S2ruqkkpofRCTRooJnca",
   "length_ft": null,
   "year": 2015,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -6763,7 +6855,7 @@
     "price": 4000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-3VXLpR5qL94V5y1ZHkMJ3f": {
   "id": "cl-3VXLpR5qL94V5y1ZHkMJ3f",
@@ -6774,7 +6866,7 @@
   "length_ft": 20.0,
   "year": 1968,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -6803,7 +6895,7 @@
     "price": 4800
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-twaVSvk2RkQVDU5RLuXELx": {
   "id": "cl-twaVSvk2RkQVDU5RLuXELx",
@@ -6814,32 +6906,36 @@
   "length_ft": null,
   "year": 1978,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 32000
+   },
+   {
+    "date": "2026-11-07",
+    "price": 30000
    }
   ],
-  "status": "new"
+  "status": "drop"
  },
  "cl-dc4fvx7vK6M2bqYr2bRK7y": {
   "id": "cl-dc4fvx7vK6M2bqYr2bRK7y",
   "source": "craigslist",
-  "title": "2000 Tracker 18ft",
+  "title": "2000 Tracker18ft  75HP 4 Stroke",
   "location": "San Diego",
   "url": "https://www.craigslist.org/view/d/san-diego-2000-tracker18ft-75hp-stroke/dc4fvx7vK6M2bqYr2bRK7y",
   "length_ft": 18.0,
   "year": 2000,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 7500
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-ngPxmNuy5jBJ1MbqV9LbHw": {
   "id": "cl-ngPxmNuy5jBJ1MbqV9LbHw",
@@ -6850,14 +6946,14 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 20000
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-q6QAzqUpPEBCmSYafELeGS": {
   "id": "cl-q6QAzqUpPEBCmSYafELeGS",
@@ -6875,7 +6971,7 @@
     "price": 14000
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-6md6qz7qHN2L1hovgwkHEb": {
   "id": "cl-6md6qz7qHN2L1hovgwkHEb",
@@ -6886,7 +6982,7 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -6895,9 +6991,13 @@
    {
     "date": "2026-10-05",
     "price": 8250
+   },
+   {
+    "date": "2026-11-07",
+    "price": 8100
    }
   ],
-  "status": "rise"
+  "status": "drop"
  },
  "cl-77cMveqCp8S1f3Nzj9286D": {
   "id": "cl-77cMveqCp8S1f3Nzj9286D",
@@ -6915,7 +7015,7 @@
     "price": 50000
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-qPVSrkYokbtKXgYTgs9nCe": {
   "id": "cl-qPVSrkYokbtKXgYTgs9nCe",
@@ -6926,7 +7026,7 @@
   "length_ft": 24.0,
   "year": 1979,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -6942,13 +7042,13 @@
  "cl-851xXodYcEfnNkDU6qzv5K": {
   "id": "cl-851xXodYcEfnNkDU6qzv5K",
   "source": "craigslist",
-  "title": "1987 Silverton Convertible Flybridge Sportfisher",
+  "title": "1987 Silverton convertible flybridge sportfisher",
   "location": "Oceanside Harbor",
   "url": "https://www.craigslist.org/view/d/oceanside-1987-silverton-convertible/851xXodYcEfnNkDU6qzv5K",
   "length_ft": null,
   "year": 1987,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -6964,13 +7064,13 @@
  "cl-51BaDtpy29K5b9PD6GyYVX": {
   "id": "cl-51BaDtpy29K5b9PD6GyYVX",
   "source": "craigslist",
-  "title": "15 Avon Center Console Fishing Boat",
+  "title": "15 Avon Center Console Fishing Boat w/Trailer Incl.",
   "location": "San Diego",
   "url": "https://www.craigslist.org/view/d/san-diego-15-avon-center-console/51BaDtpy29K5b9PD6GyYVX",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -6986,13 +7086,13 @@
  "cl-qGjSrUM8Mb2JxEJGXEKnpv": {
   "id": "cl-qGjSrUM8Mb2JxEJGXEKnpv",
   "source": "craigslist",
-  "title": "1989 20' Duffy Electric Boat",
+  "title": "20&#39; Duffy Electric Boat - San Diego",
   "location": "Coronado",
-  "url": "https://www.craigslist.org/view/d/san-diego-duffy-electric-boat-san-diego/qGjSrUM8Mb2JxEJGXEKnpv",
+  "url": "https://www.craigslist.org/view/d/san-diego-20-duffy-electric-boat-san/qGjSrUM8Mb2JxEJGXEKnpv",
   "length_ft": 20.0,
   "year": 1989,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -7008,13 +7108,13 @@
  "cl-b3GE5ucQyuTe1PiLhLV2Xc": {
   "id": "cl-b3GE5ucQyuTe1PiLhLV2Xc",
   "source": "craigslist",
-  "title": "Moore 30 Racing Boat",
+  "title": "Moore 30 racing boat",
   "location": "Dana Point",
   "url": "https://www.craigslist.org/view/d/dana-point-moore-30-racing-boat/b3GE5ucQyuTe1PiLhLV2Xc",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -7023,27 +7123,31 @@
    {
     "date": "2026-10-05",
     "price": 14000
+   },
+   {
+    "date": "2026-11-07",
+    "price": 12000
    }
   ],
-  "status": "rise"
+  "status": "drop"
  },
  "cl-fHLg7QQmEyiyFrqLfookRg": {
   "id": "cl-fHLg7QQmEyiyFrqLfookRg",
   "source": "craigslist",
-  "title": "1998 Sugar Sand Tango",
+  "title": "1998 Sugar Sand Tango--Water ready--nice little jet boat",
   "location": "Santee",
   "url": "https://www.craigslist.org/view/d/santee-1998-sugar-sand-tango-water/fHLg7QQmEyiyFrqLfookRg",
   "length_ft": null,
   "year": 1998,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 4500
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-3pX1JdUGgVNxHbm6ta8AaZ": {
   "id": "cl-3pX1JdUGgVNxHbm6ta8AaZ",
@@ -7054,7 +7158,7 @@
   "length_ft": 31.0,
   "year": 2001,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -7070,13 +7174,13 @@
  "cl-ghKHY9xsrxeRyvTv2snSaF": {
   "id": "cl-ghKHY9xsrxeRyvTv2snSaF",
   "source": "craigslist",
-  "title": "2003 JC Tritoon 266",
+  "title": "2003 JC Tritoon 266 \u2013 300 HP MerCruiser \u2013 Only 117 Hours",
   "location": "North San Diego County",
   "url": "https://www.craigslist.org/view/d/fallbrook-2003-jc-tritoon-hp-mercruiser/ghKHY9xsrxeRyvTv2snSaF",
   "length_ft": null,
   "year": 2003,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -7092,13 +7196,13 @@
  "cl-p9qu5KeAke8oge8kN66QC5": {
   "id": "cl-p9qu5KeAke8oge8kN66QC5",
   "source": "craigslist",
-  "title": "2001 Boston Whaler 21 Ventura",
+  "title": "2001 Boston Whaler 21 Ventura w/Mercury 200hp Optimax &amp; Trailer",
   "location": "San Diego",
   "url": "https://www.craigslist.org/view/d/san-diego-2001-boston-whaler-21-ventura/p9qu5KeAke8oge8kN66QC5",
   "length_ft": null,
   "year": 2001,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -7127,7 +7231,7 @@
     "price": 26000
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-izEW5D81XmM8JSevBPRxDH": {
   "id": "cl-izEW5D81XmM8JSevBPRxDH",
@@ -7145,7 +7249,7 @@
     "price": 4800
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-a9Ew4num2n5BkghMofbaU6": {
   "id": "cl-a9Ew4num2n5BkghMofbaU6",
@@ -7167,7 +7271,7 @@
     "price": 3650
    }
   ],
-  "status": "drop"
+  "status": "gone"
  },
  "cl-sTsUJMH2dfAGeEj8TjUyhc": {
   "id": "cl-sTsUJMH2dfAGeEj8TjUyhc",
@@ -7185,7 +7289,7 @@
     "price": 36500
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-behhf96aAMXo9G7FhHdKJF": {
   "id": "cl-behhf96aAMXo9G7FhHdKJF",
@@ -7207,7 +7311,7 @@
     "price": 27000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-dzBwGRVmea9sKaUFEHKfD2": {
   "id": "cl-dzBwGRVmea9sKaUFEHKfD2",
@@ -7225,7 +7329,7 @@
     "price": 25500
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-jghNwbnQCjrS4MfqL2Dgvk": {
   "id": "cl-jghNwbnQCjrS4MfqL2Dgvk",
@@ -7243,18 +7347,18 @@
     "price": 29000
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-o6dJyD4vNMejDYK2btSsX1": {
   "id": "cl-o6dJyD4vNMejDYK2btSsX1",
   "source": "craigslist",
-  "title": "Pontoon Boat 2016 Apex Angler 20 ft",
+  "title": "Pontoon Boat 2016 Apex Angler 20 ft Fishing Honda 60 hp Outboard",
   "location": "Casa De Oro",
   "url": "https://www.craigslist.org/view/d/spring-valley-pontoon-boat-2016-apex/o6dJyD4vNMejDYK2btSsX1",
   "length_ft": 20.0,
   "year": 2016,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -7270,13 +7374,13 @@
  "cl-fQkZxfs3c8fED8eQbsSA5f": {
   "id": "cl-fQkZxfs3c8fED8eQbsSA5f",
   "source": "craigslist",
-  "title": "Smitty ATC Marine Suzuki DF200ATX",
+  "title": "Smitty ATC Marine- Best prices ($5K off) Suzuki&#39;s - DF200ATX - $16,890",
   "location": "City of San Diego",
   "url": "https://www.craigslist.org/view/d/jamul-smitty-atc-marine-best-prices-5k/fQkZxfs3c8fED8eQbsSA5f",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -7305,54 +7409,58 @@
     "price": 36000
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-htV9TkBYZJ4HqVZv5fo5LM": {
   "id": "cl-htV9TkBYZJ4HqVZv5fo5LM",
   "source": "craigslist",
-  "title": "1986 Carver 42' Aft Cabin Motor Yacht",
+  "title": "1986 Carver 42&#39; Aft Cabin Motor Yacht Live-a-board Opportunity",
   "location": "City of San Diego",
   "url": "https://www.craigslist.org/view/d/coronado-1986-carver-42-aft-cabin-motor/htV9TkBYZJ4HqVZv5fo5LM",
   "length_ft": 42.0,
   "year": 1986,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 30000
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-bHuVk8vXyLDk61JVkxV5wP": {
   "id": "cl-bHuVk8vXyLDk61JVkxV5wP",
   "source": "craigslist",
-  "title": "S2 9.2C 30' Center-Cockpit Sailboat",
+  "title": "$4,200 OBO \u2013 S2 9.2C 30\u2019 Center-Cockpit Sailboat \u2013 San Diego \u2013 Slip Op",
   "location": "Coronado",
-  "url": "https://www.craigslist.org/view/d/coronado-5000-obo-s2-92c-30-center/bHuVk8vXyLDk61JVkxV5wP",
+  "url": "https://www.craigslist.org/view/d/coronado-4200-obo-s2-92c-30-center/bHuVk8vXyLDk61JVkxV5wP",
   "length_ft": 30.0,
   "year": null,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 5000
+   },
+   {
+    "date": "2026-11-07",
+    "price": 4200
    }
   ],
-  "status": "new"
+  "status": "drop"
  },
  "cl-uF5T9po6CgNkWaotS7h7nt": {
   "id": "cl-uF5T9po6CgNkWaotS7h7nt",
   "source": "craigslist",
-  "title": "14' Gregor Welded Aluminum Boat",
+  "title": "14\u2019 Gregor Welded Aluminum Boat",
   "location": "San Diego",
   "url": "https://www.craigslist.org/view/d/san-diego-14-gregor-welded-aluminum-boat/uF5T9po6CgNkWaotS7h7nt",
   "length_ft": 14.0,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -7381,18 +7489,18 @@
     "price": 5000
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-11G4e5FmnEYiy2NhZihyhU": {
   "id": "cl-11G4e5FmnEYiy2NhZihyhU",
   "source": "craigslist",
-  "title": "DUFFY FOR SALE",
+  "title": "DUFFY FOR SALE - 20&#39; Great Condition",
   "location": "Coronado",
   "url": "https://www.craigslist.org/view/d/san-diego-duffy-for-sale-20-great/11G4e5FmnEYiy2NhZihyhU",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -7408,13 +7516,13 @@
  "cl-txYDiiVkervT1BDTiHfY1d": {
   "id": "cl-txYDiiVkervT1BDTiHfY1d",
   "source": "craigslist",
-  "title": "5 STAR OCEAN HOTEL",
+  "title": "5 STAR OCEAN HOTEL New Motor !! &amp; Upholstery !!!",
   "location": "Alpine",
   "url": "https://www.craigslist.org/view/d/alpine-star-ocean-hotel-new-motor/txYDiiVkervT1BDTiHfY1d",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -7430,13 +7538,13 @@
  "cl-hwFTTsLDsrpD7bgpzLsjCm": {
   "id": "cl-hwFTTsLDsrpD7bgpzLsjCm",
   "source": "craigslist",
-  "title": "2026 Inmar 360R-YS Yacht Tender",
+  "title": "2026 inmar 360r-ys yacht tender",
   "location": "Oceanside",
   "url": "https://www.craigslist.org/view/d/oceanside-2026-inmar-360r-ys-yacht/hwFTTsLDsrpD7bgpzLsjCm",
   "length_ft": null,
   "year": 2026,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -7452,13 +7560,13 @@
  "cl-6qnshqdVk2YDdnoM5feqBf": {
   "id": "cl-6qnshqdVk2YDdnoM5feqBf",
   "source": "craigslist",
-  "title": "2026 Inmar 360R-YS Yacht Tender",
+  "title": "2026 inmar 360r-ys yacht tender",
   "location": "Oceanside",
   "url": "https://www.craigslist.org/view/d/oceanside-2026-inmar-360r-ys-yacht/6qnshqdVk2YDdnoM5feqBf",
   "length_ft": null,
   "year": 2026,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -7474,13 +7582,13 @@
  "cl-iYxpDyGpfBHY6F98WnD9N1": {
   "id": "cl-iYxpDyGpfBHY6F98WnD9N1",
   "source": "craigslist",
-  "title": "2026 Inmar 280R-AL",
+  "title": "2026 inmar 280r-al 6 hp motor",
   "location": "Oceanside",
   "url": "https://www.craigslist.org/view/d/oceanside-2026-inmar-280r-al-hp-motor/iYxpDyGpfBHY6F98WnD9N1",
   "length_ft": null,
   "year": 2026,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -7496,13 +7604,13 @@
  "cl-okp8qLkZu429SyRP99KF6A": {
   "id": "cl-okp8qLkZu429SyRP99KF6A",
   "source": "craigslist",
-  "title": "2026 Suzuki DF200aTxw5",
+  "title": "2026 suzuki df200aTxw5",
   "location": "Oceanside",
   "url": "https://www.craigslist.org/view/d/oceanside-2026-suzuki-df200atxw5/okp8qLkZu429SyRP99KF6A",
   "length_ft": null,
   "year": 2026,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -7524,14 +7632,14 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 17995
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-mVGFNmVqzA7GjDszT6HxRK": {
   "id": "cl-mVGFNmVqzA7GjDszT6HxRK",
@@ -7549,18 +7657,18 @@
     "price": 37900
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-toEfrn5Xwjjm44jm2k9Dsv": {
   "id": "cl-toEfrn5Xwjjm44jm2k9Dsv",
   "source": "craigslist",
-  "title": "20' DUFFY FOR SALE",
+  "title": "20&#39; DUFFY :: REALLY CLEAN AND WELL MAINTAINED  \u2013 AMAZING DEAL !!!!!!",
   "location": "Coronado",
-  "url": "https://www.craigslist.org/view/d/san-diego-20-duffy-for-sale-clean-and/toEfrn5Xwjjm44jm2k9Dsv",
+  "url": "https://www.craigslist.org/view/d/san-diego-20-duffy-really-clean-and/toEfrn5Xwjjm44jm2k9Dsv",
   "length_ft": 20.0,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -7593,7 +7701,7 @@
     "price": 7000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-vnFfJc2hr98VppCEbEoLJj": {
   "id": "cl-vnFfJc2hr98VppCEbEoLJj",
@@ -7615,7 +7723,7 @@
     "price": 19000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-cY9iPptr91BxKxMdzgqUZw": {
   "id": "cl-cY9iPptr91BxKxMdzgqUZw",
@@ -7633,7 +7741,7 @@
     "price": 34900
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-fARDkQJEsFJYC3uNioEL8u": {
   "id": "cl-fARDkQJEsFJYC3uNioEL8u",
@@ -7651,7 +7759,7 @@
     "price": 5000
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-m7gMDgVKDvLexKp1a2R5dj": {
   "id": "cl-m7gMDgVKDvLexKp1a2R5dj",
@@ -7669,7 +7777,7 @@
     "price": 29900
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-xyDR8S6UnzJU2y4j2JumMV": {
   "id": "cl-xyDR8S6UnzJU2y4j2JumMV",
@@ -7691,7 +7799,7 @@
     "price": 8003
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-2fJPnLLdpJX5LcFjGdPpaR": {
   "id": "cl-2fJPnLLdpJX5LcFjGdPpaR",
@@ -7702,7 +7810,7 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -7711,20 +7819,24 @@
    {
     "date": "2026-10-05",
     "price": 4500
+   },
+   {
+    "date": "2026-11-07",
+    "price": 4200
    }
   ],
-  "status": "rise"
+  "status": "drop"
  },
  "cl-2mh6zvnsCnW7jEQqPxMyWo": {
   "id": "cl-2mh6zvnsCnW7jEQqPxMyWo",
   "source": "craigslist",
-  "title": "SeaDoo Sportster Jet Boat",
+  "title": "SeaDoo Sportster Jet Boat With Trailer",
   "location": "Ramona",
-  "url": "https://www.craigslist.org/view/d/el-cajon-seadoo-sportster-jet-boat/2mh6zvnsCnW7jEQqPxMyWo",
+  "url": "https://www.craigslist.org/view/d/el-cajon-seadoo-sportster-jet-boat-with/2mh6zvnsCnW7jEQqPxMyWo",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -7733,9 +7845,13 @@
    {
     "date": "2026-10-05",
     "price": 4500
+   },
+   {
+    "date": "2026-11-07",
+    "price": 4200
    }
   ],
-  "status": "rise"
+  "status": "drop"
  },
  "cl-q9Xc9467tk1zprXza9WPQ1": {
   "id": "cl-q9Xc9467tk1zprXza9WPQ1",
@@ -7753,7 +7869,7 @@
     "price": 3000
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-afgofsvCyUu2VtxnY7eywJ": {
   "id": "cl-afgofsvCyUu2VtxnY7eywJ",
@@ -7771,7 +7887,7 @@
     "price": 20000
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-w9rUFN3mdJwHCLjhFdDq2z": {
   "id": "cl-w9rUFN3mdJwHCLjhFdDq2z",
@@ -7782,7 +7898,7 @@
   "length_ft": null,
   "year": 1982,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -7798,13 +7914,13 @@
  "cl-3oENgqWojRAp2VNqasYmRC": {
   "id": "cl-3oENgqWojRAp2VNqasYmRC",
   "source": "craigslist",
-  "title": "20 Foot Boat Four Winns Horizon 200",
+  "title": "20 foot boat four winns horizon 200 and tandem trailer",
   "location": "Escondido",
   "url": "https://www.craigslist.org/view/d/san-marcos-20-foot-boat-four-winns/3oENgqWojRAp2VNqasYmRC",
   "length_ft": 20.0,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -7837,7 +7953,7 @@
     "price": 4750
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-sgUSQcuxn4X5xyyS4KhC9T": {
   "id": "cl-sgUSQcuxn4X5xyyS4KhC9T",
@@ -7855,25 +7971,25 @@
     "price": 6995
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-nWbsL8jWGsqhAR1uzX8JmG": {
   "id": "cl-nWbsL8jWGsqhAR1uzX8JmG",
   "source": "craigslist",
-  "title": "1975 Oday Sailboat 25 ft",
+  "title": "*    *     *   1975 Oday Sailboat  25 ft   *    *     *",
   "location": "Mission Bay",
   "url": "https://www.craigslist.org/view/d/san-diego-oday-sailboat-25-ft/nWbsL8jWGsqhAR1uzX8JmG",
   "length_ft": 25.0,
   "year": 1975,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 4200
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-mUkehVdqWkMbrVsmdMh2zf": {
   "id": "cl-mUkehVdqWkMbrVsmdMh2zf",
@@ -7895,7 +8011,7 @@
     "price": 40000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-4eQDwTT7ctqqjPQXPPX43a": {
   "id": "cl-4eQDwTT7ctqqjPQXPPX43a",
@@ -7913,18 +8029,18 @@
     "price": 3450
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-6x34V6PoBg4Y9qQSZyKFbW": {
   "id": "cl-6x34V6PoBg4Y9qQSZyKFbW",
   "source": "craigslist",
-  "title": "Navy Hull Uniflite Uniflight",
+  "title": "Navy hull Uniflite Uniflight diesel boat Detroit 33ft Mark3 mk3",
   "location": "Morro Bay",
   "url": "https://www.craigslist.org/view/d/san-diego-navy-hull-uniflite-uniflight/6x34V6PoBg4Y9qQSZyKFbW",
   "length_ft": 33.0,
   "year": 1979,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -7933,9 +8049,13 @@
    {
     "date": "2026-10-05",
     "price": 14000
+   },
+   {
+    "date": "2026-11-07",
+    "price": 10500
    }
   ],
-  "status": "rise"
+  "status": "drop"
  },
  "cl-rdZxHSVinSrNLwhfue3cTK": {
   "id": "cl-rdZxHSVinSrNLwhfue3cTK",
@@ -7953,7 +8073,7 @@
     "price": 49900
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-95HmNhozqXHsH1y9AkiCKY": {
   "id": "cl-95HmNhozqXHsH1y9AkiCKY",
@@ -7975,7 +8095,7 @@
     "price": 3200
    }
   ],
-  "status": "drop"
+  "status": "gone"
  },
  "cl-efTsgvu3KL1fW77smJVQb3": {
   "id": "cl-efTsgvu3KL1fW77smJVQb3",
@@ -7997,7 +8117,7 @@
     "price": 9500
    }
   ],
-  "status": "drop"
+  "status": "gone"
  },
  "cl-nF7NNcveE3z4wG4M3PLdK2": {
   "id": "cl-nF7NNcveE3z4wG4M3PLdK2",
@@ -8019,18 +8139,18 @@
     "price": 9500
    }
   ],
-  "status": "drop"
+  "status": "gone"
  },
  "cl-gL7z949YxPwHwQ9DE3FJVw": {
   "id": "cl-gL7z949YxPwHwQ9DE3FJVw",
   "source": "craigslist",
-  "title": "2005 Maxum 1900 SR",
+  "title": "2005 maxum 1900 SR",
   "location": "Lakeside",
   "url": "https://www.craigslist.org/view/d/el-cajon-2005-maxum-1900-sr/gL7z949YxPwHwQ9DE3FJVw",
   "length_ft": null,
   "year": 2005,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -8063,18 +8183,18 @@
     "price": 9000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-mYSguJ1FuaqbqMkw2R5j8j": {
   "id": "cl-mYSguJ1FuaqbqMkw2R5j8j",
   "source": "craigslist",
-  "title": "32' Camper & Nicholson Sailboat",
+  "title": "32&#39; Camper &amp; Nicholson sailboat, located in Mexico",
   "location": "City of San Diego",
   "url": "https://www.craigslist.org/view/d/san-diego-32-camper-nicholson-sailboat/mYSguJ1FuaqbqMkw2R5j8j",
   "length_ft": 32.0,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -8090,13 +8210,13 @@
  "cl-bYFGevATGY92QBZBZ7sQbh": {
   "id": "cl-bYFGevATGY92QBZBZ7sQbh",
   "source": "craigslist",
-  "title": "96' Skeeter 180ZX",
+  "title": "96\u2019 Skeeter 180zx LOADED",
   "location": "East San Diego County",
   "url": "https://www.craigslist.org/view/d/santee-96-skeeter-180zx-loaded/bYFGevATGY92QBZBZ7sQbh",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -8112,20 +8232,24 @@
  "cl-rRSec57AmeUyu4S2aXEcYU": {
   "id": "cl-rRSec57AmeUyu4S2aXEcYU",
   "source": "craigslist",
-  "title": "2002 Carolina Classic 25",
+  "title": "2002 Carolina Classic 25 Sport Fishing Boat $50K",
   "location": "San Diego",
   "url": "https://www.craigslist.org/view/d/san-diego-2002-carolina-classic-25/rRSec57AmeUyu4S2aXEcYU",
   "length_ft": null,
   "year": 2002,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 54995
+   },
+   {
+    "date": "2026-11-07",
+    "price": 50000
    }
   ],
-  "status": "new"
+  "status": "drop"
  },
  "cl-aFkjPuq9LiceHMuQMRZZn8": {
   "id": "cl-aFkjPuq9LiceHMuQMRZZn8",
@@ -8147,7 +8271,7 @@
     "price": 10000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-c6UphnuHpqiM1n1tYArytS": {
   "id": "cl-c6UphnuHpqiM1n1tYArytS",
@@ -8165,7 +8289,7 @@
     "price": 11900
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-tBvTb69nMgggrXu5d1QiAH": {
   "id": "cl-tBvTb69nMgggrXu5d1QiAH",
@@ -8187,18 +8311,18 @@
     "price": 12000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-c6WLh2sEkyAAm3zEaSfAKB": {
   "id": "cl-c6WLh2sEkyAAm3zEaSfAKB",
   "source": "craigslist",
-  "title": "Cal 34 MK III",
+  "title": "Cal 34 MK III, 1978",
   "location": "San Diego",
   "url": "https://www.craigslist.org/view/d/coronado-cal-34-mk-iii-1978/c6WLh2sEkyAAm3zEaSfAKB",
   "length_ft": null,
   "year": 1978,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -8231,7 +8355,7 @@
     "price": 7300
    }
   ],
-  "status": "drop"
+  "status": "gone"
  },
  "cl-g7WM8UGNQjRoYAaet8Hu8s": {
   "id": "cl-g7WM8UGNQjRoYAaet8Hu8s",
@@ -8242,7 +8366,7 @@
   "length_ft": null,
   "year": 1996,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -8275,7 +8399,7 @@
     "price": 32000
    }
   ],
-  "status": "drop"
+  "status": "gone"
  },
  "cl-pqcet88C8o4xPya1v1wGCB": {
   "id": "cl-pqcet88C8o4xPya1v1wGCB",
@@ -8286,7 +8410,7 @@
   "length_ft": null,
   "year": 1990,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -8302,13 +8426,13 @@
  "cl-hf2Gp3TaPxMzgwbcxxEVsH": {
   "id": "cl-hf2Gp3TaPxMzgwbcxxEVsH",
   "source": "craigslist",
-  "title": "26' Nor'Sea Pilot House Sloop",
+  "title": "26\u2019 Nor\u2019Sea Pilot House Sloop",
   "location": "Oxnard",
   "url": "https://www.craigslist.org/view/d/oxnard-26-norsea-pilot-house-sloop/hf2Gp3TaPxMzgwbcxxEVsH",
   "length_ft": 26.0,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -8324,13 +8448,13 @@
  "cl-c17CWNXNiGAARKQ1Sz91CN": {
   "id": "cl-c17CWNXNiGAARKQ1Sz91CN",
   "source": "craigslist",
-  "title": "Glastron GX18",
+  "title": "Glastron GX18 Yamaha F115",
   "location": "City of San Diego",
   "url": "https://www.craigslist.org/view/d/escondido-glastron-gx18-yamaha-f115/c17CWNXNiGAARKQ1Sz91CN",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -8346,13 +8470,13 @@
  "cl-oH3yyTAwZfbBqYEBq71yec": {
   "id": "cl-oH3yyTAwZfbBqYEBq71yec",
   "source": "craigslist",
-  "title": "2005 Glastron GX18",
+  "title": "2005 Glastron GX18  + Yamaha F115  + Galvanized trailer",
   "location": "Escondido",
   "url": "https://www.craigslist.org/view/d/escondido-2005-glastron-gx18-yamaha/oH3yyTAwZfbBqYEBq71yec",
   "length_ft": null,
   "year": 2005,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -8368,13 +8492,13 @@
  "cl-8wUGSvY2f4Pbp4LFHXgwa5": {
   "id": "cl-8wUGSvY2f4Pbp4LFHXgwa5",
   "source": "craigslist",
-  "title": "Live-Aboard Yacht SeaRay Express Cruiser 310",
+  "title": "Reduced! Live-aboard. Yacht SeaRay Express Cruiser 310 liveaboard boat.",
   "location": "San Diego",
   "url": "https://www.craigslist.org/view/d/san-diego-reduced-live-aboard-yacht/8wUGSvY2f4Pbp4LFHXgwa5",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -8407,7 +8531,7 @@
     "price": 5200
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-pSjh2h5UMeewUKNfML1Xm1": {
   "id": "cl-pSjh2h5UMeewUKNfML1Xm1",
@@ -8425,7 +8549,7 @@
     "price": 3500
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-3rdKTe5oXnNTAnsZ3gDsXZ": {
   "id": "cl-3rdKTe5oXnNTAnsZ3gDsXZ",
@@ -8447,25 +8571,25 @@
     "price": 5000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-gjpmh9VhJ2b4JaxpdU3Av1": {
   "id": "cl-gjpmh9VhJ2b4JaxpdU3Av1",
   "source": "craigslist",
-  "title": "Grady White 208",
+  "title": "Grady white 208",
   "location": "East San Diego County",
   "url": "https://www.craigslist.org/view/d/alpine-grady-white-208/gjpmh9VhJ2b4JaxpdU3Av1",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 28500
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-mVSxCmpHE1XEY6tH23ovmD": {
   "id": "cl-mVSxCmpHE1XEY6tH23ovmD",
@@ -8487,7 +8611,7 @@
     "price": 14900
    }
   ],
-  "status": "drop"
+  "status": "gone"
  },
  "cl-6jKy8xLU84EUU7bYv5Mp2H": {
   "id": "cl-6jKy8xLU84EUU7bYv5Mp2H",
@@ -8505,18 +8629,18 @@
     "price": 59999
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-sE4fQMURquHE3fD175h7pe": {
   "id": "cl-sE4fQMURquHE3fD175h7pe",
   "source": "craigslist",
-  "title": "1975 Catalina 30",
+  "title": "1975 Catalina 30 with Oceanside Harbor slip",
   "location": "Oceanside",
   "url": "https://www.craigslist.org/view/d/oceanside-1975-catalina-30-with/sE4fQMURquHE3fD175h7pe",
   "length_ft": null,
   "year": 1975,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -8532,13 +8656,13 @@
  "cl-wzRhp5eHLB9zdS9PmoCQGE": {
   "id": "cl-wzRhp5eHLB9zdS9PmoCQGE",
   "source": "craigslist",
-  "title": "'95 Ski Nautique",
+  "title": "\u201895 Ski Nautique",
   "location": "Escondido",
   "url": "https://www.craigslist.org/view/d/escondido-95-ski-nautique/wzRhp5eHLB9zdS9PmoCQGE",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -8571,25 +8695,25 @@
     "price": 17500
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-ffZobtSBKvVqwMLsUBnut6": {
   "id": "cl-ffZobtSBKvVqwMLsUBnut6",
   "source": "craigslist",
-  "title": "WaveRunner/2 Ski Trailer",
+  "title": "WaveRunner/2 ski Trailer",
   "location": "San Diego",
   "url": "https://www.craigslist.org/view/d/carlsbad-waverunner-ski-trailer/ffZobtSBKvVqwMLsUBnut6",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 4000
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-27j4g3Cmt5tRcYhBT7aoZH": {
   "id": "cl-27j4g3Cmt5tRcYhBT7aoZH",
@@ -8611,25 +8735,25 @@
     "price": 3000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-vFqcXmm3far9ZAPdqbhhfn": {
   "id": "cl-vFqcXmm3far9ZAPdqbhhfn",
   "source": "craigslist",
-  "title": "1/6 Share \u2013 43' Hunter Sailboat \"Sun Spirit\"",
+  "title": "1/6 Share \u2013 43&#39; Hunter Sailboat &quot;Sun Spirit&quot; \u2013 Harbor Island",
   "location": "San Diego",
   "url": "https://www.craigslist.org/view/d/san-diego-6-share-43-hunter-sailboat/vFqcXmm3far9ZAPdqbhhfn",
   "length_ft": 43.0,
   "year": null,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 6000
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-uHRZnBgaXiVCSenWJ66gVn": {
   "id": "cl-uHRZnBgaXiVCSenWJ66gVn",
@@ -8651,18 +8775,18 @@
     "price": 6900
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-oiDL3TQYQDFY5KecDtMPWs": {
   "id": "cl-oiDL3TQYQDFY5KecDtMPWs",
   "source": "craigslist",
-  "title": "Boat Striper 2150",
+  "title": "Boat striper 2150 2hrs on engine",
   "location": "Lemon Grove",
   "url": "https://www.craigslist.org/view/d/lemon-grove-boat-striper-hrs-on-engine/oiDL3TQYQDFY5KecDtMPWs",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -8671,6 +8795,10 @@
    {
     "date": "2026-10-05",
     "price": 6800
+   },
+   {
+    "date": "2026-11-07",
+    "price": 6100
    }
   ],
   "status": "drop"
@@ -8678,13 +8806,13 @@
  "cl-6WCc6ggUwiBoXubjQobAZx": {
   "id": "cl-6WCc6ggUwiBoXubjQobAZx",
   "source": "craigslist",
-  "title": "26 M MacGregor Motor Sailer 2004",
+  "title": "26 M MacGregor Motor sailer 2004",
   "location": "Menifee",
   "url": "https://www.craigslist.org/view/d/menifee-26-macgregor-motor-sailer-2004/6WCc6ggUwiBoXubjQobAZx",
   "length_ft": null,
   "year": 2004,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -8700,20 +8828,20 @@
  "cl-gZMcBD2SFjmsp464oNXMsq": {
   "id": "cl-gZMcBD2SFjmsp464oNXMsq",
   "source": "craigslist",
-  "title": "30' Stiletto 30 Catamaran",
+  "title": "30&#39; Stiletto 30 Catamaran \u2013 Carbon Sails &amp; 48V Electric Repower",
   "location": "San Diego",
   "url": "https://www.craigslist.org/view/d/san-diego-30-stiletto-30-catamaran/gZMcBD2SFjmsp464oNXMsq",
   "length_ft": 30.0,
   "year": null,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 32500
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-bK4NLh5HbR4FyAeGha9Byv": {
   "id": "cl-bK4NLh5HbR4FyAeGha9Byv",
@@ -8735,7 +8863,7 @@
     "price": 7900
    }
   ],
-  "status": "drop"
+  "status": "gone"
  },
  "cl-jiwUeVXAZ3S2jQUpbZNeCc": {
   "id": "cl-jiwUeVXAZ3S2jQUpbZNeCc",
@@ -8746,14 +8874,14 @@
   "length_ft": null,
   "year": 1998,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 18000
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-6CNFSELACE2MF5evhbV2s5": {
   "id": "cl-6CNFSELACE2MF5evhbV2s5",
@@ -8771,7 +8899,7 @@
     "price": 9800
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-e5jgUzE22JEd8kfnNDAEAx": {
   "id": "cl-e5jgUzE22JEd8kfnNDAEAx",
@@ -8793,7 +8921,7 @@
     "price": 25000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-cNSRqSidMzrFKTQP88EZJu": {
   "id": "cl-cNSRqSidMzrFKTQP88EZJu",
@@ -8811,7 +8939,7 @@
     "price": 3200
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-p19paS8zywPsXcckoGSYmx": {
   "id": "cl-p19paS8zywPsXcckoGSYmx",
@@ -8829,7 +8957,7 @@
     "price": 25000
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-dMfBX8mgwVa4iQHKfoErKj": {
   "id": "cl-dMfBX8mgwVa4iQHKfoErKj",
@@ -8840,14 +8968,14 @@
   "length_ft": null,
   "year": 2017,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 25000
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-7GAiKaAF453YFbVaeE6ig8": {
   "id": "cl-7GAiKaAF453YFbVaeE6ig8",
@@ -8869,7 +8997,7 @@
     "price": 19500
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-tErbpYS8sa3N3xy542uYLm": {
   "id": "cl-tErbpYS8sa3N3xy542uYLm",
@@ -8891,7 +9019,7 @@
     "price": 19500
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-64WsuXKfsxhFKkGjkmxQ9A": {
   "id": "cl-64WsuXKfsxhFKkGjkmxQ9A",
@@ -8902,7 +9030,7 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -8918,13 +9046,13 @@
  "cl-uxPvPfAcrZ4uqv9V77Hhun": {
   "id": "cl-uxPvPfAcrZ4uqv9V77Hhun",
   "source": "craigslist",
-  "title": "Twin Diesel Live Aboard",
+  "title": "Twin diesel live abord",
   "location": "City of San Diego",
   "url": "https://www.craigslist.org/view/d/brisbane-twin-diesel-live-abord/uxPvPfAcrZ4uqv9V77Hhun",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -8957,7 +9085,7 @@
     "price": 7500
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-s7iN4mvB2U39p47Ug6xv6z": {
   "id": "cl-s7iN4mvB2U39p47Ug6xv6z",
@@ -8979,7 +9107,7 @@
     "price": 7500
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-3QQWifn7SdTs6rpbERD2La": {
   "id": "cl-3QQWifn7SdTs6rpbERD2La",
@@ -9001,7 +9129,7 @@
     "price": 7500
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-mCBeEY7tY2UTE78dRCnkCD": {
   "id": "cl-mCBeEY7tY2UTE78dRCnkCD",
@@ -9019,7 +9147,7 @@
     "price": 50000
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-12RziL3TPYVg8gm3tJtiLo": {
   "id": "cl-12RziL3TPYVg8gm3tJtiLo",
@@ -9030,7 +9158,7 @@
   "length_ft": 25.0,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -9039,9 +9167,13 @@
    {
     "date": "2026-10-05",
     "price": 11900
+   },
+   {
+    "date": "2026-11-07",
+    "price": 9800
    }
   ],
-  "status": "rise"
+  "status": "drop"
  },
  "cl-iG92rDNxHsARj9vCMCyfyn": {
   "id": "cl-iG92rDNxHsARj9vCMCyfyn",
@@ -9059,7 +9191,7 @@
     "price": 25000
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-9i4gXKwJa4hNoThmKxJaga": {
   "id": "cl-9i4gXKwJa4hNoThmKxJaga",
@@ -9070,7 +9202,7 @@
   "length_ft": null,
   "year": 2010,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -9103,7 +9235,7 @@
     "price": 7900
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-qHxVXLszeCiCCwACqoYwUn": {
   "id": "cl-qHxVXLszeCiCCwACqoYwUn",
@@ -9121,7 +9253,7 @@
     "price": 25500
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-23yhTG1mAh2R1nz6Hk84Sn": {
   "id": "cl-23yhTG1mAh2R1nz6Hk84Sn",
@@ -9143,18 +9275,18 @@
     "price": 5900
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-nM6MXpet7LiYLrSh1HTC6B": {
   "id": "cl-nM6MXpet7LiYLrSh1HTC6B",
   "source": "craigslist",
-  "title": "2009 NauticStar Tournament 2400",
+  "title": "2009 NauticStar Tournament 2400 Evinrude ETEC 250hp 143 Hours 598712",
   "location": "Chula Vista",
   "url": "https://www.craigslist.org/view/d/chula-vista-2009-nauticstar-tournament/nM6MXpet7LiYLrSh1HTC6B",
   "length_ft": null,
   "year": 2009,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -9176,7 +9308,7 @@
   "length_ft": null,
   "year": 1993,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -9192,13 +9324,13 @@
  "cl-da8SkNxjJuCJFe9R8rhsqU": {
   "id": "cl-da8SkNxjJuCJFe9R8rhsqU",
   "source": "craigslist",
-  "title": "2004 33' Donzi Center Console",
+  "title": "2004 33&#39; Donzi Center Console only 411 hours like new",
   "location": "San Diego",
   "url": "https://www.craigslist.org/view/d/san-diego-donzi-center-console-only-411/da8SkNxjJuCJFe9R8rhsqU",
   "length_ft": 33.0,
   "year": 2004,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -9231,7 +9363,7 @@
     "price": 15000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-kfAHkP781zwL35G3rHdRQ3": {
   "id": "cl-kfAHkP781zwL35G3rHdRQ3",
@@ -9253,18 +9385,18 @@
     "price": 6000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-7vpXegH9eRtJWgyUropJDN": {
   "id": "cl-7vpXegH9eRtJWgyUropJDN",
   "source": "craigslist",
-  "title": "2000 Regal Commodore 2765",
+  "title": "2000 Regal Commodore 2765 \u2013 Engines Rebuilt \u2013 New Outdrives in 2024",
   "location": "San Diego",
   "url": "https://www.craigslist.org/view/d/san-diego-2000-regal-commodore-engines/7vpXegH9eRtJWgyUropJDN",
   "length_ft": null,
   "year": 2000,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -9273,9 +9405,13 @@
    {
     "date": "2026-10-05",
     "price": 35000
+   },
+   {
+    "date": "2026-11-07",
+    "price": 33000
    }
   ],
-  "status": "rise"
+  "status": "drop"
  },
  "cl-bmqThjamnFfY4ADy3GXcRV": {
   "id": "cl-bmqThjamnFfY4ADy3GXcRV",
@@ -9293,7 +9429,7 @@
     "price": 12000
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-iuHLsTrkN6Pze25ENNxi5C": {
   "id": "cl-iuHLsTrkN6Pze25ENNxi5C",
@@ -9315,7 +9451,7 @@
     "price": 29000
    }
   ],
-  "status": "drop"
+  "status": "gone"
  },
  "cl-q2S3F7LjSrtG72Dqg9aRHC": {
   "id": "cl-q2S3F7LjSrtG72Dqg9aRHC",
@@ -9333,7 +9469,7 @@
     "price": 5000
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-iKfKdUaK5PKpgp16DjZ8H5": {
   "id": "cl-iKfKdUaK5PKpgp16DjZ8H5",
@@ -9344,7 +9480,7 @@
   "length_ft": null,
   "year": 1994,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -9360,20 +9496,20 @@
  "cl-puscrn8NMHfRvaHqjaMVPs": {
   "id": "cl-puscrn8NMHfRvaHqjaMVPs",
   "source": "craigslist",
-  "title": "1992 Reinell 2000 BRXL",
+  "title": "1992 Reinell 2000 brxl",
   "location": "Alpine",
   "url": "https://www.craigslist.org/view/d/alpine-1992-reinell-2000-brxl/puscrn8NMHfRvaHqjaMVPs",
   "length_ft": null,
   "year": 1992,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 7999
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-pqE2txUckcW39B9MBK3Wi4": {
   "id": "cl-pqE2txUckcW39B9MBK3Wi4",
@@ -9384,7 +9520,7 @@
   "length_ft": null,
   "year": 2019,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -9417,25 +9553,25 @@
     "price": 4500
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-435WL9Dm8cQE7kN7sMG1d3": {
   "id": "cl-435WL9Dm8cQE7kN7sMG1d3",
   "source": "craigslist",
-  "title": "Albermarle Sportfisher 27 Express",
+  "title": "Sportfisher Boat Albemarle 27 Express",
   "location": "San Diego",
-  "url": "https://www.craigslist.org/view/d/san-diego-albermarle-sportfisher-27/435WL9Dm8cQE7kN7sMG1d3",
+  "url": "https://www.craigslist.org/view/d/san-diego-sportfisher-boat-albemarle-27/435WL9Dm8cQE7kN7sMG1d3",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 49500
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-9CsWWc4tgVXmGhg6Ujiiep": {
   "id": "cl-9CsWWc4tgVXmGhg6Ujiiep",
@@ -9453,7 +9589,7 @@
     "price": 3800
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-hEFCV7XGWQxYbdNvnKyceq": {
   "id": "cl-hEFCV7XGWQxYbdNvnKyceq",
@@ -9471,7 +9607,7 @@
     "price": 22000
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-1CUFYhL4eASkEitZcQNna8": {
   "id": "cl-1CUFYhL4eASkEitZcQNna8",
@@ -9489,7 +9625,7 @@
     "price": 7500
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-t3bXnfnBWH6dgeneL59nBJ": {
   "id": "cl-t3bXnfnBWH6dgeneL59nBJ",
@@ -9507,7 +9643,7 @@
     "price": 7500
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-qZw8qEszLTbESuKGajz4mD": {
   "id": "cl-qZw8qEszLTbESuKGajz4mD",
@@ -9525,18 +9661,18 @@
     "price": 22000
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-4zfPoV7jmfwDyekMCXEchM": {
   "id": "cl-4zfPoV7jmfwDyekMCXEchM",
   "source": "craigslist",
-  "title": "JETSKI + TRAILER - 2019 SEA-DOO TRIXX",
+  "title": "JETSKI + TRAILER - 2019 SEA-DOO TRIXX - 3 Seats",
   "location": "La Jolla",
   "url": "https://www.craigslist.org/view/d/la-jolla-jetski-trailer-sea-doo-trixx/4zfPoV7jmfwDyekMCXEchM",
   "length_ft": null,
   "year": 2019,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -9569,25 +9705,25 @@
     "price": 29500
    }
   ],
-  "status": "drop"
+  "status": "gone"
  },
  "cl-bWnyyamfM7Mmv39uS8gKn3": {
   "id": "cl-bWnyyamfM7Mmv39uS8gKn3",
   "source": "craigslist",
-  "title": "Tige 22' Ski Boat",
+  "title": "Tige 22\u2019 ski boat",
   "location": "Campo",
   "url": "https://www.craigslist.org/view/d/campo-tige-22-ski-boat/bWnyyamfM7Mmv39uS8gKn3",
   "length_ft": 22.0,
   "year": null,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 11000
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-3QC3fkq2FEjtL96nRHfpgN": {
   "id": "cl-3QC3fkq2FEjtL96nRHfpgN",
@@ -9598,7 +9734,7 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -9631,7 +9767,7 @@
     "price": 3000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-jin8NBdSUH8NWZCUeLv71R": {
   "id": "cl-jin8NBdSUH8NWZCUeLv71R",
@@ -9649,25 +9785,25 @@
     "price": 18000
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-3M8Kv8vArzB8Ux4AEjAgU8": {
   "id": "cl-3M8Kv8vArzB8Ux4AEjAgU8",
   "source": "craigslist",
-  "title": "Handcrafted Whitehall Rowboat",
+  "title": "Handcrafted Whitehall Rowboat \u2013 African Mahogany \u2013 Never Used",
   "location": "San Diego",
   "url": "https://www.craigslist.org/view/d/san-diego-handcrafted-whitehall-rowboat/3M8Kv8vArzB8Ux4AEjAgU8",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-10-05",
     "price": 20000
    }
   ],
-  "status": "new"
+  "status": "active"
  },
  "cl-pKdX4Y4kRBnh91Ki4Jfc1J": {
   "id": "cl-pKdX4Y4kRBnh91Ki4Jfc1J",
@@ -9689,18 +9825,18 @@
     "price": 18500
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-hM9gxdXLtbQnoi3uAT4QEE": {
   "id": "cl-hM9gxdXLtbQnoi3uAT4QEE",
   "source": "craigslist",
-  "title": "Beautiful Sailboat for Sale!",
+  "title": "Beautiful Sailboat for Sale! $9,500 OBO",
   "location": "Chula Vista",
   "url": "https://www.craigslist.org/view/d/chula-vista-beautiful-sailboat-for-sale/hM9gxdXLtbQnoi3uAT4QEE",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -9729,7 +9865,7 @@
     "price": 14000
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-txubN2es2YFxCCzodgG7dp": {
   "id": "cl-txubN2es2YFxCCzodgG7dp",
@@ -9751,7 +9887,7 @@
     "price": 4800
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-ku1guQ6ysCj4Rov5J1vb23": {
   "id": "cl-ku1guQ6ysCj4Rov5J1vb23",
@@ -9769,18 +9905,18 @@
     "price": 16500
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-jDhHPTWom9sW6BvrDrxpVr": {
   "id": "cl-jDhHPTWom9sW6BvrDrxpVr",
   "source": "craigslist",
-  "title": "Foiling Cat RIB 21ft",
+  "title": "Foiling Cat RIB  21ft",
   "location": "Point Loma",
   "url": "https://www.craigslist.org/view/d/san-diego-foiling-cat-rib-21ft/jDhHPTWom9sW6BvrDrxpVr",
   "length_ft": 21.0,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -9802,7 +9938,7 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -9824,7 +9960,7 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -9846,7 +9982,7 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -9879,7 +10015,7 @@
     "price": 32000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-frW1zhkTznfLvHv65V4XRM": {
   "id": "cl-frW1zhkTznfLvHv65V4XRM",
@@ -9897,7 +10033,7 @@
     "price": 7000
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-ft1DYfdKSuZ9oqqC74aJYk": {
   "id": "cl-ft1DYfdKSuZ9oqqC74aJYk",
@@ -9919,7 +10055,7 @@
     "price": 9500
    }
   ],
-  "status": "drop"
+  "status": "gone"
  },
  "cl-jK4Wxd4hSwACGqw9azXEcT": {
   "id": "cl-jK4Wxd4hSwACGqw9azXEcT",
@@ -9937,7 +10073,7 @@
     "price": 19900
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-eLwmo5ujg5vqgZqimHwpKj": {
   "id": "cl-eLwmo5ujg5vqgZqimHwpKj",
@@ -9955,7 +10091,7 @@
     "price": 59900
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-1uRByKidSokXknze7qocVG": {
   "id": "cl-1uRByKidSokXknze7qocVG",
@@ -9973,7 +10109,7 @@
     "price": 25500
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-s2Kje7hoRvt8Xj9n4yCanA": {
   "id": "cl-s2Kje7hoRvt8Xj9n4yCanA",
@@ -9995,7 +10131,7 @@
     "price": 15000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-cGGgWvdyuJhqdySYyUt1Lz": {
   "id": "cl-cGGgWvdyuJhqdySYyUt1Lz",
@@ -10013,7 +10149,7 @@
     "price": 15000
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-ov5zN43Xh1e44uxThPMGuF": {
   "id": "cl-ov5zN43Xh1e44uxThPMGuF",
@@ -10031,7 +10167,7 @@
     "price": 3800
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-6weL3o9NJNSa7AmvWrZ5rR": {
   "id": "cl-6weL3o9NJNSa7AmvWrZ5rR",
@@ -10053,7 +10189,7 @@
     "price": 34000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-miDhRav8qhrGMUWsy4HAin": {
   "id": "cl-miDhRav8qhrGMUWsy4HAin",
@@ -10071,7 +10207,7 @@
     "price": 15000
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-1JXESAqEGB2wj9ZioVaWuH": {
   "id": "cl-1JXESAqEGB2wj9ZioVaWuH",
@@ -10089,7 +10225,7 @@
     "price": 26990
    }
   ],
-  "status": "new"
+  "status": "gone"
  },
  "cl-cgCupgVrXHgcoVy6ayVYgW": {
   "id": "cl-cgCupgVrXHgcoVy6ayVYgW",
@@ -10100,7 +10236,7 @@
   "length_ft": null,
   "year": 2003,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -10109,9 +10245,13 @@
    {
     "date": "2026-10-05",
     "price": 6795
+   },
+   {
+    "date": "2026-11-07",
+    "price": 5995
    }
   ],
-  "status": "rise"
+  "status": "drop"
  },
  "cl-puWGjcELNWSLrBpzbcWB4f": {
   "id": "cl-puWGjcELNWSLrBpzbcWB4f",
@@ -10133,7 +10273,7 @@
     "price": 6795
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-1tyA2ATd9FpXAFtigvxZk1": {
   "id": "cl-1tyA2ATd9FpXAFtigvxZk1",
@@ -10155,7 +10295,7 @@
     "price": 15000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-5hNEj7aSWbgrtDmL5z6mbe": {
   "id": "cl-5hNEj7aSWbgrtDmL5z6mbe",
@@ -10177,18 +10317,18 @@
     "price": 37200
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-bMhMFkjX5vUnQ1jM7ZKcPR": {
   "id": "cl-bMhMFkjX5vUnQ1jM7ZKcPR",
   "source": "craigslist",
-  "title": "1947 Chris Craft U-22 Sportsman",
+  "title": "1947 Chris Craft U-22 Sportsman  / Completely Restored",
   "location": "City of San Diego",
   "url": "https://www.craigslist.org/view/d/san-diego-1947-chris-craft-22-sportsman/bMhMFkjX5vUnQ1jM7ZKcPR",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -10221,7 +10361,7 @@
     "price": 3900
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-9Eik4pw7HvZd2X6WhHDLXY": {
   "id": "cl-9Eik4pw7HvZd2X6WhHDLXY",
@@ -10243,18 +10383,18 @@
     "price": 4500
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-aqDnDVfAm7C3FKbMyZR6yy": {
   "id": "cl-aqDnDVfAm7C3FKbMyZR6yy",
   "source": "craigslist",
-  "title": "VICTORY 21 SAILBOAT",
+  "title": "VICTORY 21 SAILBOAT PLUS CUSTOM TRAILER",
   "location": "Oceanside",
   "url": "https://www.craigslist.org/view/d/oceanside-victory-21-sailboat-plus/aqDnDVfAm7C3FKbMyZR6yy",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -10287,7 +10427,7 @@
     "price": 9200
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-5SEjPc4YAJBT3G9cfghHpd": {
   "id": "cl-5SEjPc4YAJBT3G9cfghHpd",
@@ -10309,7 +10449,7 @@
     "price": 7200
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-ahXcbaBHhvkrbGH9vXmfCs": {
   "id": "cl-ahXcbaBHhvkrbGH9vXmfCs",
@@ -10331,7 +10471,7 @@
     "price": 32000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-8CSJGQEuysJtBnK7xKKqvX": {
   "id": "cl-8CSJGQEuysJtBnK7xKKqvX",
@@ -10353,7 +10493,7 @@
     "price": 11000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-pJzz99QqLRfJWmZqoWS5yg": {
   "id": "cl-pJzz99QqLRfJWmZqoWS5yg",
@@ -10375,7 +10515,7 @@
     "price": 40000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-vqx9STipmFPGUaq6vFfARa": {
   "id": "cl-vqx9STipmFPGUaq6vFfARa",
@@ -10397,7 +10537,7 @@
     "price": 5000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-gSELRbFDUhgwuBM4iSuqnB": {
   "id": "cl-gSELRbFDUhgwuBM4iSuqnB",
@@ -10408,7 +10548,7 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -10441,7 +10581,7 @@
     "price": 7800
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-4HuZJH6vGmc7PmJNjFjGhR": {
   "id": "cl-4HuZJH6vGmc7PmJNjFjGhR",
@@ -10463,7 +10603,7 @@
     "price": 25500
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-vQGcABpF9bJ4tnBjktdFSR": {
   "id": "cl-vQGcABpF9bJ4tnBjktdFSR",
@@ -10485,7 +10625,7 @@
     "price": 59000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-9Mq4X4awhs84nBtsaen1wg": {
   "id": "cl-9Mq4X4awhs84nBtsaen1wg",
@@ -10507,7 +10647,7 @@
     "price": 6600
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-3xQRUmAJqa9Mw6z1HJod7p": {
   "id": "cl-3xQRUmAJqa9Mw6z1HJod7p",
@@ -10529,7 +10669,7 @@
     "price": 30000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-6X4zDmJ2QXnKnZi1fGUoyc": {
   "id": "cl-6X4zDmJ2QXnKnZi1fGUoyc",
@@ -10551,18 +10691,18 @@
     "price": 34000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-35mo8TZrq2ZxmcXg6VSxo6": {
   "id": "cl-35mo8TZrq2ZxmcXg6VSxo6",
   "source": "craigslist",
-  "title": "2530 Parker Fully Turn Key",
+  "title": "2530 Parker fully turn key",
   "location": "City of San Diego",
   "url": "https://www.craigslist.org/view/d/san-diego-2530-parker-fully-turn-key/35mo8TZrq2ZxmcXg6VSxo6",
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -10595,7 +10735,7 @@
     "price": 5600
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-9EFUZ7Nh6mMesnsCL5x2dX": {
   "id": "cl-9EFUZ7Nh6mMesnsCL5x2dX",
@@ -10617,7 +10757,7 @@
     "price": 14995
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-2vBQjpWuLzNTMZ6EVMYSjN": {
   "id": "cl-2vBQjpWuLzNTMZ6EVMYSjN",
@@ -10639,18 +10779,18 @@
     "price": 59900
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-6REqwo9cXhgYYk4bcFpJ8W": {
   "id": "cl-6REqwo9cXhgYYk4bcFpJ8W",
   "source": "craigslist",
-  "title": "1998 Four Winns Horizon",
+  "title": "1998 four winns horizon",
   "location": "City of San Diego",
   "url": "https://www.craigslist.org/view/d/yuma-1998-four-winns-horizon/6REqwo9cXhgYYk4bcFpJ8W",
   "length_ft": null,
   "year": 1998,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
@@ -10683,7 +10823,7 @@
     "price": 32500
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-v4U122USgFyUuwpMd1HH7B": {
   "id": "cl-v4U122USgFyUuwpMd1HH7B",
@@ -10705,7 +10845,7 @@
     "price": 6995
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-7XP3fKgCTyiwqXSRHcrPSj": {
   "id": "cl-7XP3fKgCTyiwqXSRHcrPSj",
@@ -10727,7 +10867,7 @@
     "price": 10000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-4smJaoMPHsbzmvAzU1AKSU": {
   "id": "cl-4smJaoMPHsbzmvAzU1AKSU",
@@ -10749,7 +10889,7 @@
     "price": 16000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-uUx7DNPJrEa4NxTUJCJ3Sj": {
   "id": "cl-uUx7DNPJrEa4NxTUJCJ3Sj",
@@ -10771,7 +10911,7 @@
     "price": 3500
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-s9CmJLHUh7BaeirtTfBe2S": {
   "id": "cl-s9CmJLHUh7BaeirtTfBe2S",
@@ -10793,7 +10933,7 @@
     "price": 12000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-khHwDgomxLWw8tADSdzqqS": {
   "id": "cl-khHwDgomxLWw8tADSdzqqS",
@@ -10815,7 +10955,7 @@
     "price": 35500
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-myfPUMYRTkPd7Yc6XGxGCM": {
   "id": "cl-myfPUMYRTkPd7Yc6XGxGCM",
@@ -10837,7 +10977,7 @@
     "price": 15250
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-cSYg8GRvJg4cUwkh8RiLGR": {
   "id": "cl-cSYg8GRvJg4cUwkh8RiLGR",
@@ -10859,7 +10999,7 @@
     "price": 7500
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-1Uzj9hub7QvAJXBiCQ8BDi": {
   "id": "cl-1Uzj9hub7QvAJXBiCQ8BDi",
@@ -10881,7 +11021,7 @@
     "price": 18500
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-2GpXF5vXApPMtY3gUneq1C": {
   "id": "cl-2GpXF5vXApPMtY3gUneq1C",
@@ -10903,7 +11043,7 @@
     "price": 4700
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-kFFEm4YXJw6QyiYMhGHF1X": {
   "id": "cl-kFFEm4YXJw6QyiYMhGHF1X",
@@ -10925,7 +11065,7 @@
     "price": 7900
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-6KDbSbJV9YWesqdBnsGFh5": {
   "id": "cl-6KDbSbJV9YWesqdBnsGFh5",
@@ -10947,7 +11087,7 @@
     "price": 42900
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-p61mvrKYvatmEfNLju2pvE": {
   "id": "cl-p61mvrKYvatmEfNLju2pvE",
@@ -10969,7 +11109,7 @@
     "price": 4500
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-1FddqHKb1tcwFmEmjWDHAX": {
   "id": "cl-1FddqHKb1tcwFmEmjWDHAX",
@@ -10991,7 +11131,7 @@
     "price": 10800
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-amS51dn74dYXirXfiTb97q": {
   "id": "cl-amS51dn74dYXirXfiTb97q",
@@ -11013,7 +11153,7 @@
     "price": 6000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-994ucV7P59nAXwxLCv9c21": {
   "id": "cl-994ucV7P59nAXwxLCv9c21",
@@ -11035,7 +11175,7 @@
     "price": 3500
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-ktRhokeQMUbgqPUD2kDVj5": {
   "id": "cl-ktRhokeQMUbgqPUD2kDVj5",
@@ -11057,7 +11197,7 @@
     "price": 14500
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-eKau7rXgRirduJ8DbHqjNa": {
   "id": "cl-eKau7rXgRirduJ8DbHqjNa",
@@ -11079,7 +11219,7 @@
     "price": 11900
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-nvSfQhCX43k8cTpF9Ddz7a": {
   "id": "cl-nvSfQhCX43k8cTpF9Ddz7a",
@@ -11101,7 +11241,7 @@
     "price": 35000
    }
   ],
-  "status": "rise"
+  "status": "gone"
  },
  "cl-2Dx74zCrqipK9TqkA8QP3b": {
   "id": "cl-2Dx74zCrqipK9TqkA8QP3b",
@@ -11184,14 +11324,14 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-09-18",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
     "price": 43500
    }
   ],
-  "status": "gone"
+  "status": "active"
  },
  "cl-sGEErf85ChqdjswpFAAXqk": {
   "id": "cl-sGEErf85ChqdjswpFAAXqk",
@@ -11202,14 +11342,14 @@
   "length_ft": null,
   "year": 2001,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-09-18",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
     "price": 15900
    }
   ],
-  "status": "gone"
+  "status": "active"
  },
  "cl-axjSHSgWSdVJvNWMCSfeDk": {
   "id": "cl-axjSHSgWSdVJvNWMCSfeDk",
@@ -11220,14 +11360,14 @@
   "length_ft": null,
   "year": 2001,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-09-18",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
     "price": 15900
    }
   ],
-  "status": "gone"
+  "status": "active"
  },
  "cl-gmCBUmFDEK2PYmWRfNNPiL": {
   "id": "cl-gmCBUmFDEK2PYmWRfNNPiL",
@@ -11274,14 +11414,14 @@
   "length_ft": null,
   "year": 1998,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-09-18",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
     "price": 45000
    }
   ],
-  "status": "gone"
+  "status": "active"
  },
  "cl-7DQDmZ5Y9VRLMc4gf2jads": {
   "id": "cl-7DQDmZ5Y9VRLMc4gf2jads",
@@ -11310,14 +11450,14 @@
   "length_ft": null,
   "year": 1985,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-09-18",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
     "price": 59000
    }
   ],
-  "status": "gone"
+  "status": "active"
  },
  "cl-mUoFCPL38Yz61yJk9RiWQq": {
   "id": "cl-mUoFCPL38Yz61yJk9RiWQq",
@@ -11400,14 +11540,18 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-09-18",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
     "price": 6750
+   },
+   {
+    "date": "2026-11-07",
+    "price": 5750
    }
   ],
-  "status": "gone"
+  "status": "drop"
  },
  "cl-hNcskyQgCDeWCkAVNnYKoY": {
   "id": "cl-hNcskyQgCDeWCkAVNnYKoY",
@@ -11490,14 +11634,18 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-09-18",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
     "price": 4000
+   },
+   {
+    "date": "2026-11-07",
+    "price": 10000
    }
   ],
-  "status": "gone"
+  "status": "rise"
  },
  "cl-dLTq37uh8mQ8aqgfXiqENa": {
   "id": "cl-dLTq37uh8mQ8aqgfXiqENa",
@@ -11562,14 +11710,14 @@
   "length_ft": 26.0,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-09-18",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
     "price": 25500
    }
   ],
-  "status": "gone"
+  "status": "active"
  },
  "cl-2qo6ztcWWp1cXznTNhrMeL": {
   "id": "cl-2qo6ztcWWp1cXznTNhrMeL",
@@ -11652,14 +11800,18 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-09-18",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
     "price": 6500
+   },
+   {
+    "date": "2026-11-07",
+    "price": 5800
    }
   ],
-  "status": "gone"
+  "status": "drop"
  },
  "cl-wZZS57uZQiTnFTVmpzrAJC": {
   "id": "cl-wZZS57uZQiTnFTVmpzrAJC",
@@ -11832,14 +11984,14 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-09-18",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
     "price": 20000
    }
   ],
-  "status": "gone"
+  "status": "active"
  },
  "cl-7qx4wFJFUHc9i9muytVenM": {
   "id": "cl-7qx4wFJFUHc9i9muytVenM",
@@ -11868,14 +12020,18 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-09-18",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
     "price": 5800
+   },
+   {
+    "date": "2026-11-07",
+    "price": 6700
    }
   ],
-  "status": "gone"
+  "status": "rise"
  },
  "cl-1QrXcbPe75ASPsWwJecnxC": {
   "id": "cl-1QrXcbPe75ASPsWwJecnxC",
@@ -11922,14 +12078,14 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-09-18",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
     "price": 4500
    }
   ],
-  "status": "gone"
+  "status": "active"
  },
  "cl-ujqmQSQgTZgzZ8SbKxNcpq": {
   "id": "cl-ujqmQSQgTZgzZ8SbKxNcpq",
@@ -11976,14 +12132,18 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-09-18",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
     "price": 5800
+   },
+   {
+    "date": "2026-11-07",
+    "price": 6700
    }
   ],
-  "status": "gone"
+  "status": "rise"
  },
  "cl-jaFZXZtM3QKJ3VYqToo4pB": {
   "id": "cl-jaFZXZtM3QKJ3VYqToo4pB",
@@ -12102,14 +12262,14 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-09-18",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
     "price": 32000
    }
   ],
-  "status": "gone"
+  "status": "active"
  },
  "cl-xeLEcwfGS8eRMfzcum4C2M": {
   "id": "cl-xeLEcwfGS8eRMfzcum4C2M",
@@ -12570,14 +12730,14 @@
   "length_ft": null,
   "year": null,
   "first_seen": "2026-09-18",
-  "last_seen": "2026-09-18",
+  "last_seen": "2026-11-07",
   "price_history": [
    {
     "date": "2026-09-18",
     "price": 17000
    }
   ],
-  "status": "gone"
+  "status": "active"
  },
  "cl-wAWx8t9e4UaRbUJqHu9EHr": {
   "id": "cl-wAWx8t9e4UaRbUJqHu9EHr",
@@ -13262,5 +13422,2615 @@
    }
   ],
   "status": "gone"
+ },
+ "cl-w81huPiyRdNpAuZ56Q2kRW": {
+  "id": "cl-w81huPiyRdNpAuZ56Q2kRW",
+  "source": "craigslist",
+  "title": "Capri (Catalina) 25",
+  "location": "Point Loma",
+  "url": "https://www.craigslist.org/view/d/san-diego-capri-catalina-25/w81huPiyRdNpAuZ56Q2kRW",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 5250
+   }
+  ],
+  "status": "new"
+ },
+ "cl-4M9u8BG9QXMdYisNxqS34X": {
+  "id": "cl-4M9u8BG9QXMdYisNxqS34X",
+  "source": "craigslist",
+  "title": "Jet skis on trailer",
+  "location": "Oceanside",
+  "url": "https://www.craigslist.org/view/d/oceanside-jet-skis-on-trailer/4M9u8BG9QXMdYisNxqS34X",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 6000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-vQipj7isD3eczpW87s8E3G": {
+  "id": "cl-vQipj7isD3eczpW87s8E3G",
+  "source": "craigslist",
+  "title": "1975 Universal 40&#39; Tri-Cabin Trawler - Twin Lehman Diesels, Surveyed",
+  "location": "Huntington Beach",
+  "url": "https://www.craigslist.org/view/d/huntington-beach-1975-universal-40-tri/vQipj7isD3eczpW87s8E3G",
+  "length_ft": null,
+  "year": 1975,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 45000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-5SHmVg3Yjj36xkecnZ7G2y": {
+  "id": "cl-5SHmVg3Yjj36xkecnZ7G2y",
+  "source": "craigslist",
+  "title": "2022 Bayliner VR6 (22&#39; Bowrider) w/Mercury Outboard &amp; Trailer",
+  "location": "Sea Witch Marine",
+  "url": "https://www.craigslist.org/view/d/vista-2022-bayliner-vr6-22-bowrider/5SHmVg3Yjj36xkecnZ7G2y",
+  "length_ft": null,
+  "year": 2022,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 27300
+   }
+  ],
+  "status": "new"
+ },
+ "cl-mwzPeicG7nh1txeigqc425": {
+  "id": "cl-mwzPeicG7nh1txeigqc425",
+  "source": "craigslist",
+  "title": "2006 Hunter 170 w/trailer and Elec Motor great Cond",
+  "location": "Lake Elsinore",
+  "url": "https://www.craigslist.org/view/d/vista-2006-hunter-170-trailer-and-elec/mwzPeicG7nh1txeigqc425",
+  "length_ft": null,
+  "year": 2006,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 3500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-xgp4VAucuCvu2nRDTYo4Hb": {
+  "id": "cl-xgp4VAucuCvu2nRDTYo4Hb",
+  "source": "craigslist",
+  "title": "Donzi 3250 Hardtop Fishing Cruiser",
+  "location": "Lake Elsinore",
+  "url": "https://www.craigslist.org/view/d/fallbrook-donzi-3250-hardtop-fishing/xgp4VAucuCvu2nRDTYo4Hb",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 18000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-gXHRr28cHK9VQn5juLfvbP": {
+  "id": "cl-gXHRr28cHK9VQn5juLfvbP",
+  "source": "craigslist",
+  "title": "95&#39; 14ft boston whaler rage   open to trades",
+  "location": "san diego",
+  "url": "https://www.craigslist.org/view/d/chula-vista-95-14ft-boston-whaler-rage/gXHRr28cHK9VQn5juLfvbP",
+  "length_ft": 14.0,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 5500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-2K4nxUjtX7RL7XTZ54JQV7": {
+  "id": "cl-2K4nxUjtX7RL7XTZ54JQV7",
+  "source": "craigslist",
+  "title": "2005 Triumph 210 Center Console [aVzaw 111069]",
+  "location": "city of san diego",
+  "url": "https://www.craigslist.org/view/d/chula-vista-2005-triumph-210-center/2K4nxUjtX7RL7XTZ54JQV7",
+  "length_ft": null,
+  "year": 2005,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 9750
+   }
+  ],
+  "status": "new"
+ },
+ "cl-x2tpg6FJzwH67MTgcnfcVq": {
+  "id": "cl-x2tpg6FJzwH67MTgcnfcVq",
+  "source": "craigslist",
+  "title": "2008 Sea Ray Sundancer YImVW * 111054",
+  "location": "city of san diego",
+  "url": "https://www.craigslist.org/view/d/chula-vista-2008-sea-ray-sundancer/x2tpg6FJzwH67MTgcnfcVq",
+  "length_ft": null,
+  "year": 2008,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 34650
+   }
+  ],
+  "status": "new"
+ },
+ "cl-4Wyp32Mc439aGFxo16NQBE": {
+  "id": "cl-4Wyp32Mc439aGFxo16NQBE",
+  "source": "craigslist",
+  "title": "Shamrock 26\u2019 Stalker",
+  "location": "north san diego county",
+  "url": "https://www.craigslist.org/view/d/vista-shamrock-26-stalker/4Wyp32Mc439aGFxo16NQBE",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 15000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-fEmvg9i1qhhXMP9Ek7fHfU": {
+  "id": "cl-fEmvg9i1qhhXMP9Ek7fHfU",
+  "source": "craigslist",
+  "title": "Fast Boat 700hp +- 28ft",
+  "location": "Carlsbad",
+  "url": "https://www.craigslist.org/view/d/carlsbad-fast-boat-700hp-28ft/fEmvg9i1qhhXMP9Ek7fHfU",
+  "length_ft": 28.0,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 13950
+   }
+  ],
+  "status": "new"
+ },
+ "cl-qKk4ruSTteGxkdj8wsHHcc": {
+  "id": "cl-qKk4ruSTteGxkdj8wsHHcc",
+  "source": "craigslist",
+  "title": "Open bow boat for sale",
+  "location": "Oceanside",
+  "url": "https://www.craigslist.org/view/d/vista-open-bow-boat-for-sale/qKk4ruSTteGxkdj8wsHHcc",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 8995
+   }
+  ],
+  "status": "new"
+ },
+ "cl-pfGJYKPH8v383kJ1QLFBqc": {
+  "id": "cl-pfGJYKPH8v383kJ1QLFBqc",
+  "source": "craigslist",
+  "title": "2011 Sea Ray 205 Sport  111031",
+  "location": "city of san diego",
+  "url": "https://www.craigslist.org/view/d/chula-vista-2011-sea-ray-205-sport/pfGJYKPH8v383kJ1QLFBqc",
+  "length_ft": null,
+  "year": 2011,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 10000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-5fBNCovf9d5hkRaP8h1jrY": {
+  "id": "cl-5fBNCovf9d5hkRaP8h1jrY",
+  "source": "craigslist",
+  "title": "1979 Gulfstar37",
+  "location": "south san diego county",
+  "url": "https://www.craigslist.org/view/d/lukeville-1979-gulfstar37/5fBNCovf9d5hkRaP8h1jrY",
+  "length_ft": null,
+  "year": 1979,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 21500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-6zNELUzN9QPUZcy8RnmvyL": {
+  "id": "cl-6zNELUzN9QPUZcy8RnmvyL",
+  "source": "craigslist",
+  "title": "12 foot Novurana luxury tendor",
+  "location": "San Diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-12-foot-novurana-luxury-tendor/6zNELUzN9QPUZcy8RnmvyL",
+  "length_ft": 12.0,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 8875
+   }
+  ],
+  "status": "new"
+ },
+ "cl-5D45feXkjyUyw5nU6P3E34": {
+  "id": "cl-5D45feXkjyUyw5nU6P3E34",
+  "source": "craigslist",
+  "title": "2023 Caribe 11\u2019 RIB with Yamaha 25 hp outboard",
+  "location": "San Diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-2023-caribe-11-rib-with/5D45feXkjyUyw5nU6P3E34",
+  "length_ft": null,
+  "year": 2023,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 7450
+   }
+  ],
+  "status": "new"
+ },
+ "cl-6MLdjKX4V54Bwnb8NuSMTh": {
+  "id": "cl-6MLdjKX4V54Bwnb8NuSMTh",
+  "source": "craigslist",
+  "title": "2023 West Marine 400",
+  "location": "Signal Hill",
+  "url": "https://www.craigslist.org/view/d/signal-hill-2023-west-marine-400/6MLdjKX4V54Bwnb8NuSMTh",
+  "length_ft": null,
+  "year": 2023,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 3000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-4JDo7E1P1cWgnkSz3T1cT8": {
+  "id": "cl-4JDo7E1P1cWgnkSz3T1cT8",
+  "source": "craigslist",
+  "title": "Avon 310 rover (Dinghy)",
+  "location": "Signal Hill",
+  "url": "https://www.craigslist.org/view/d/signal-hill-avon-310-rover-dinghy/4JDo7E1P1cWgnkSz3T1cT8",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 3500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-kMjhVyXGRp1ULpyhDpoJmH": {
+  "id": "cl-kMjhVyXGRp1ULpyhDpoJmH",
+  "source": "craigslist",
+  "title": "New Skipper 10.8",
+  "location": "Signal Hill",
+  "url": "https://www.craigslist.org/view/d/signal-hill-new-skipper-108/kMjhVyXGRp1ULpyhDpoJmH",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 26500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-wgN9ZXaYvgVqNW2hAZXSrR": {
+  "id": "cl-wgN9ZXaYvgVqNW2hAZXSrR",
+  "source": "craigslist",
+  "title": "Walker Bay 310 SLRX w Davit system",
+  "location": "Signal Hill",
+  "url": "https://www.craigslist.org/view/d/signal-hill-walker-bay-310-slrx-davit/wgN9ZXaYvgVqNW2hAZXSrR",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 14200
+   }
+  ],
+  "status": "new"
+ },
+ "cl-mdCyE1sQZ5H6SmXZVqJyqi": {
+  "id": "cl-mdCyE1sQZ5H6SmXZVqJyqi",
+  "source": "craigslist",
+  "title": "Boston Whaler 110 Sport",
+  "location": "Signal Hill",
+  "url": "https://www.craigslist.org/view/d/signal-hill-boston-whaler-110-sport/mdCyE1sQZ5H6SmXZVqJyqi",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 18500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-2LYF1eiK6fQx2An93NDF5J": {
+  "id": "cl-2LYF1eiK6fQx2An93NDF5J",
+  "source": "craigslist",
+  "title": "Caribe T13X (yacht tender)",
+  "location": "Signal Hill",
+  "url": "https://www.craigslist.org/view/d/signal-hill-caribe-t13x-yacht-tender/2LYF1eiK6fQx2An93NDF5J",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 15500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-cB4PgovJ3HXesTyVeCWZpY": {
+  "id": "cl-cB4PgovJ3HXesTyVeCWZpY",
+  "source": "craigslist",
+  "title": "AB 12VS Inflatable Boat",
+  "location": "Signal Hill",
+  "url": "https://www.craigslist.org/view/d/signal-hill-ab-12vs-inflatable-boat/cB4PgovJ3HXesTyVeCWZpY",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 16500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-rPvzuZJkyNkZBLioNCeVsq": {
+  "id": "cl-rPvzuZJkyNkZBLioNCeVsq",
+  "source": "craigslist",
+  "title": "14 Rendova (Must See)",
+  "location": "Signal Hill",
+  "url": "https://www.craigslist.org/view/d/signal-hill-14-rendova-must-see/rPvzuZJkyNkZBLioNCeVsq",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 35000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-nhBVM7agdYAQuDHxRyZdB9": {
+  "id": "cl-nhBVM7agdYAQuDHxRyZdB9",
+  "source": "craigslist",
+  "title": "1990 Tiarra 3300 ($45k in recent upgrades)",
+  "location": "Signal Hill",
+  "url": "https://www.craigslist.org/view/d/signal-hill-1990-tiarra-in-recent/nhBVM7agdYAQuDHxRyZdB9",
+  "length_ft": null,
+  "year": 1990,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 49000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-s74yeVoTEr3bDBQNHe1xkF": {
+  "id": "cl-s74yeVoTEr3bDBQNHe1xkF",
+  "source": "craigslist",
+  "title": "2024 Ranger Z518 Bass Boat with Mercury 150 Pro XS Engine",
+  "location": "Chula Vista",
+  "url": "https://www.craigslist.org/view/d/chula-vista-2024-ranger-z518-bass-boat/s74yeVoTEr3bDBQNHe1xkF",
+  "length_ft": null,
+  "year": 2024,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 33750
+   }
+  ],
+  "status": "new"
+ },
+ "cl-3eHoeoKos6vH5EvPBtYLPi": {
+  "id": "cl-3eHoeoKos6vH5EvPBtYLPi",
+  "source": "craigslist",
+  "title": "2002 Chaparral 21\u2019 Model 220 SSI, Ski Boat, Chevy 5.0/Volvo-Penta OD",
+  "location": "Lake Arrowhead",
+  "url": "https://www.craigslist.org/view/d/lake-arrowhead-2002-chaparral-21-model/3eHoeoKos6vH5EvPBtYLPi",
+  "length_ft": null,
+  "year": 2002,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 18500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-fniER33gm7iLujYDZNKFhK": {
+  "id": "cl-fniER33gm7iLujYDZNKFhK",
+  "source": "craigslist",
+  "title": "1974 Westerly Minotaur 31 foot sit in sand double hull",
+  "location": "Mission bay",
+  "url": "https://www.craigslist.org/view/d/san-diego-1974-westerly-minotaur-31/fniER33gm7iLujYDZNKFhK",
+  "length_ft": 31.0,
+  "year": 1974,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 20000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-fsAG3NPwe3E9H3hfabcwc2": {
+  "id": "cl-fsAG3NPwe3E9H3hfabcwc2",
+  "source": "craigslist",
+  "title": "1980 Mako 238 Walkaround \u2013 24 ft \u2013 Honda 225 \u2013",
+  "location": "Fallbrook",
+  "url": "https://www.craigslist.org/view/d/fallbrook-1980-mako-238-walkaround-24/fsAG3NPwe3E9H3hfabcwc2",
+  "length_ft": 24.0,
+  "year": 1980,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 39000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-vw9v967Fn7eLKpojmJJsS2": {
+  "id": "cl-vw9v967Fn7eLKpojmJJsS2",
+  "source": "craigslist",
+  "title": "Sunbird Neptune 212",
+  "location": "Oceanside",
+  "url": "https://www.craigslist.org/view/d/oceanside-sunbird-neptune-212/vw9v967Fn7eLKpojmJJsS2",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 10600
+   }
+  ],
+  "status": "new"
+ },
+ "cl-pq4R3LdzLQZMPHFbbSRbyL": {
+  "id": "cl-pq4R3LdzLQZMPHFbbSRbyL",
+  "source": "craigslist",
+  "title": "1990 Seaswirl 210 Sportfish-Custom Offshore Rig",
+  "location": "north san diego county",
+  "url": "https://www.craigslist.org/view/d/encinitas-1990-seaswirl-210-sportfish/pq4R3LdzLQZMPHFbbSRbyL",
+  "length_ft": null,
+  "year": 1990,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 27900
+   }
+  ],
+  "status": "new"
+ },
+ "cl-qSAWMnT7Q5jyDwCNpW5gW2": {
+  "id": "cl-qSAWMnT7Q5jyDwCNpW5gW2",
+  "source": "craigslist",
+  "title": "Fatty Knees Sailing dinghy",
+  "location": "city of san diego",
+  "url": "https://www.craigslist.org/view/d/higley-fatty-knees-sailing-dinghy/qSAWMnT7Q5jyDwCNpW5gW2",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 3000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-1Zi7W2UxKFSgudrRFDwNZ1": {
+  "id": "cl-1Zi7W2UxKFSgudrRFDwNZ1",
+  "source": "craigslist",
+  "title": "1977 23&#39; Bayliner Model 2350NS Nisqually Command Bridge Layout",
+  "location": "Ramona",
+  "url": "https://www.craigslist.org/view/d/ramona-bayliner-model-2350ns-nisqually/1Zi7W2UxKFSgudrRFDwNZ1",
+  "length_ft": null,
+  "year": 1977,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 7500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-nSjx44CyFWnZyJwaT8RM8V": {
+  "id": "cl-nSjx44CyFWnZyJwaT8RM8V",
+  "source": "craigslist",
+  "title": "Lobster Boat - Mako 21, Center Console Fishing Boat",
+  "location": "Lemon grove",
+  "url": "https://www.craigslist.org/view/d/spring-valley-lobster-boat-mako-21/nSjx44CyFWnZyJwaT8RM8V",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 11400
+   }
+  ],
+  "status": "new"
+ },
+ "cl-9UXd64RYKzzQeDKjPbQZPT": {
+  "id": "cl-9UXd64RYKzzQeDKjPbQZPT",
+  "source": "craigslist",
+  "title": "2005 maxum 1900 SR",
+  "location": "Lakeside",
+  "url": "https://www.craigslist.org/view/d/el-cajon-2005-maxum-1900-sr/9UXd64RYKzzQeDKjPbQZPT",
+  "length_ft": null,
+  "year": 2005,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 9500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-6QdjR9vxDWsNrXhnZ42hza": {
+  "id": "cl-6QdjR9vxDWsNrXhnZ42hza",
+  "source": "craigslist",
+  "title": "2018 Yamaha WaveRunner VX Cruiser 2-Ski Package + 2 Candock Floating D",
+  "location": "Coronado",
+  "url": "https://www.craigslist.org/view/d/san-diego-2018-yamaha-waverunner-vx/6QdjR9vxDWsNrXhnZ42hza",
+  "length_ft": null,
+  "year": 2018,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 12500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-icQxF7xchPoDXcc7aZiXD6": {
+  "id": "cl-icQxF7xchPoDXcc7aZiXD6",
+  "source": "craigslist",
+  "title": "2005 maxum 1900 SR",
+  "location": "Lakeside",
+  "url": "https://www.craigslist.org/view/d/el-cajon-2005-maxum-1900-sr/icQxF7xchPoDXcc7aZiXD6",
+  "length_ft": null,
+  "year": 2005,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 9500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-i2rgtb7zpWum8UoZaMhoSJ": {
+  "id": "cl-i2rgtb7zpWum8UoZaMhoSJ",
+  "source": "craigslist",
+  "title": "Zodiac F470",
+  "location": "city of san diego",
+  "url": "https://www.craigslist.org/view/d/paso-robles-zodiac-f470/i2rgtb7zpWum8UoZaMhoSJ",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 5500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-k25M14LHgYuaGPkHSmyPQ6": {
+  "id": "cl-k25M14LHgYuaGPkHSmyPQ6",
+  "source": "craigslist",
+  "title": "2001 fourwinns 18  v8 open bow",
+  "location": "north san diego county",
+  "url": "https://www.craigslist.org/view/d/escondido-2001-fourwinns-18-v8-open-bow/k25M14LHgYuaGPkHSmyPQ6",
+  "length_ft": null,
+  "year": 2001,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 6500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-qVbAfrwtxLaMf61PU3DuKw": {
+  "id": "cl-qVbAfrwtxLaMf61PU3DuKw",
+  "source": "craigslist",
+  "title": "2007 aksano performance cat 13 Evinrude 50 hp",
+  "location": "north san diego county",
+  "url": "https://www.craigslist.org/view/d/escondido-2007-aksano-performance-cat/qVbAfrwtxLaMf61PU3DuKw",
+  "length_ft": null,
+  "year": 2007,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 6500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-3vxCtfHQTQFtQWUBucP2VJ": {
+  "id": "cl-3vxCtfHQTQFtQWUBucP2VJ",
+  "source": "craigslist",
+  "title": "2001 bayliner 21 cuddy cabin  5.0",
+  "location": "north san diego county",
+  "url": "https://www.craigslist.org/view/d/escondido-2001-bayliner-21-cuddy-cabin/3vxCtfHQTQFtQWUBucP2VJ",
+  "length_ft": null,
+  "year": 2001,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 7000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-5WQRCC5y8hu1m5a2sboER3": {
+  "id": "cl-5WQRCC5y8hu1m5a2sboER3",
+  "source": "craigslist",
+  "title": "2001 centurion v drive competition wakeboard ski boat",
+  "location": "north san diego county",
+  "url": "https://www.craigslist.org/view/d/escondido-2001-centurion-drive/5WQRCC5y8hu1m5a2sboER3",
+  "length_ft": null,
+  "year": 2001,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 8000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-2sZKrL4ZokAFnfJJLNdMHj": {
+  "id": "cl-2sZKrL4ZokAFnfJJLNdMHj",
+  "source": "craigslist",
+  "title": "2001 monterey 242 cruiser",
+  "location": "north san diego county",
+  "url": "https://www.craigslist.org/view/d/escondido-2001-monterey-242-cruiser/2sZKrL4ZokAFnfJJLNdMHj",
+  "length_ft": null,
+  "year": 2001,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 12000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-3tZozpiQ7BP1CjRbr1t3PM": {
+  "id": "cl-3tZozpiQ7BP1CjRbr1t3PM",
+  "source": "craigslist",
+  "title": "2007 seadoo boat Twin fourstroke engines 310HP",
+  "location": "north san diego county",
+  "url": "https://www.craigslist.org/view/d/escondido-2007-seadoo-boat-twin/3tZozpiQ7BP1CjRbr1t3PM",
+  "length_ft": null,
+  "year": 2007,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 11500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-fRC4KWWBt3ZjWSApJ4MHjd": {
+  "id": "cl-fRC4KWWBt3ZjWSApJ4MHjd",
+  "source": "craigslist",
+  "title": "2007 tige 22 ft open bow",
+  "location": "north san diego county",
+  "url": "https://www.craigslist.org/view/d/escondido-2007-tige-22-ft-open-bow/fRC4KWWBt3ZjWSApJ4MHjd",
+  "length_ft": 22.0,
+  "year": 2007,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 23000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-7mb8LkpZFc8mZNG5yS9Jvx": {
+  "id": "cl-7mb8LkpZFc8mZNG5yS9Jvx",
+  "source": "craigslist",
+  "title": "27&#39; BOAT**Huge Price Drop**DEAL!",
+  "location": "Boulevard, 20 minutes east Alpine CA",
+  "url": "https://www.craigslist.org/view/d/boulevard-27-boathuge-price-dropdeal/7mb8LkpZFc8mZNG5yS9Jvx",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 3000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-sB4DbxUFuw6KaNi9J6eGwb": {
+  "id": "cl-sB4DbxUFuw6KaNi9J6eGwb",
+  "source": "craigslist",
+  "title": "2020 Key West 20&#39; Dual Console w/Yamaha 150hp. 4-Stroke &amp; Trailer",
+  "location": "Sea Witch Marine",
+  "url": "https://www.craigslist.org/view/d/vista-2020-key-west-20-dual-console/sB4DbxUFuw6KaNi9J6eGwb",
+  "length_ft": null,
+  "year": 2020,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 28900
+   }
+  ],
+  "status": "new"
+ },
+ "cl-6smrDbRxkTYpirsbx7XW3Y": {
+  "id": "cl-6smrDbRxkTYpirsbx7XW3Y",
+  "source": "craigslist",
+  "title": "SEA RAY SUNDANCER 260 - JUST DONATED",
+  "location": "SAN DIEGO",
+  "url": "https://www.craigslist.org/view/d/san-diego-sea-ray-sundancer-just-donated/6smrDbRxkTYpirsbx7XW3Y",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 19900
+   }
+  ],
+  "status": "new"
+ },
+ "cl-9dWPovbXyTLLTVk5BoQ6Mo": {
+  "id": "cl-9dWPovbXyTLLTVk5BoQ6Mo",
+  "source": "craigslist",
+  "title": "37&#39; Diesel Sportfisher",
+  "location": "San Diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-37-diesel-sportfisher/9dWPovbXyTLLTVk5BoQ6Mo",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 57995
+   }
+  ],
+  "status": "new"
+ },
+ "cl-dKpSK6iWW3YLaBkFP9ey77": {
+  "id": "cl-dKpSK6iWW3YLaBkFP9ey77",
+  "source": "craigslist",
+  "title": "(NEW LISTING) 36&#39; Catalina MK11 Cruiser/Racer Priced to Sell Now!",
+  "location": "San Diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-new-listing-36-catalina-mk11/dKpSK6iWW3YLaBkFP9ey77",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 57500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-1D15oaMdsZwxnCdG6vHJ3X": {
+  "id": "cl-1D15oaMdsZwxnCdG6vHJ3X",
+  "source": "craigslist",
+  "title": "1995 Yamaha Superjet FX-1",
+  "location": "El Cajon",
+  "url": "https://www.craigslist.org/view/d/el-cajon-1995-yamaha-superjet-fx/1D15oaMdsZwxnCdG6vHJ3X",
+  "length_ft": null,
+  "year": 1995,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 3995
+   }
+  ],
+  "status": "new"
+ },
+ "cl-oFQqJKKoNEBWWoNQQpvgcK": {
+  "id": "cl-oFQqJKKoNEBWWoNQQpvgcK",
+  "source": "craigslist",
+  "title": "1989 MacGregor 26D",
+  "location": "LaMesa",
+  "url": "https://www.craigslist.org/view/d/la-mesa-1989-macgregor-26d/oFQqJKKoNEBWWoNQQpvgcK",
+  "length_ft": null,
+  "year": 1989,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 3000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-mpu4DrkPV566RTERP3khzK": {
+  "id": "cl-mpu4DrkPV566RTERP3khzK",
+  "source": "craigslist",
+  "title": "Hydra-Sports 25 walk around",
+  "location": "city of san diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-hydra-sports-25-walk-around/mpu4DrkPV566RTERP3khzK",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 18950
+   }
+  ],
+  "status": "new"
+ },
+ "cl-pYarsUiw6LaStdKeJA1LEn": {
+  "id": "cl-pYarsUiw6LaStdKeJA1LEn",
+  "source": "craigslist",
+  "title": "1978 Cheoy Lee Offshore 41 - ketch",
+  "location": "Otay Mesa - diy yard",
+  "url": "https://www.craigslist.org/view/d/san-diego-1978-cheoy-lee-offshore-41/pYarsUiw6LaStdKeJA1LEn",
+  "length_ft": null,
+  "year": 1978,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 10000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-xaRAd8SKy5dtoyBhaYvJhg": {
+  "id": "cl-xaRAd8SKy5dtoyBhaYvJhg",
+  "source": "craigslist",
+  "title": "2023 Kawaski Ultra 310x",
+  "location": "El Cajon",
+  "url": "https://www.craigslist.org/view/d/el-cajon-2023-kawaski-ultra-310x/xaRAd8SKy5dtoyBhaYvJhg",
+  "length_ft": null,
+  "year": 2023,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 12000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-uboCWefC1js45PJsYgqY6S": {
+  "id": "cl-uboCWefC1js45PJsYgqY6S",
+  "source": "craigslist",
+  "title": "Catalina 38&#39; sailboat",
+  "location": "San Diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-catalina-38-sailboat/uboCWefC1js45PJsYgqY6S",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 14500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-qqTXrXmzP6Rs3Ctzf9cN4c": {
+  "id": "cl-qqTXrXmzP6Rs3Ctzf9cN4c",
+  "source": "craigslist",
+  "title": "1999 Carver 370 Voyager Flybridge Motor Yacht \u2013 Turn-Key Cruiser in Ex",
+  "location": "Wilmington",
+  "url": "https://www.craigslist.org/view/d/oceanside-1999-carver-370-voyager/qqTXrXmzP6Rs3Ctzf9cN4c",
+  "length_ft": null,
+  "year": 1999,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 59900
+   }
+  ],
+  "status": "new"
+ },
+ "cl-eDdURBBUeo5xkcknLDMkac": {
+  "id": "cl-eDdURBBUeo5xkcknLDMkac",
+  "source": "craigslist",
+  "title": "43\u2019 Egg Harbor Convertible Flybridge Sportfish",
+  "location": "Harbor Island, San Diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-43-egg-harbor-convertible/eDdURBBUeo5xkcknLDMkac",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 59900
+   }
+  ],
+  "status": "new"
+ },
+ "cl-58mxDCt7sreH9EAg1zHnGj": {
+  "id": "cl-58mxDCt7sreH9EAg1zHnGj",
+  "source": "craigslist",
+  "title": "1988 C&amp;C Landfall 39 \u2013 Classic Performance Meets Cruising Comfort",
+  "location": "San Diego",
+  "url": "https://www.craigslist.org/view/d/coronado-1988-cc-landfall-39-classic/58mxDCt7sreH9EAg1zHnGj",
+  "length_ft": null,
+  "year": 1988,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 24500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-3ALcJ5fzRUGbxVNTARSiJ8": {
+  "id": "cl-3ALcJ5fzRUGbxVNTARSiJ8",
+  "source": "craigslist",
+  "title": "2007 Bayliner 175 Bowrider + Boat Trailer",
+  "location": "Santee",
+  "url": "https://www.craigslist.org/view/d/santee-2007-bayliner-175-bowrider-boat/3ALcJ5fzRUGbxVNTARSiJ8",
+  "length_ft": null,
+  "year": 2007,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 6900
+   }
+  ],
+  "status": "new"
+ },
+ "cl-58cXBiaBkyxgwwe42ryeBp": {
+  "id": "cl-58cXBiaBkyxgwwe42ryeBp",
+  "source": "craigslist",
+  "title": "1980 Sabre 34 mk 1 price lowered",
+  "location": "Tucson",
+  "url": "https://www.craigslist.org/view/d/tucson-1980-sabre-34-mk-price-lowered/58cXBiaBkyxgwwe42ryeBp",
+  "length_ft": null,
+  "year": 1980,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 15000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-xgYQxp4EqSwSdLktUSXHmx": {
+  "id": "cl-xgYQxp4EqSwSdLktUSXHmx",
+  "source": "craigslist",
+  "title": "20FT Crestliner Sabre Aluminum Fishing Boat",
+  "location": "Sacramento",
+  "url": "https://www.craigslist.org/view/d/sacramento-20ft-crestliner-sabre/xgYQxp4EqSwSdLktUSXHmx",
+  "length_ft": 20.0,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 4950
+   }
+  ],
+  "status": "new"
+ },
+ "cl-wpN7gdBnto6WcWShswzvce": {
+  "id": "cl-wpN7gdBnto6WcWShswzvce",
+  "source": "craigslist",
+  "title": "32 ft Bayliner",
+  "location": "Chula Vista Marina",
+  "url": "https://www.craigslist.org/view/d/chula-vista-32-ft-bayliner/wpN7gdBnto6WcWShswzvce",
+  "length_ft": 32.0,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 17500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-sX7NUAD4jaPiRsNG9RjRgP": {
+  "id": "cl-sX7NUAD4jaPiRsNG9RjRgP",
+  "source": "craigslist",
+  "title": "2020 23ft center console v6 4 stroke 249 hours like NEW! w trailer gal",
+  "location": "san diego",
+  "url": "https://www.craigslist.org/view/d/la-mesa-ft-center-console-v6-stroke-249/sX7NUAD4jaPiRsNG9RjRgP",
+  "length_ft": 23.0,
+  "year": 2020,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 38500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-bAoVKYFsNJvdiCaGpHoCZP": {
+  "id": "cl-bAoVKYFsNJvdiCaGpHoCZP",
+  "source": "craigslist",
+  "title": "2008  18ft Maxum Family Boat ! Fun, fresh water ONLY ! a great deal!",
+  "location": "San Diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-ft-maxum-family-boat-fun/bAoVKYFsNJvdiCaGpHoCZP",
+  "length_ft": 18.0,
+  "year": 2008,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 5500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-eex9vreYGRSeiAyfSdWG49": {
+  "id": "cl-eex9vreYGRSeiAyfSdWG49",
+  "source": "craigslist",
+  "title": "2021 Yamaha FX SVHO RIVA STAGE 2 $6000+ IN UPGRADES",
+  "location": "Mira Mesa",
+  "url": "https://www.craigslist.org/view/d/san-diego-2021-yamaha-fx-svho-riva/eex9vreYGRSeiAyfSdWG49",
+  "length_ft": null,
+  "year": 2021,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 12000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-33FfbGGRWt4G5cy9iVVr9R": {
+  "id": "cl-33FfbGGRWt4G5cy9iVVr9R",
+  "source": "craigslist",
+  "title": "2000 Gregor Sea Hawk 18 CC (center console)",
+  "location": "Canyon Lake",
+  "url": "https://www.craigslist.org/view/d/menifee-2000-gregor-sea-hawk-18-cc/33FfbGGRWt4G5cy9iVVr9R",
+  "length_ft": null,
+  "year": 2000,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 4500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-t5rpzSSEib2XfcAcXBfKPb": {
+  "id": "cl-t5rpzSSEib2XfcAcXBfKPb",
+  "source": "craigslist",
+  "title": "Ericson 35&#39; MK II sailboat lots of extras",
+  "location": "Mission Bay",
+  "url": "https://www.craigslist.org/view/d/san-diego-ericson-35-mk-ii-sailboat/t5rpzSSEib2XfcAcXBfKPb",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 8003
+   }
+  ],
+  "status": "new"
+ },
+ "cl-1siVcAKS4knVfWeCqXTqj8": {
+  "id": "cl-1siVcAKS4knVfWeCqXTqj8",
+  "source": "craigslist",
+  "title": "18\u2019 3D Tender RIB Boat w/ Suzuki 115HP Low Hour Always Garaged Nice In",
+  "location": "south san diego county",
+  "url": "https://www.craigslist.org/view/d/san-diego-18-3d-tender-rib-boat-suzuki/1siVcAKS4knVfWeCqXTqj8",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 32000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-7q964rYuwC1cRxbGJH4976": {
+  "id": "cl-7q964rYuwC1cRxbGJH4976",
+  "source": "craigslist",
+  "title": "2020 Sea-Doo FishPro Sport 170 HP + Trailer",
+  "location": "Ocean Beach",
+  "url": "https://www.craigslist.org/view/d/san-diego-2020-sea-doo-fishpro-sport/7q964rYuwC1cRxbGJH4976",
+  "length_ft": null,
+  "year": 2020,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 12000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-1qJ1k7gsqWKMrv9rYi6Xbk": {
+  "id": "cl-1qJ1k7gsqWKMrv9rYi6Xbk",
+  "source": "craigslist",
+  "title": "1984 Newport 30 Mark III",
+  "location": "America&#39;s Cup Harbor Mooring",
+  "url": "https://www.craigslist.org/view/d/san-diego-1984-newport-30-mark-iii/1qJ1k7gsqWKMrv9rYi6Xbk",
+  "length_ft": null,
+  "year": 1984,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 9500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-aRTiRReEH2dyZnVVAferEW": {
+  "id": "cl-aRTiRReEH2dyZnVVAferEW",
+  "source": "craigslist",
+  "title": "1998 Sea Ray 180 Bow Rider",
+  "location": "San Diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-1998-sea-ray-180-bow-rider/aRTiRReEH2dyZnVVAferEW",
+  "length_ft": null,
+  "year": 1998,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 3000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-nzPCqMDAeWQa5MV7Jow6Sw": {
+  "id": "cl-nzPCqMDAeWQa5MV7Jow6Sw",
+  "source": "craigslist",
+  "title": "PRICE DROP!!! 1980 BERTRAM 42 CONVERTIBLE SPORTFISHER FOR SALE",
+  "location": "San Diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-price-drop-1980-bertram-42/nzPCqMDAeWQa5MV7Jow6Sw",
+  "length_ft": null,
+  "year": 1980,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 60000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-oz1B6srb44dffX4Jyc3KFa": {
+  "id": "cl-oz1B6srb44dffX4Jyc3KFa",
+  "source": "craigslist",
+  "title": "Livingston Skiff 10&#39; W/ Aluminum Trailer &amp; EPro Motor",
+  "location": "San Clemente",
+  "url": "https://www.craigslist.org/view/d/san-clemente-livingston-skiff-10/oz1B6srb44dffX4Jyc3KFa",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 4200
+   }
+  ],
+  "status": "new"
+ },
+ "cl-3cYDNDupoNdEarPU1in2Dg": {
+  "id": "cl-3cYDNDupoNdEarPU1in2Dg",
+  "source": "craigslist",
+  "title": "2014 Chaparral Signature 270 Excellent Condition",
+  "location": "south san diego county",
+  "url": "https://www.craigslist.org/view/d/imperial-beach-2014-chaparral-signature/3cYDNDupoNdEarPU1in2Dg",
+  "length_ft": null,
+  "year": 2014,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 57700
+   }
+  ],
+  "status": "new"
+ },
+ "cl-31J1jVrednocbdCh4xi7yG": {
+  "id": "cl-31J1jVrednocbdCh4xi7yG",
+  "source": "craigslist",
+  "title": "SEA KAYAK, by CURRENT DESIGNS",
+  "location": "Arizona",
+  "url": "https://www.craigslist.org/view/d/wickenburg-sea-kayak-by-current-designs/31J1jVrednocbdCh4xi7yG",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 3650
+   }
+  ],
+  "status": "new"
+ },
+ "cl-3eWurFmHcviZL8ZiRMdkgr": {
+  "id": "cl-3eWurFmHcviZL8ZiRMdkgr",
+  "source": "craigslist",
+  "title": "Searay 175 with Trailer, 2023 115 hp Mercury 4-Stroke (250 hrs)",
+  "location": "Coronado",
+  "url": "https://www.craigslist.org/view/d/san-diego-searay-175-with-trailer-hp/3eWurFmHcviZL8ZiRMdkgr",
+  "length_ft": null,
+  "year": 2023,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 8800
+   }
+  ],
+  "status": "new"
+ },
+ "cl-k4p7ag37p9QsPFiRLj1UKm": {
+  "id": "cl-k4p7ag37p9QsPFiRLj1UKm",
+  "source": "craigslist",
+  "title": "2008 Bayliner 285 Cruiser w/MerCrusier 350 MAG",
+  "location": "Mission Bay",
+  "url": "https://www.craigslist.org/view/d/san-diego-2008-bayliner-285-cruiser/k4p7ag37p9QsPFiRLj1UKm",
+  "length_ft": null,
+  "year": 2008,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 34900
+   }
+  ],
+  "status": "new"
+ },
+ "cl-aQRxsAEYJKcd2TxxSqVMwV": {
+  "id": "cl-aQRxsAEYJKcd2TxxSqVMwV",
+  "source": "craigslist",
+  "title": "1980 Trismus 37",
+  "location": "Long Beach, CA",
+  "url": "https://www.craigslist.org/view/d/long-beach-1980-trismus-37/aQRxsAEYJKcd2TxxSqVMwV",
+  "length_ft": null,
+  "year": 1980,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 4900
+   }
+  ],
+  "status": "new"
+ },
+ "cl-fDyVQzo4hwbKdRx5ukp4Gx": {
+  "id": "cl-fDyVQzo4hwbKdRx5ukp4Gx",
+  "source": "craigslist",
+  "title": "SAILBOAT FOR SALE",
+  "location": "NATIONAL CITY",
+  "url": "https://www.craigslist.org/view/d/national-city-sailboat-for-sale/fDyVQzo4hwbKdRx5ukp4Gx",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 8000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-wAKw8xWJYKn1PxNWWKxbHY": {
+  "id": "cl-wAKw8xWJYKn1PxNWWKxbHY",
+  "source": "craigslist",
+  "title": "Trawler  Galaxy",
+  "location": "national city",
+  "url": "https://www.craigslist.org/view/d/national-city-trawler-galaxy/wAKw8xWJYKn1PxNWWKxbHY",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 49900
+   }
+  ],
+  "status": "new"
+ },
+ "cl-sTjwQutU4heCSXCU2NFU32": {
+  "id": "cl-sTjwQutU4heCSXCU2NFU32",
+  "source": "craigslist",
+  "title": "1992 Chaparral",
+  "location": "Bonsall",
+  "url": "https://www.craigslist.org/view/d/bonsall-1992-chaparral/sTjwQutU4heCSXCU2NFU32",
+  "length_ft": null,
+  "year": 1992,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 12000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-f18T1njGdFp4kxnf5q3Mqd": {
+  "id": "cl-f18T1njGdFp4kxnf5q3Mqd",
+  "source": "craigslist",
+  "title": "2000 REINELL 18FT 167 hours",
+  "location": "Fallbrook",
+  "url": "https://www.craigslist.org/view/d/fallbrook-2000-reinell-18ft-167-hours/f18T1njGdFp4kxnf5q3Mqd",
+  "length_ft": 18.0,
+  "year": 2000,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 5500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-uBhEmYu5ovEAgPmeQyExgh": {
+  "id": "cl-uBhEmYu5ovEAgPmeQyExgh",
+  "source": "craigslist",
+  "title": "1990 Searay 330",
+  "location": "San Diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-1990-searay-330/uBhEmYu5ovEAgPmeQyExgh",
+  "length_ft": null,
+  "year": 1990,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 5000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-t9o9p2A9UZrbimBvJrryFq": {
+  "id": "cl-t9o9p2A9UZrbimBvJrryFq",
+  "source": "craigslist",
+  "title": "2008 Four Winns 310 Horizon twin Mercrusier 350 MAG on a Hydro Hoist",
+  "location": "San Diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-2008-four-winns-310-horizon/t9o9p2A9UZrbimBvJrryFq",
+  "length_ft": null,
+  "year": 2008,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 59999
+   }
+  ],
+  "status": "new"
+ },
+ "cl-gP6qvohqwXRP9aXi9yRYPy": {
+  "id": "cl-gP6qvohqwXRP9aXi9yRYPy",
+  "source": "craigslist",
+  "title": "Waiverunner XL1200, Kawaski STX 12F + Double trailer",
+  "location": "Elcajon",
+  "url": "https://www.craigslist.org/view/d/el-cajon-waiverunner-xl1200-kawaski-stx/gP6qvohqwXRP9aXi9yRYPy",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 6900
+   }
+  ],
+  "status": "new"
+ },
+ "cl-cw7QGh7ai4eaXZM6Ud72zK": {
+  "id": "cl-cw7QGh7ai4eaXZM6Ud72zK",
+  "source": "craigslist",
+  "title": "24 ft Pontoon Houseboat + Trailer with honda 130 hp outboard motor",
+  "location": "Fallbrook/Temecula",
+  "url": "https://www.craigslist.org/view/d/bonsall-24-ft-pontoon-houseboat-trailer/cw7QGh7ai4eaXZM6Ud72zK",
+  "length_ft": 24.0,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 6995
+   }
+  ],
+  "status": "new"
+ },
+ "cl-7BxKjZCTyrZEc3jXdnwgHP": {
+  "id": "cl-7BxKjZCTyrZEc3jXdnwgHP",
+  "source": "craigslist",
+  "title": "BOSTON WHALER BOAT",
+  "location": "north san diego county",
+  "url": "https://www.craigslist.org/view/d/chino-valley-boston-whaler-boat/7BxKjZCTyrZEc3jXdnwgHP",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 9500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-bECFDADZwxtYuFnVgUwZu6": {
+  "id": "cl-bECFDADZwxtYuFnVgUwZu6",
+  "source": "craigslist",
+  "title": "24 ft Pontoon Houseboat + Trailer with honda 130 hp outboard motor",
+  "location": "Fallbrook/Temecula",
+  "url": "https://www.craigslist.org/view/d/bonsall-24-ft-pontoon-houseboat-trailer/bECFDADZwxtYuFnVgUwZu6",
+  "length_ft": 24.0,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 6995
+   }
+  ],
+  "status": "new"
+ },
+ "cl-i1KZszpsiTBhhokw57XZ1m": {
+  "id": "cl-i1KZszpsiTBhhokw57XZ1m",
+  "source": "craigslist",
+  "title": "26&#39; Anacapri Diesel",
+  "location": "Escondido",
+  "url": "https://www.craigslist.org/view/d/escondido-26-anacapri-diesel/i1KZszpsiTBhhokw57XZ1m",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 12000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-hCaZvfnUkHcbWpgPgv9m9z": {
+  "id": "cl-hCaZvfnUkHcbWpgPgv9m9z",
+  "source": "craigslist",
+  "title": "30&#39; Kettenburg Picnic/Express Restored Diesel Classic Picnic Express",
+  "location": "CFB Marine San Diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-30-kettenburg-picnic-express/hCaZvfnUkHcbWpgPgv9m9z",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 50000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-tUbeZusHnfBzY1DGyGPtgs": {
+  "id": "cl-tUbeZusHnfBzY1DGyGPtgs",
+  "source": "craigslist",
+  "title": "2011 (28&#39;3&quot; length, 9&#39; beam) MasterCraft X80 111003 (only 328 hours!)",
+  "location": "Sunset Cliffs",
+  "url": "https://www.craigslist.org/view/d/san-diego-length-beam-mastercraft-only/tUbeZusHnfBzY1DGyGPtgs",
+  "length_ft": null,
+  "year": 2011,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 50000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-rrDktEsDKWLYppYbwu56vn": {
+  "id": "cl-rrDktEsDKWLYppYbwu56vn",
+  "source": "craigslist",
+  "title": "Refermania Vega Panga",
+  "location": "Montague",
+  "url": "https://www.craigslist.org/view/d/montague-refermania-vega-panga/rrDktEsDKWLYppYbwu56vn",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 11000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-36MyeQc2PqrC4DgjMeH6RM": {
+  "id": "cl-36MyeQc2PqrC4DgjMeH6RM",
+  "source": "craigslist",
+  "title": "2005 Robalo R-240 CC Fishing Boat",
+  "location": "Lake Mead , Boulder City",
+  "url": "https://www.craigslist.org/view/d/fort-mohave-2005-robalo-240-cc-fishing/36MyeQc2PqrC4DgjMeH6RM",
+  "length_ft": null,
+  "year": 2005,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 38000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-7AY3YGdWraGPQBkgiuQwVA": {
+  "id": "cl-7AY3YGdWraGPQBkgiuQwVA",
+  "source": "craigslist",
+  "title": "2003 29&#39; Maxum",
+  "location": "San Diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-maxum/7AY3YGdWraGPQBkgiuQwVA",
+  "length_ft": null,
+  "year": 2003,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 3000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-7m5NDqmPzPvcDudEhTyepj": {
+  "id": "cl-7m5NDqmPzPvcDudEhTyepj",
+  "source": "craigslist",
+  "title": "32 ft 2001 suntracker party cruiser pontoon",
+  "location": "city of san diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-32-ft-2001-suntracker-party/7m5NDqmPzPvcDudEhTyepj",
+  "length_ft": 32.0,
+  "year": 2001,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 16000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-4XzuTEex3iBbHeWET4hhyo": {
+  "id": "cl-4XzuTEex3iBbHeWET4hhyo",
+  "source": "craigslist",
+  "title": "17&#39; Wooden drift boat",
+  "location": "Coronado",
+  "url": "https://www.craigslist.org/view/d/san-diego-17-wooden-drift-boat/4XzuTEex3iBbHeWET4hhyo",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 8000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-6LMsLvQYcKWDTsf6McxxtB": {
+  "id": "cl-6LMsLvQYcKWDTsf6McxxtB",
+  "source": "craigslist",
+  "title": "2021 Yamaha FX Cruiser High Output PWC with 1.9L Engine",
+  "location": "San Diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-2021-yamaha-fx-cruiser-high/6LMsLvQYcKWDTsf6McxxtB",
+  "length_ft": null,
+  "year": 2021,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 11150
+   }
+  ],
+  "status": "new"
+ },
+ "cl-j1246syK5qEnmGyGEskvz2": {
+  "id": "cl-j1246syK5qEnmGyGEskvz2",
+  "source": "craigslist",
+  "title": "Boat 2006 Bayliner",
+  "location": "city of san diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-boat-2006-bayliner/j1246syK5qEnmGyGEskvz2",
+  "length_ft": null,
+  "year": 2006,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 5000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-uqdQyeRPiK9KPgpiFBuHz3": {
+  "id": "cl-uqdQyeRPiK9KPgpiFBuHz3",
+  "source": "craigslist",
+  "title": "2014 Nitro Z9 Bass Boat with 300 HP Mercury Verado Engine",
+  "location": "San Diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-2014-nitro-z9-bass-boat-with/uqdQyeRPiK9KPgpiFBuHz3",
+  "length_ft": null,
+  "year": 2014,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 29900
+   }
+  ],
+  "status": "new"
+ },
+ "cl-k6auhJwk8s4TWEUNNohDhx": {
+  "id": "cl-k6auhJwk8s4TWEUNNohDhx",
+  "source": "craigslist",
+  "title": "2004 2320 Parker Boat",
+  "location": "Elfin Forest",
+  "url": "https://www.craigslist.org/view/d/escondido-parker-boat/k6auhJwk8s4TWEUNNohDhx",
+  "length_ft": null,
+  "year": 2004,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 54000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-7YvKcY8DDV98g6jR7VhhCM": {
+  "id": "cl-7YvKcY8DDV98g6jR7VhhCM",
+  "source": "craigslist",
+  "title": "2024 Sea-Doo Personal Water Craft with Trailer",
+  "location": "El Cajon",
+  "url": "https://www.craigslist.org/view/d/el-cajon-2024-sea-doo-personal-water/7YvKcY8DDV98g6jR7VhhCM",
+  "length_ft": null,
+  "year": 2024,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 18500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-hRjZTX3GMpo5JVpZ2U6ufd": {
+  "id": "cl-hRjZTX3GMpo5JVpZ2U6ufd",
+  "source": "craigslist",
+  "title": "1974 Ericson 32-2 Sailboat",
+  "location": "San Diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-1974-ericson-32-sailboat/hRjZTX3GMpo5JVpZ2U6ufd",
+  "length_ft": null,
+  "year": 1974,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 7800
+   }
+  ],
+  "status": "new"
+ },
+ "cl-8DWddnV99ogv78nWQyKvbx": {
+  "id": "cl-8DWddnV99ogv78nWQyKvbx",
+  "source": "craigslist",
+  "title": "REDUCED: 2022 Avid 21&#39;  Alum. CC Bay Boat, Yamaha 150hp. w/24 Hours",
+  "location": "Sea Witch Marine",
+  "url": "https://www.craigslist.org/view/d/vista-reduced-2022-avid-21-alum-cc-bay/8DWddnV99ogv78nWQyKvbx",
+  "length_ft": null,
+  "year": 2022,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 34700
+   }
+  ],
+  "status": "new"
+ },
+ "cl-pg1PM4c4jSqQ69tKDkRQyf": {
+  "id": "cl-pg1PM4c4jSqQ69tKDkRQyf",
+  "source": "craigslist",
+  "title": "Willard 8-Ton Cutter - PRICE REDUCED",
+  "location": "San Diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-willard-ton-cutter-price/pg1PM4c4jSqQ69tKDkRQyf",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 6200
+   }
+  ],
+  "status": "new"
+ },
+ "cl-6mE929faqHSwv4aGsVcCCk": {
+  "id": "cl-6mE929faqHSwv4aGsVcCCk",
+  "source": "craigslist",
+  "title": "43&#39; Flybridge Sportfisher twin diesel - Egg Harbor",
+  "location": "Harbor Island, San Diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-43-flybridge-sportfisher-twin/6mE929faqHSwv4aGsVcCCk",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 59900
+   }
+  ],
+  "status": "new"
+ },
+ "cl-bqc6Cj1SYzjXmN5SXBwb1v": {
+  "id": "cl-bqc6Cj1SYzjXmN5SXBwb1v",
+  "source": "craigslist",
+  "title": "2009 Donzi 23 ZF offshore fiberglass center console vessel 596712",
+  "location": "Mesa Rock",
+  "url": "https://www.craigslist.org/view/d/escondido-2009-donzi-23-zf-offshore/bqc6Cj1SYzjXmN5SXBwb1v",
+  "length_ft": null,
+  "year": 2009,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 26000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-4q1pu5YJgwjWZmQzFQdfjM": {
+  "id": "cl-4q1pu5YJgwjWZmQzFQdfjM",
+  "source": "craigslist",
+  "title": "2010 19ft Nitro Z7: Direct Injection Outboard 041712 6&quot; Jack Plate",
+  "location": "Mesa Rock",
+  "url": "https://www.craigslist.org/view/d/escondido-ft-nitro-z7-direct-injection/4q1pu5YJgwjWZmQzFQdfjM",
+  "length_ft": 19.0,
+  "year": 2010,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 14900
+   }
+  ],
+  "status": "new"
+ },
+ "cl-aTmMXZXTsaWKqFJxEMZLPT": {
+  "id": "cl-aTmMXZXTsaWKqFJxEMZLPT",
+  "source": "craigslist",
+  "title": "2016 Xcursion 21&#39; Luxury Pontoon Boat 791712CT 4-Stroke &amp; Road Trailer",
+  "location": "Mesa Rock",
+  "url": "https://www.craigslist.org/view/d/escondido-2016-xcursion-21-luxury/aTmMXZXTsaWKqFJxEMZLPT",
+  "length_ft": null,
+  "year": 2016,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 18900
+   }
+  ],
+  "status": "new"
+ },
+ "cl-iERJkowCicT7NV3LdLbLGo": {
+  "id": "cl-iERJkowCicT7NV3LdLbLGo",
+  "source": "craigslist",
+  "title": "2006 blue water",
+  "location": "Fallbrook",
+  "url": "https://www.craigslist.org/view/d/fallbrook-2006-blue-water/iERJkowCicT7NV3LdLbLGo",
+  "length_ft": null,
+  "year": 2006,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 15000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-97Mt2bFDShepYwN7MjJmgi": {
+  "id": "cl-97Mt2bFDShepYwN7MjJmgi",
+  "source": "craigslist",
+  "title": "2000 23\u2019 ABC Pilothouse boat",
+  "location": "east san diego county",
+  "url": "https://www.craigslist.org/view/d/el-cajon-abc-pilothouse-boat/97Mt2bFDShepYwN7MjJmgi",
+  "length_ft": null,
+  "year": 2000,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 60000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-9A1AyP65nFUSM831qhJ7YU": {
+  "id": "cl-9A1AyP65nFUSM831qhJ7YU",
+  "source": "craigslist",
+  "title": "1998 Sea Swirl Offshore Fishing (26 ft) w/ 24-Mile Radar 111016",
+  "location": "La Costa",
+  "url": "https://www.craigslist.org/view/d/carlsbad-1998-sea-swirl-offshore/9A1AyP65nFUSM831qhJ7YU",
+  "length_ft": 26.0,
+  "year": 1998,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 26000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-k7rAQYKs6hz5jGVLdkrcnX": {
+  "id": "cl-k7rAQYKs6hz5jGVLdkrcnX",
+  "source": "craigslist",
+  "title": "1998 Sea Ray 290 Sundancer (29 ft) express cruiser 350MAG 111103",
+  "location": "La Costa",
+  "url": "https://www.craigslist.org/view/d/carlsbad-1998-sea-ray-290-sundancer-29/k7rAQYKs6hz5jGVLdkrcnX",
+  "length_ft": 29.0,
+  "year": 1998,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 17000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-78AyujrMTLyezmdLxGzCYX": {
+  "id": "cl-78AyujrMTLyezmdLxGzCYX",
+  "source": "craigslist",
+  "title": "2006 Ranger 2400 Bay Verado 275 HP Supercharged 4-S571712",
+  "location": "La Costa",
+  "url": "https://www.craigslist.org/view/d/carlsbad-2006-ranger-2400-bay-verado/78AyujrMTLyezmdLxGzCYX",
+  "length_ft": null,
+  "year": 2006,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 29900
+   }
+  ],
+  "status": "new"
+ },
+ "cl-7CimpcxcTU9HbpSynNa54p": {
+  "id": "cl-7CimpcxcTU9HbpSynNa54p",
+  "source": "craigslist",
+  "title": "2001 24&#39; Aquasport 225 Osprey 106712 45 MPH TOP END / 102-GAL FUEL",
+  "location": "La Costa",
+  "url": "https://www.craigslist.org/view/d/carlsbad-aquasport-225-osprey-mph-top/7CimpcxcTU9HbpSynNa54p",
+  "length_ft": null,
+  "year": 2001,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 17800
+   }
+  ],
+  "status": "new"
+ },
+ "cl-xratrit1XHmMHA3gVPppiC": {
+  "id": "cl-xratrit1XHmMHA3gVPppiC",
+  "source": "craigslist",
+  "title": "Sold: Achilles 315 DX",
+  "location": "Signal Hill",
+  "url": "https://www.craigslist.org/view/d/signal-hill-sold-achilles-315-dx/xratrit1XHmMHA3gVPppiC",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 10500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-xmE6k6LLvxF3PZd3qpEFX9": {
+  "id": "cl-xmE6k6LLvxF3PZd3qpEFX9",
+  "source": "craigslist",
+  "title": "NAUTIQUE 40&#39; Aft Cabin. Completely Refit. 1600 total engine hours.",
+  "location": "city of san diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-nautique-40-aft-cabin/xmE6k6LLvxF3PZd3qpEFX9",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 40000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-9dUGJU5VVPHmkeAXwtZV7n": {
+  "id": "cl-9dUGJU5VVPHmkeAXwtZV7n",
+  "source": "craigslist",
+  "title": "2005 Sea Ray 200 Series Boat - 20\u201911\u201d - Current CA Registration",
+  "location": "San Diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-2005-sea-ray-200-series-boat/9dUGJU5VVPHmkeAXwtZV7n",
+  "length_ft": null,
+  "year": 2005,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 18000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-1e6URnvnVcRUHcCCtZRV1y": {
+  "id": "cl-1e6URnvnVcRUHcCCtZRV1y",
+  "source": "craigslist",
+  "title": "2004 BAYLINER 245 sundancer small cabin cruiser Boat $20K",
+  "location": "spring valley",
+  "url": "https://www.craigslist.org/view/d/spring-valley-2004-bayliner-245/1e6URnvnVcRUHcCCtZRV1y",
+  "length_ft": null,
+  "year": 2004,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 9999
+   }
+  ],
+  "status": "new"
+ },
+ "cl-eQvcogbrzcNBf3yyZsPRZd": {
+  "id": "cl-eQvcogbrzcNBf3yyZsPRZd",
+  "source": "craigslist",
+  "title": "Tracker Grizzly 1754 MVX with livescope, power pole",
+  "location": "east san diego county",
+  "url": "https://www.craigslist.org/view/d/la-mesa-tracker-grizzly-1754-mvx-with/eQvcogbrzcNBf3yyZsPRZd",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 13000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-nai85oxYawMTznN4tn5rYp": {
+  "id": "cl-nai85oxYawMTznN4tn5rYp",
+  "source": "craigslist",
+  "title": "23 ft 2012 MasterCraft X30 Wake/Surf Boat 111032 5.7L V8 (290 Hrs)",
+  "location": "Eastlake",
+  "url": "https://www.craigslist.org/view/d/chula-vista-23-ft-2012-mastercraft-x30/nai85oxYawMTznN4tn5rYp",
+  "length_ft": 23.0,
+  "year": 2012,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 25000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-osPQDWmujKAnfuv3hyvQTq": {
+  "id": "cl-osPQDWmujKAnfuv3hyvQTq",
+  "source": "craigslist",
+  "title": "20ft Novurania Rigid Inflatable Boat: Suzuki 200HP Fly-by-Wire 111015",
+  "location": "Otay Ranch Village West",
+  "url": "https://www.craigslist.org/view/d/chula-vista-20ft-novurania-rigid/osPQDWmujKAnfuv3hyvQTq",
+  "length_ft": 20.0,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 24000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-fa9bwoP5YEcq3EapotVc6d": {
+  "id": "cl-fa9bwoP5YEcq3EapotVc6d",
+  "source": "craigslist",
+  "title": "MacGregor 25 ft. Sailboat",
+  "location": "San Diego",
+  "url": "https://www.craigslist.org/view/d/el-cajon-macgregor-25-ft-sailboat/fa9bwoP5YEcq3EapotVc6d",
+  "length_ft": 25.0,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 3500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-2TA5ZQU6ikFobuLdRYZap3": {
+  "id": "cl-2TA5ZQU6ikFobuLdRYZap3",
+  "source": "craigslist",
+  "title": "Need your Duffy/electric boat gone now? Need $$$?",
+  "location": "city of san diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-need-your-duffy-electric-boat/2TA5ZQU6ikFobuLdRYZap3",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 5000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-b9QKD7J55r4zTXu6Wk4imW": {
+  "id": "cl-b9QKD7J55r4zTXu6Wk4imW",
+  "source": "craigslist",
+  "title": "Hand Built Wooden Dory Rowboat 17\u2019",
+  "location": "San Diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-hand-built-wooden-dory/b9QKD7J55r4zTXu6Wk4imW",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 3600
+   }
+  ],
+  "status": "new"
+ },
+ "cl-1hcBUYJTSNe1DTi84Bz6Wc": {
+  "id": "cl-1hcBUYJTSNe1DTi84Bz6Wc",
+  "source": "craigslist",
+  "title": "16&#39; Fishing boat",
+  "location": "Lakeside",
+  "url": "https://www.craigslist.org/view/d/el-cajon-16-fishing-boat/1hcBUYJTSNe1DTi84Bz6Wc",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 7000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-25fGyRwyJTB4c7eGQEWwX2": {
+  "id": "cl-25fGyRwyJTB4c7eGQEWwX2",
+  "source": "craigslist",
+  "title": "2000 Skipjack 262 Flybridge w/Yanmar 315hp diesel &amp; Trailer",
+  "location": "San Diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-2000-skipjack-262-flybridge/25fGyRwyJTB4c7eGQEWwX2",
+  "length_ft": null,
+  "year": 2000,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 59900
+   }
+  ],
+  "status": "new"
+ },
+ "cl-qgsCZ3GMjgXMrEc6i1As81": {
+  "id": "cl-qgsCZ3GMjgXMrEc6i1As81",
+  "source": "craigslist",
+  "title": "1973 Challenger 32 Sailboat",
+  "location": "Harbor Island",
+  "url": "https://www.craigslist.org/view/d/san-diego-1973-challenger-32-sailboat/qgsCZ3GMjgXMrEc6i1As81",
+  "length_ft": null,
+  "year": 1973,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 6000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-fVizB9Lu3jvKzxHW3RjjMQ": {
+  "id": "cl-fVizB9Lu3jvKzxHW3RjjMQ",
+  "source": "craigslist",
+  "title": "1984  Drifter 14 Center consul 2014 Nissan 40 efi",
+  "location": "city of san diego",
+  "url": "https://www.craigslist.org/view/d/alpine-1984-drifter-14-center-consul/fVizB9Lu3jvKzxHW3RjjMQ",
+  "length_ft": null,
+  "year": 1984,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 5800
+   }
+  ],
+  "status": "new"
+ },
+ "cl-rij6xUyM82GG4axxREU1iw": {
+  "id": "cl-rij6xUyM82GG4axxREU1iw",
+  "source": "craigslist",
+  "title": "Hobie tandem island 2 seater sailboat trimaran",
+  "location": "north san diego county",
+  "url": "https://www.craigslist.org/view/d/escondido-hobie-tandem-island-seater/rij6xUyM82GG4axxREU1iw",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 3800
+   }
+  ],
+  "status": "new"
+ },
+ "cl-fQP1e1ikwE5bCKZYfHMpb9": {
+  "id": "cl-fQP1e1ikwE5bCKZYfHMpb9",
+  "source": "craigslist",
+  "title": "2000 Sea ray 190 with v8",
+  "location": "north san diego county",
+  "url": "https://www.craigslist.org/view/d/escondido-2000-sea-ray-190-with-v8/fQP1e1ikwE5bCKZYfHMpb9",
+  "length_ft": null,
+  "year": 2000,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 9000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-vpwacMAuk82R1XF56huTry": {
+  "id": "cl-vpwacMAuk82R1XF56huTry",
+  "source": "craigslist",
+  "title": "2002 Yamaha xl1200  and 1998 Kawasaki",
+  "location": "north san diego county",
+  "url": "https://www.craigslist.org/view/d/escondido-2002-yamaha-xl1200-and-1998/vpwacMAuk82R1XF56huTry",
+  "length_ft": null,
+  "year": 2002,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 3800
+   }
+  ],
+  "status": "new"
+ },
+ "cl-rhN2tH9eBsvujNRq5vtVmb": {
+  "id": "cl-rhN2tH9eBsvujNRq5vtVmb",
+  "source": "craigslist",
+  "title": "2000 Chaparral 230SSI",
+  "location": "San Diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-2000-chaparral-230ssi/rhN2tH9eBsvujNRq5vtVmb",
+  "length_ft": null,
+  "year": 2000,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 17000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-iN78G9s51NNP4LBnxbZBpc": {
+  "id": "cl-iN78G9s51NNP4LBnxbZBpc",
+  "source": "craigslist",
+  "title": "Seaswirl 17&#39; Boat",
+  "location": "Vista",
+  "url": "https://www.craigslist.org/view/d/vista-seaswirl-17-boat/iN78G9s51NNP4LBnxbZBpc",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 4950
+   }
+  ],
+  "status": "new"
+ },
+ "cl-cbxSkFaDkDx61Qwk79mUJg": {
+  "id": "cl-cbxSkFaDkDx61Qwk79mUJg",
+  "source": "craigslist",
+  "title": "1999 SEA PRO  -  24&#39; WALK AROUND FISHING BOAT with CABIN",
+  "location": "SAN DIEGO",
+  "url": "https://www.craigslist.org/view/d/san-diego-1999-sea-pro-24-walk-around/cbxSkFaDkDx61Qwk79mUJg",
+  "length_ft": null,
+  "year": 1999,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 15500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-uQ9iktbwmMn3XaKvNe5HS2": {
+  "id": "cl-uQ9iktbwmMn3XaKvNe5HS2",
+  "source": "craigslist",
+  "title": "1997 Larson 290 Cabrio",
+  "location": "city of san diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-1997-larson-290-cabrio/uQ9iktbwmMn3XaKvNe5HS2",
+  "length_ft": null,
+  "year": 1997,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 6500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-t8dyZ1pCdCgyd884AdNEod": {
+  "id": "cl-t8dyZ1pCdCgyd884AdNEod",
+  "source": "craigslist",
+  "title": "1983 Islander 28 Sailboat \u2013 Oceanside Slip Incl \u2013 Diesel, Autopilot",
+  "location": "Oceanside Harbor",
+  "url": "https://www.craigslist.org/view/d/oceanside-1983-islander-28-sailboat/t8dyZ1pCdCgyd884AdNEod",
+  "length_ft": null,
+  "year": 1983,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 17500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-1dmTuPnYfbkoZXR7AgFh7e": {
+  "id": "cl-1dmTuPnYfbkoZXR7AgFh7e",
+  "source": "craigslist",
+  "title": "28&#39;3&quot; MasterCraft 111003 [TWIN ILMOR V8 / 328 LOW HOURS ]",
+  "location": "La Jolla Shores",
+  "url": "https://www.craigslist.org/view/d/la-jolla-283-mastercraft-twin-ilmor-v8/1dmTuPnYfbkoZXR7AgFh7e",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 50000
+   }
+  ],
+  "status": "new"
+ },
+ "cl-3Ec3uTpqBcaFLAtHSj8WYd": {
+  "id": "cl-3Ec3uTpqBcaFLAtHSj8WYd",
+  "source": "craigslist",
+  "title": "Allied Mistress 39 CC Ketch",
+  "location": "Imperial Beach",
+  "url": "https://www.craigslist.org/view/d/san-diego-allied-mistress-39-cc-ketch/3Ec3uTpqBcaFLAtHSj8WYd",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 24995
+   }
+  ],
+  "status": "new"
+ },
+ "cl-iWV2MzFgetBSxGUuwEGK6b": {
+  "id": "cl-iWV2MzFgetBSxGUuwEGK6b",
+  "source": "craigslist",
+  "title": "43 ft Rhodes Motorsailer  blue water cruiser",
+  "location": "Ensenada (60 miles south of San Diego)",
+  "url": "https://www.craigslist.org/view/d/tecate-43-ft-rhodes-motorsailer-blue/iWV2MzFgetBSxGUuwEGK6b",
+  "length_ft": 43.0,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 16500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-mkruovdgucnvqcnC2ct7S8": {
+  "id": "cl-mkruovdgucnvqcnC2ct7S8",
+  "source": "craigslist",
+  "title": "2019 Waverrunner with Zeman",
+  "location": "El Cajon",
+  "url": "https://www.craigslist.org/view/d/el-cajon-2019-waverrunner-with-zeman/mkruovdgucnvqcnC2ct7S8",
+  "length_ft": null,
+  "year": 2019,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 9900
+   }
+  ],
+  "status": "new"
+ },
+ "cl-qXjfGHNAAA2yrg879nwvHd": {
+  "id": "cl-qXjfGHNAAA2yrg879nwvHd",
+  "source": "craigslist",
+  "title": "GULF PILOTHOUSE - PRICE REDUCED",
+  "location": "CORONADO",
+  "url": "https://www.craigslist.org/view/d/coronado-gulf-pilothouse-price-reduced/qXjfGHNAAA2yrg879nwvHd",
+  "length_ft": null,
+  "year": null,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 6900
+   }
+  ],
+  "status": "new"
+ },
+ "cl-rK6mrgFDFHHzjY8ub3nRiT": {
+  "id": "cl-rK6mrgFDFHHzjY8ub3nRiT",
+  "source": "craigslist",
+  "title": "1976 Mako 20\u2019 Center Console Fishing Boat w/ Trailer \u2013 $4,500 OBO",
+  "location": "city of san diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-1976-mako-20-center-console/rK6mrgFDFHHzjY8ub3nRiT",
+  "length_ft": null,
+  "year": 1976,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 4500
+   }
+  ],
+  "status": "new"
+ },
+ "cl-gAJZ1pjokR7QyrCXHvVFYg": {
+  "id": "cl-gAJZ1pjokR7QyrCXHvVFYg",
+  "source": "craigslist",
+  "title": "Catalina sailboat MK2 1987",
+  "location": "Marina Parkway Chula Vista C,A.",
+  "url": "https://www.craigslist.org/view/d/chula-vista-catalina-sailboat-mk2-1987/gAJZ1pjokR7QyrCXHvVFYg",
+  "length_ft": null,
+  "year": 1987,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 15950
+   }
+  ],
+  "status": "new"
+ },
+ "cl-uNaUaHxuZcks2HkmvHTP36": {
+  "id": "cl-uNaUaHxuZcks2HkmvHTP36",
+  "source": "craigslist",
+  "title": "BEST DEAL !2002 17ft center console yamaha 4 stroke NICE!",
+  "location": "San Diego",
+  "url": "https://www.craigslist.org/view/d/san-diego-best-deal-ft-center-console/uNaUaHxuZcks2HkmvHTP36",
+  "length_ft": 17.0,
+  "year": 2002,
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "price_history": [
+   {
+    "date": "2026-11-07",
+    "price": 8500
+   }
+  ],
+  "status": "new"
  }
 }
